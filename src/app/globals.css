@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Custom Selection Highlight */
+::selection {
+    background-color: #bfdbfe; /* tailwind blue-200 */
+    color: #0f172a; /* tailwind slate-900 */
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f8fafc; /* tailwind slate-50 */
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cbd5e1; /* tailwind slate-300 */
+    border-radius: 8px;
+    border: 2px solid #f8fafc;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8; /* tailwind slate-400 */
+}
+
+/* Subtle Animated Mesh Background */
+.bg-mesh-pattern {
+    background-image: radial-gradient(at 40% 20%, hsla(217, 100%, 97%, 1) 0px, transparent 50%),
+                      radial-gradient(at 80% 0%, hsla(189, 100%, 96%, 1) 0px, transparent 50%),
+                      radial-gradient(at 0% 50%, hsla(217, 100%, 96%, 1) 0px, transparent 50%);
+}

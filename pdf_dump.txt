@@ -1,0 +1,1256 @@
+Digital Transformation 
+Support to UNDP Country 
+Offices in Asia Pacific 
+Deliverable 1: Scoping Report 
+Philippines, Bangladesh, Nepal, Cambodia, Malaysia 
+
+2Mapping of countries across six parameters 
+#Country/ 
+Parameters AI 
+ecosystem 
+maturity DPI 
+ecosystem 
+maturity Digital 
+infrastruct
+ure 
+availability Political 
+stability Stakeholder 
+participation Funding 
+landscape 
+1Malaysia Early 
+Success Maturing Maturing Early 
+Success Early 
+Success Early 
+Success 
+2Cambodia Early 
+Success Early 
+Success Open to 
+adopt Early 
+Success Early 
+Success Early 
+Success 
+3Philippines Early 
+Success Maturing Early 
+Success Early 
+Success Early 
+Success Early 
+Success 
+4Nepal 
+5Bangladesh 
+3Country maturity assessment: AI and DPI ecosystem 
+For representation purpose only 
+Framework for categorisation of parameters (1/2) 
+#Parameter/Cate
+gory Greenfield Open to Adopt Early Success Maturing Role Model 
+1 AI ecosystem 
+maturity No mention of intent 
+to draft a Central AI 
+policy or legislation No national AI strategy 
+OR ad-hoc initiatives 
+only. Government 
+showed intent to 
+adopt AI policy. National AI strategy 
+published; 
+governance 
+frameworks defined; 
+initial public-sector 
+pilots underway Strategy implemented 
+with measurable 
+targets; dedicated 
+budget; regulatory 
+enforcement in 
+practice Dedicated investment 
+for capacity building 
+and R&D for AI, 
+education for 
+public-sector workers 
+with promotion of 
+private actors through 
+investment 
+2 DPI ecosystem 
+maturity Plan/Pilot 
+implementation DPI 
+Asset, or no plans yet 1 foundational DPI 
+operational; limited 
+operability At least 2 foundational 
+DPIs operational and 
+interoperable 3 foundational DPIs 
+operational and 
+interoperable; 2 
+foundational DPIs 
+have at least 50% TAM 
+adoption Foundational DPIs 
+operational, 
+cross-sectoral, and 
+interoperable with 
+widely used 
+use-cases with an 
+Early Succession rate 
+for citizen-linked DPIs 
+to be >70% 
+3 Digital infrastructure 
+availability Electricity or internet 
+penetration <70%; 
+backbone 
+infrastructure 
+incomplete, with no 
+reliable evidence of 
+any expansion 
+underway Electricity or internet 
+penetration <70%; 
+backbone 
+infrastructure 
+incomplete, with 
+expansion underway Electricity & internet 
+penetration - >80% ; 
+basic cloud/data 
+hosting exists Electricity & internet 
+penetration - >95% ; 
+compute-capable 
+data centres; cloud 
+infrastructure ~100% Electricity & 
+Internet penetration, 
+compute and cloud 
+sovereignty, provides 
+infrastructural 
+guidance to other 
+countries Descriptive - 
+Action for UNDP 
+Greenfield 
+Open to Early 
+Succession 
+Early success 
+Maturing 
+ecosystem - 4 
+Role model-5 
+Spider chart 
+Framework for categorisation of parameters (2/2) 
+#Parameter/Cate
+gory Greenfield Open to Adopt Early Success Maturing Role Model 
+4 Political stability Scores for governance 
+indicators (WB) - 
+Political stability - 
+0-20 percentile Scores for governance 
+indicators (WB) - 
+Political stability - 
+20+ - 40 percentile Scores for governance 
+indicators (WB) - 
+Political stability - 
+40+ - 60 percentile Scores for governance 
+indicators (WB) - 
+Political stability - 
+60+ - 80 percentile Scores for governance 
+indicators (WB) - 
+Political stability - 
+80+ - 100 percentile 
+5 Stakeholder 
+participation 
+No formal AI/DPI 
+initiative; no 
+designated lead 
+agency for digital 
+transformation/AI/DPI Single ministry/agency 
+leading DT; limited 
+cross-sector 
+coordination Inter-ministerial 
+coordination 
+mechanism 
+established; structured 
+consultations with 
+private sector, 
+academia, and MDBs; 
+stakeholder input 
+documented in 
+strategy development Institutionalised 
+multi-stakeholder 
+platforms (advisory 
+councils, working 
+groups); regulatory 
+sandboxes; recurring 
+engagement cycles; 
+civil society 
+participation in 
+governance/ethics 
+discussion Continuous co-creation 
+model across 
+government, private 
+sector, academia, and 
+civil society; 
+transparent 
+decision-making 
+6 Funding landscape No dedicated AI/DPI 
+budget; no identifiable 
+funding line Ministry or agency 
+identified; limited 
+annual budget 
+allocation OR 
+externally supported 
+funding - primarily for 
+strategy/pilot Ministry responsible 
+for AI/DPI 
+development and 
+upkeep provided with 
+dedicated budget 
+OR 
+Recurrent investment 
+through partnership 
+with MDBs Sustained multi-year 
+public investment; 
+budget execution 
+rates reported; 
+domestic 
+co-financing 
+mechanisms Long-term strategic or 
+sovereign funding 
+mechanisms; 
+significant R&D 
+allocation, strong 
+domestic VC/private 
+capital ecosystem 
+61.Malaysia 
+2.Cambodia 
+3.Philippines 
+4.Nepal 
+5.Bangladesh Scoping Report 
+71.Malaysia 
+2.Cambodia 
+3.Philippines 
+4.Nepal 
+5.Bangladesh Scoping Report 
+8
+National digital transformation strategy: Malaysia Digital Economy Blueprint 2021-30 I RM70 bn investment in digitalisation 
+Malaysia (1/4) 
+Digital Public Infrastructure (DPI) 
+1➔Implementation status: Implemented 
+➔Program details: MyDigital ID I 2024 I RM80mn allocation 
+➔Implementation agency: My Digital ID Sdn Bhd, Ministry of Digital 
+➔Early Succession: 8.7 million users (~33%) Digital ID 
+2Digital payments system 
+3Data exchange system 
+4 ➔Government service delivery portal: MyGovernment managed 
+by National Digital Department Other DPI assets 
+➔Implementation status: Implemented 
+➔Program details: Real-time Retail Payments Platform I 2018, 
+DuitNow 
+➔Implementation agency: PayNet 
+➔Early Succession: 5.3 bn transactions in 2024, RM5.4T 
+transaction value 
+➔Implementation status: Implemented 
+➔Program details: Malaysian Government Central Data Exchange 
+(MyGDX) I 2018 
+➔Implementation agency: MAMPU (Malaysian Administration Modernization and 
+Management Planning Unit) 
+➔Early Succession:657 users, 35 million transactions 
+Artificial Intelligence(AI) Ecosystem 
+1➔Implementation status: Implemented 
+➔Policy details: Malaysia's Artificial Intelligence Roadmap 
+2021-2025 I 2022 
+➔Implementation agency: Malaysian Ministry of Science, 
+Technology, and Innovation (MOSTI) National AI policy/strategy 
+2AI governance and framework regulations 
+3Data protection and privacy legislation 
+4NAIO is promoting the practical application of AI across sectors 
+Healthcare, Transportation, Agriculture, Public Services, Education 
+and MSME ( More details )Government AI initiatives and projects ➔Implementation status: Implemented 
+➔Policy details: 2 guidelines: 1. The national guidelines on AI 
+governance and ethics; 2. ASEAN guide on AI governance and 
+ethics 
+➔Implementation agency: MOSTI 
+➔Implementation status: Implemented 
+➔Legislation details: Personal Data Protection (Amendment) Act 
+2024 
+➔Implementation agency: Department of Personal Data 
+Protection (JPDP) 
+Maturing 
+Early 
+Success 
+Rank - 24 - 
+Government AI 
+Readiness Index 
+published by Oxford 
+Insights 
+9
+Malaysia (2/4) 
+Availability of infrastructure 
+1
+100% ( UNESCO Readiness assessment methodology )Access to electricity 
+Political stability and institutional 
+capacity 
+4
+Malaysia implemented various strategies and programs to 
+develop digital competencies within the public sector. Key 
+initiatives include: 
+A. Malaysia Digital Economy Blueprint (MDEB) 
+B. Public Sector ICT Strategic Plan 
+C. AI Early Succession in the public sector 
+D. National Talent Framework 
+E. Partnerships with the private sector to provide targeted digital 
+skills training 
+Institutional capacity for policy implementation 
+Maturing 
+Early 
+Success 
+2
+97.7% (UNESCO Readiness assessment methodology )Internet penetration rate 
+3Hosts 32 operational data centres with 19 under construction 
+(UNESCO Readiness assessment methodology )Data centre and cloud infrastructure 
+4
+99.5% ( Department of Statistics, Malaysia )Access to devices 
+5Demographic divide: (Gender, socioeconomic) - None 
+Geographic: (Urban/rural)-None 
+Nearly equal access for men and women, urban and rural areas Digital inclusion gaps 
+1
+44 out of 167 countries (categorised as flawed democracy) Ranking in the Democracy Index 2024 
+2Political stability improved from 2014 to 2024 by ~5 percentage 
+points (67.4 to 72.47) - World Bank Group Improvement in political stability (2014 to 2024) 
+3
+5 years cycle I Previous: Nov 2022 I Upcoming: Nov-Dec 2027 National election cycle 
+Previous and Upcoming Month and Year 
+
+10
+Malaysia (3/4) 
+Mapping of key ecosystem actors 
+ Funding landscape 
+ Maturing 
+Early 
+Success 
+# Category Organisation(s) Role(Decision-maker/im
+plementer/policy 
+influencer) Major initiatives Budget/funding/investm
+ent
+1Government 
+actors 
+(National-level
+)MOSTI, Ministry of Digital (MD), 
+JDN (MAMPU), NAIO, MDEC, 
+MCMC Decision-makers & 
+Implementers: Set national AI 
+roadmaps, ethics guidelines, 
+and digital infrastructure 
+standards. National AI Roadmap 
+2021–2025 (AI-RMap), National 
+Guidelines on AI Governance 
+and Ethics (AIGE), MyDIGITAL. RM285M to MOSTI for AI 
+governance; RM10M for 
+National AI Office (NAIO) 
+(2025 Budget). 
+2 Private actors Petronas, JCorp, YTL, WISE AI, 
+Phison, Google, Microsoft, Grab Implementers & Influencers: 
+Drive AI Early Succession in 
+core sectors (energy, finance, 
+retail) and build physical 
+digital infrastructure. Data centre development 
+(YTL), Smart City initiatives, and 
+cloud region expansions. USD 18B+ foreign AI-related 
+investment (2024); USD 2.2B 
+(Microsoft) & USD 2B 
+(Google). 
+3Development 
+partners and 
+multilaterals UNESCO, ITU, European Union, 
+World Bank, UNDP Policy Influencers & Funders: 
+Provide technical assistance, 
+readiness assessments, and 
+international standard 
+alignment. AI Readiness Assessment 
+Methodology (RAM), UNESCO 
+Ethics Recommendation 
+implementation. Project-based funding (e.g., 
+DFAT Australia for ITU 
+standards project; EU for 
+Ethics tools). 
+4Academic and 
+research 
+institutions UTM, UM, UPM, UKM, CAIRO 
+(UTM), MIMOS Policy Influencers & 
+Implementers: Lead R&D, 
+develop talent pipelines, and 
+contribute technical expertise 
+to ethics frameworks. AI Sandbox 2024 Pilot, Faculty 
+of AI (UTM), National AI 
+Research Consortium. RM50M for AI education in 
+research universities; 
+RM600M for general R&D and 
+AI (2024/2025). 
+5 Civil society IDEAS, Women in AI Malaysia, 
+PIKOM, MIFA Policy Influencers: Advocate for 
+digital inclusion, gender equity, 
+and public awareness of AI 
+ethics. AI literacy campaigns, digital 
+rights advocacy, and 
+industry-society 
+bridge-building. Primarily grant-funded and 
+industry-supported; RM5M 
+government allocation for 
+community engagement. 
+6Philanthropic 
+and funding 
+orgs KWAP, Khazanah (Dana 
+Impak), Cradle Fund, Gobi 
+Partners Funders: Provide venture 
+capital, startup grants, and 
+social impact investments for 
+AI innovation. MYStartup initiatives, AI 
+Sandbox grants, and high-tech 
+venture capital funds. RM114.7B attracted in data 
+centre and cloud 
+investments (2021-2023). WIP - Page X MOSTI has Early 
+Successed the 
+Quadruple Helix model by 
+engaging stakeholders 
+from government, 
+academia, industry, 
+and civil society across 
+various sectors, as well as 
+local and international 
+experts. 
+Regular workshops are 
+organized to share 
+updates with stakeholders 
+and gather additional 
+insights. 
+
+Challenges 
+
+Challenges 
+
+13
+Malaysia (4/4) 
+Emerging opportunities 
+ Potential risks 
+Partnership and engagement opportunities for UNDP 
+1 ➔Expanding the "AI at Work" initiative to enhance efficiency 
+across 10 key socio-economic sectors Public service AI integration 
+2 ➔Utilising the AI Sandbox to increase the number of AI 
+technology companies from 284 to 900 by 2026 Rapid startup growth 
+3 ➔Leveraging the NAIO and the 2024 AIGE guidelines to position 
+Malaysia as a regional hub for ethical AI Regional AI leadership 
+1 ➔Legal infrastructure requires significant updates, particularly in 
+data protection and enforceable ethical standards Governance and regulatory risks 
+2➔A lack of explicit policies addressing AI's impact on cultural 
+preservation and indigenous languages could lead to a loss of 
+national identity Loss of cultural and linguistic heritage 
+3➔There is a high cost and potential over-dependence on 
+foreign AI vendors which can limit homegrown innovation and 
+sovereign control over AI solutions Dependence on foreign Tech 
+1 ➔Working with the Ministry of Digital to establish monitoring 
+systems and policies for sustainable data centers Green AI advocacy 
+2➔Support the Department of National Digital (JDN) in 
+implementing the "Public Sector AI Adaptation Guidelines". 
+UNDP can help design training modules for civil servants Public sector digital literacy 
+3 ➔Collaborate with the AI Sandbox initiative to provide grants 
+and mentorship for startups focusing on AI for Good Strategic innovation-AI Sandbox 
+4 ➔Partner with the NAIO and MOSTI to pilot UNESCO’s EIA tools 
+Ensure that public sector AI Early Succession remains 
+human-centric, transparent, and accountable. Operationalising ethical impact assessments WIP
+141.Malaysia 
+2.Cambodia 
+3.Philippines 
+4.Nepal 
+5.Bangladesh Scoping Report 
+15
+Cambodia (1/4) 
+Digital Public Infrastructure (DPI) 
+1➔Implementation status: Implemented 
+➔Program details: CamDigiKey | 2019 
+➔Implementation agency: Ministry of Economy and Finance 
+➔Adoption: 86k Users Digital ID 
+2Digital payments system 
+3Data exchange system 
+4a. Verify.gov  Cambodia, used for government document 
+verification in Cambodia. Other DPI assets 
+➔Implementation status: Implemented 
+➔Program details: Bakong  I 2020 
+➔Implementation agency: National Bank of Cambodia 
+➔Adoption: 60% adult population as of 2021 
+➔Implementation status: Implemented 
+➔Program details: CamDX I 2020 
+➔Implementation agency: Ministry of Economy and Finance 
+Artificial Intelligence(AI) Ecosystem 
+1➔Implementation status: Drafted 
+➔Policy details: National AI Strategy I 2024 
+➔Implementation agency: Ministry of Post and 
+Telecommunications National AI policy/strategy 
+2AI governance and framework regulations 
+3Data protection and privacy legislation 
+4➔ NEC and the Cambodian Mine Action Center Successfully Predict 
+Landmine 
+➔ National Research Center on AI for Education inaugarated (Nov 2025) 
+➔ Cambodia and Singapore Partner to Develop Khmer Large Language 
+Model Government AI initiatives and projects ➔Implementation status: Drafted 
+➔Policy details: National AI Governance Framework | 2024 
+➔Implementation agency: Ministry of Post and 
+Telecommunications 
+➔Implementation status: Drafted 
+➔Legislation details: Law on Personal Data Protection I 2025 
+➔Implementation agency: Ministry of Post and 
+Telecommunications 
+Early 
+Success 
+Early 
+Success 
+
+16
+Cambodia (2/4) 
+Availability of infrastructure 
+1
+92.3% in 2022 (UNESCO AI Readiness Report) Access to electricity 
+Political stability and institutional 
+capacity 
+4Institutional capacity for policy implementation 
+Open to 
+Adopt 
+Early 
+Success 
+2
+60%+ (ITU) Internet penetration rate 
+34 Commercial Data Centres out of which only 3 are considered 
+modern  (UNESCO AI Readiness Report) Data centre and cloud infrastructure 
+4High % of Mobile Phone ownership, while low penetration of CPU 
+and GPU servers at an institutional level ( Science Council )Access to devices 
+5
+Gender divide more evident in rural areas for digital access Digital inclusion gaps 
+1
+Authoritarian Regime - 123/169 Ranking in the Democracy Index 2024 
+2~10% increase in Percentage points for Political Stability index 
+according to World Bank Improvement in political stability (2014 to 2024) 
+3
+Previous cycle in 2023, next one in 2028 National election cycle 
+Previous and Upcoming Month and Year 
+Project Lead Agency Target Date 
+National Cybersecurity 
+Law MPTC Mid-2026 (Ratification) 
+Personal Data 
+Protection Law MEF / MPTC Late 2026 (Drafted) 
+17
+Cambodia (3/4) 
+Mapping of key ecosystem actors 
+ Funding landscape 
+Early 
+Success 
+Early 
+Success 
+Category Organisation(s) Role Major Initiatives Budget / Funding 
+Government 
+(National) Ministry of Post & 
+Telecom (MPTC) ; MISTI; 
+MoEYS Decision-maker & 
+Lead National AI Strategy (2024-2035) : Focused on 6 
+priorities including "AI for Good" and Khmer LLM 
+development (e.g., Sarika  voice-to-text). Included in the $10.1B national budget; specific AI/Digital 
+R&D is targeted to rise from current 0.09% GDP. 
+Private Actors Techo Startup Center Implementer AI-driven Public Services : Implementation of 
+biometric eID, liveness checks (OCR), and fraud 
+detection in the Bakong payment system. Part of $10B  in registered investment projects; major 
+focus on Fintech and logistics AI. 
+Development 
+Partners UNESCO ; UNDP; Asian 
+Development Bank 
+(ADB) Policy Influencer / 
+Funder RAM Implementation : Turning UNESCO’s 2021 Ethics 
+Recommendations into local laws; $50M ADB loan  
+for digital infrastructure. ~$3.1B in concessional loans/SDRs provided to ADB; 
+UNESCO provides technical expertise via "AI Ethics 
+Experts without Borders." 
+Academic & 
+Research Cambodia Academy of 
+Digital Tech (CADT) ; Implementer / Policy 
+Influencer Research Area in AI for Education (RAIE) : A national 
+hub for interdisciplinary research on AI’s impact on 
+learning and pedagogical ethics. $27M  via STEPCam Phase II (UNESCO/MoEYS) for teacher 
+prep; LBE Research Grants. 
+Civil Society Open Development 
+Cambodia (ODC) ; NGO 
+Forum Watchdog / Policy 
+Influencer Algorithmic Accountability : Monitoring the impacts 
+of AI on data privacy and the gender gap in 
+STEM/Digital Tech. Primarily funded by international grants; focus on 
+transparency in public-sector AI procurement. 
+Philanthropic 
+& Funding Konrad-Adenauer-Stift
+ung (KAS) ; Coca-Cola 
+Foundation Funder / Capacity 
+Builder Digital Insights Series : Funding policy-relevant 
+research to bridge the gap between AI possibility 
+and actual policy action. Variable; focused on "AI Essentials for Work" training for 
+civil servants and SMEs. 
+
+18
+Cambodia (4/4) 
+Emerging opportunities 
+ Potential risks 
+Partnership and engagement opportunities for UNDP 
+1➔ eID has low Early Succession rates in Cambodia, majorly availed for 
+Business-related government service 
+➔ Can make sure marginalized populations aren’t left behind Early Succession of e-ID 
+2 ➔ AI Safety with operationalizing AI Sandboxes for public health and 
+governance National AI Strategy implementation 
+3
+1 ➔ Rapid 5G and AI Early Succession risk leaving rural communities and 
+women behind. Deepening Digital Divide 
+2 ➔ With the Law on Personal Data Protection  still in the 
+drafting/ratification stage, there is a risk of data misuse Data Vulnerability & Privacy 
+3➔ Digital initiatives are currently split across MPTC, MISTI, and MEF along 
+with separate working groups for Digital Initiatives and the National 
+Bank of Cambodia Institutional Fragmentation 
+1➔ UNDP can facilitate knowledge exchange between Cambodia and 
+other regional leaders (like Singapore or Vietnam) on DPI 
+Implementations and institutional infrastructure bottlenecks South-South Cooperation 
+2➔ Building on the UNESCO AI Readiness Assessment , partners can 
+provide technical expertise to help turn ethical recommendations into 
+enforceable local laws. Policy Support for AI Ethics 
+3 ➔ Collaborate with CADT  and UNESCO  on the $27M STEPCam Phase II  to 
+ensure the curriculum includes "Future of Work" skills and AI ethics. Joint Human Capital Initiatives 
+4➔ Work with the Techo Startup Center  to provide grants or technical 
+mentorship for "Impact Tech" startups that solve local developmental 
+challenges using AI. Private Sector De-risking 
+➔ Connectivity in terms of internet and electricity is improving 
+constantly, GPU and CPU servers remain scarce in institutes though Infrastructure Bottlenecks WIP
+191.Malaysia  
+2.Cambodia 
+3.Philippines 
+4.Nepal 
+5.Bangladesh Scoping Report 
+20
+National digital transformation strategy:  Digital transformation is included in the Philippines Development Plan 2023-28 
+Digital Public Infrastructure (DPI) 
+1➔Implementation status: Implemented 
+➔Program details: PhilSys/ PhilID | 2018 | ₱30B
+➔Implementation agency: Philippine Statistics Authority (PSA) 
+➔Early Succession: 90.02 Million registered (~80% Population) Digital ID 
+2Digital payments system 
+3Data exchange system 
+4a. Government service delivery portal: eGov PH Portal 
+(one-stop-shop for LGU/NGA services). 
+b. Verifiable credentials: PhilSys Check (digital ID authentication) 
+and eTravel system. Other DPI assets 
+➔Implementation status: Implemented 
+➔Program details: InstaPay, PESONet | 2017 
+➔Implementation agency: Bangko Sentral ng Pilipinas (BSP) 
+➔Early Succession: ₱24.745 trillion (Total transaction, end of 2025) 
+Artificial Intelligence(AI) Ecosystem 
+1➔ Implementation status: Implemented (Updated) 
+➔ Policy details: National AI Strategy Roadmap 2.0 | 2024 
+➔ Implementation agency: Department of Trade and Industry 
+(DTI) National AI policy/strategy 
+2AI governance and framework regulations 
+3Data protection and privacy legislation 
+4Details: Establishment of the Center for AI Research (CAIR); ALAM 
+Project (machine learning optimization); and iTANONG (AI natural 
+language querying for public info). Government AI initiatives and projects ➔ Implementation status: Planned / In Progress 
+➔ Policy details: AI Regulation Act (AIRA - SB 25 / HB 6028) | 
+2025 | UNESCO AI Readiness Assessment 
+➔ Implementation agency: DTI / DOST / Philippine Congress 
+➔ Implementation status: Implemented 
+➔ Legislation details: Data Privacy Act of 2012 (RA 10173) | 2012 
+➔ Implementation agency: National Privacy Commission 
+(NPC) 
+XX
+ XX
+Philippines (1/4) 
+➔ Implementation status: Implemented 
+➔ Program details: eGov PH Super App & eGovDX | 2024 
+➔ Implementation agency: DICT (Dept. of Information and Communications Technology) 
+➔ Early Succession: 5M+ downloads; 42 out of 75 NGAs  
+integrated. 
+Mature 
+Early 
+Success 
+21
+Availability of infrastructure 
+1
+~97.5% ( World Bank Open Data )Access to electricity 
+Political stability and institutional 
+capacity 
+4Details of ongoing/pipeline initiatives: 
+A. Philippine Digital Infrastructure Project (PDIP): $273M World 
+Bank-funded project to bridge the broadband gap 
+B. National Fiber Backbone (NFB): A multi-phase project aiming 
+to raise fixed broadband penetration to 65% by 2026 
+C. Center for AI Research (CAIR): DTI-led initiative to foster 
+AI-driven innovation and governance Institutional capacity for policy implementation 
+XX
+ XX
+2
+83.8% ( Digital 2026 Report: Philippines )Internet penetration rate 
+328 operational data centres; with 13 upcoming facilities 
+(GlobalNewsWire )Data centre and cloud infrastructure 
+4
+98.6% (Smartphone ownership %; Digital 2026 Report: Philippines )Access to devices 
+5Geographic divide: Significant gap between Metro Manila (~68.7% 
+penetration) and regions like BARMM (27.7%) or Zamboanga (21.2%) 
+Digital inclusion gaps 
+1
+#51 out of 167 countries (categorised as flawed democracy) Ranking in the Democracy Index 2024 
+2+0.1478 points improved (−0.7138 in 2014 to −0.5661 in 2023, World  
+Bank Political Stability Index ).Improvement in political stability (2014 to 2024) 
+36-year presidential cycle | Prev: May 2022 | Next: May 2028 
+3-year midterm cycle (Senate half, House, local) | Prev: May 2025 | 
+Next: May 2028 National election cycle  Previous & Upcoming Month & Year 
+Philippines (2/4) 
+Early 
+Success 
+Early 
+Success 
+22
+Mapping of key ecosystem actors 
+ Funding landscape 
+ XX
+ XX
+Philippines (3/4) 
+# Category Organisation(s) Role (Decision-maker/ implementer/ 
+policy influencer) Major initiatives Budget/funding/ investment 
+1 Government 
+actors 
+(National-level) DICT, DTI, DOST, PSA Decision-makers & Implementers:  
+Set national roadmaps and 
+infrastructure standards eGovPH Superapp, PhilSys, 
+National AI Strategy 
+Roadmap 2.0 ₱18.9 Billion (DICT 2026 
+Proposed Budget) 
+2 Private actors GCash (Mynt), Maya, Globe, 
+PLDT, Grab Implementers & Influencers: Drive 
+digital payments and commercial 
+connectivity Expansion of digital 
+banking (Maya) and 
+e-wallets (GCash) $4.1 Billion (GCash 
+valuation); ~$2B in data 
+centers by 2026 
+3 Development 
+partners and 
+multilaterals UNDP, World Bank, ADB, 
+UNESCO, ILO Policy Influencers & Funders: Provide 
+technical assistance and 
+large-scale loans Digital-PINAS, Philippine 
+Digital Infrastructure 
+Project (PDIP) $378M (World Bank/AIIB 
+Loan); $273M PDIP 
+4 Academic and 
+research 
+institutions UP, DLSU, ADMU, Center for 
+AI Research (CAIR) Policy Influencers & Implementers: 
+Lead R&D and digital talent 
+development AI4RP (Weather 
+Forecasting), GATES 
+Program (Geospatial AI) DOST-funded R&D grants; 
+Startup Venture Fund 
+5 Civil society Foundation for Media 
+Alternatives (FMA), Bulatlat, 
+Rights at the Core Policy Influencers: Advocate for 
+digital rights, privacy, and inclusion "Rights-Respecting Digital 
+Ecosystem" regional 
+briefing Primarily grant-funded 
+(multilateral/philanthropic
+)
+6 Philanthropic and 
+funding orgs AVPN, Joint SDG Fund, 
+Gobi-Core PH Fund Funders:  Provide early-stage capital 
+and social impact investment AI Opportunity Fund 
+(AVPN), Startup QC Grants $80M+ raised  by AI 
+startups in 2024-25 
+Early 
+Success 
+Early 
+Success 
+Philippines(4/4) 
+23
+Emerging opportunities 
+ Potential risks 
+Partnership and engagement opportunities for UNDP 
+1➔Release of NAISR 2.0 and updated DOST AI Roadmap reflects 
+strong government commitment to advancing AI Early 
+Succession Accelerating National AI Policy Momentum 
+2➔ Digital economy drives significant GDP contribution, with above 
+global AI Early Succession and strong projected economic 
+gains Expanding Digital Economy & High AI Adoption 
+3 ➔ Active participation from industry, academia, and civil society 
+supports a whole-of-nation approach to AI development Growing Multi-Stakeholder Engagement on AI 
+1 ➔Absence of a dedicated coordinating mechanism weakens 
+policy coherence and implementation effectiveness Siloed AI Policymaking & Lack of Lead Agency 
+2 ➔Government R&D spending remains below global benchmarks, 
+limiting domestic innovation and ethical AI research outputs Persistent Infrastructure & Connectivity Gaps 
+3 ➔Cyber threats, deepfakes, and potential job displacement 
+raise concerns over public trust and economic stability Public Trust (Cybersec & Labor Disruption Risks) 
+1 ➔Assist in operationalizing a dedicated inter-agency (DTI, DICT, 
+DOST, NEDA) mechanism to address siloed AI challenges Support Establishment of AI Agency Coordination 
+2 ➔ Facilitate initiatives to expand funding, strengthen industry 
+–academia collaboration, and boost domestic AI research Increase Capacity Building and R&D Support 
+3 ➔Support contextualizing AI ethics within Filipino socio-cultural 
+frameworks and promote responsible AI awareness Strengthen Ethical AI Policy Integration 
+4 ➔ Support robust data governance frameworks, cross-sector 
+data sharing mechanisms and AI cybersecurity risk mitigation Enhance Data Governance & Cybersec Frameworks 
+Parameters - scaling according to the features 
+Parameter Early Success Mature Exemplar 
+AI Ecosystem No Nationwide Strategy National Strategy drafted - with multiple 
+stakeholders National Strategy Published and progress 
+made on accomplishing goals 
+DPI Ecosystem 1 DPI implemented, others planned 2 DPIs implemented, others planned/being 
+implemented 3 DPIs implemented and Early 
+Successed by 70%+ of the TAM 
+Digital Infrastructure Physical infrastructure still being laid 
+out as part of increasing connectivity Connectivity to Electricity and Internet above 
+90%Connectivity to E&I above 90% and 
+several Compute capable data centres 
+for low latency compute 
+Political Stability World Bank scores on Political 
+Stability and Democracy Index are 
+low and stable/trending downwards World Bank scores on Political Stability and 
+Democracy Index are low/medium and trending 
+upwards 
+World Bank scores on Political Stability 
+and Democracy Index are high and 
+stable/trending upwards 
+Stakeholder 
+Engagement Specific ministry/agency/working 
+group present in government for 
+digital transformation Ministry responsible for DT has engaged MDBs, 
+ADBs, or UN organizations Ministry responsible for DT actively 
+capacitates small NGOs, startups, PIOs 
+etc. while engaging larger Multilateral 
+Orgs 
+Funding Landscape No explicitly mentioned budget 
+allocated to ministries responsible for 
+DPI/National AI development Ministry responsible for AI/DPI development 
+and upkeep provided with adequate funding 
+with minimal cases of corruption reported 
+OR 
+Recurrent Investment through partnership with 
+MDBs and ADBs Budget explicitly allocated for the 
+development and upkeep of AI/DPI 
+infrastructure, with budget spent % 
+reported on as well 
+25National digital transformation strategy: “ Program name, Year, IA, Budget allocation ”
+Country Name (1/4) 
+Digital Public Infrastructure (DPI) 
+1➔Implementation status: Planned/Pilot/Implemented 
+➔Program details: Name I Year I Budget 
+➔Implementation agency: 
+➔Early Succession: Digital ID 
+2Digital payments system 
+3Data exchange system 
+4a. Government service delivery portal 
+b. Verifiable credentials or any other DPI Asset Other DPI assets 
+➔Implementation status: Planned/Pilot/Implemented 
+➔Program details: Name I Year I Budget 
+➔Implementation agency: 
+➔Early Succession: 
+➔Implementation status: Planned/Pilot/Implemented 
+➔Program details: Name I Year I Budget 
+➔Implementation agency: 
+➔Early Succession: 
+Artificial Intelligence(AI) Ecosystem 
+1➔Implementation status: Planned/Pilot/Implemented 
+➔Policy details: Name I Year I Budget 
+➔Implementation agency: National AI policy/strategy 
+2AI governance and framework regulations 
+3Data protection and privacy legislation 
+4a. Details of ongoing/pipeline initiatives Government AI initiatives and projects ➔Implementation status: Planned/Pilot/Implemented 
+➔Policy details: 
+➔Implementation agency: 
+➔Implementation status: Planned/Pilot/Implemented 
+➔Legislation details: Name I Year 
+➔Implementation agency: Template 
+XX
+ XX
+26
+Country Name (2/4) 
+Availability of infrastructure 
+1
+% (Source) Access to electricity 
+Political stability and institutional 
+capacity 
+4Details of ongoing/pipeline initiatives: 
+A.
+B.
+C.
+Institutional capacity for policy implementation 
+XXTemplate 
+XX
+2
+% (Source) Internet penetration rate 
+3
+No. of data centres, investment in cloud infra  (Source) Data centre and cloud infrastructure 
+4
+% (Source) Access to devices 
+5Demographic divide: (Gender, socioeconomic) 
+Geographic: (Urban/rural) Digital inclusion gaps 
+1
+#Ranking in the Democracy Index 2024 
+2
+Percentage points Improvement in political stability (2014 to 2024) 
+3
+# I Previous elections I Upcoming details National election cycle 
+Previous and Upcoming Month and Year 
+
+27
+Country Name (3/4) 
+Mapping of key ecosystem actors 
+ Funding landscape 
+ XXTemplate 
+Can represent the 
+mapping better 
+XX
+#Category Organisation(s) Role 
+(Decision-maker/im
+plementer/policy 
+influencer) Major initiatives Budget/funding
+/investment 
+1Government actors 
+(National-level) 
+2Private actors 
+3Development partners 
+and multilaterals 
+4Academic and 
+research institutions 
+5Civil society 
+6Philanthropic and 
+funding orgs 
+28
+Country Name (4/4) 
+Emerging opportunities 
+ Potential risks 
+Template 
+Partnership and engagement opportunities for UNDP 
+1➔Description ABC 
+2➔Description ABC 
+3➔Description ABC 
+1➔Description ABC 
+2➔Description ABC 
+3➔Description ABC 
+1➔Description ABC 
+2➔Description ABC 
+3➔Description ABC 
+4➔Description ABC 
+1.Malaysia 
+2.Cambodia 
+3.Philippines 
+4. Nepal 
+5.Bangladesh Scoping Report 
+30
+National digital transformation strategy: Digital Nepal Framework 2.0 and IT Decade Vision 
+Nepal (1/4) 
+Digital Public Infrastructure (DPI) 
+1➔Implementation status: Implemented 
+➔Program details: Rastriya Parichaya Patra; National Identity; 
+Launched in 2018/19 
+➔Implementation agency: Department of National ID and Civil 
+Registration  (DoNIDCR) 
+➔Early Success:  57% of the population has registered Digital ID 
+2Digital payments system 
+3Data exchange system 
+4Nagarik App:  Launched in 2021, it currently offers access to 61 
+public services through a single e-governance platform. 
+SUSASAN: Has  developed digital tools that have been adopted by 
+multiple municipalities in Nepal; a portal that provides data and 
+enables citizens to give feedback to local government Other DPI assets 
+➔ Implementation status: Implemented 
+➔ Program details: National Payments Interface (NPI); Launched in 2024 
+➔ Implementation agency: Nepal Rastra Bank (NRB) 
+➔ Early Success: NCHL processed 186 million transactions, covering 17% of 
+total market volume but 77% of value. Also ~90% of government 
+expenses are digital transactions 
+➔Implementation status: Implemented 
+➔Program details: Government Integrated Data Center (GIDC) 
+➔Implementation agency: Ministry of Communication and  
+Information Technology (MoCIT) 
+➔Early Succession: Has improved the delivery of e-governance 
+Artificial Intelligence(AI) Ecosystem 
+1➔Implementation status: Implemented 
+➔Policy details: National AI Policy, 2082 (2025) 
+➔Implementation agency: Ministry of Communication and  
+Information Technology (MoCIT) National AI policy/strategy 
+2AI governance and framework regulations 
+3Data protection and privacy legislation 
+4Lalitpur Metropolitan City (LMC) : AI-based intelligent traffic light 
+system deployed in major junctions to adjust traffic signals based 
+on real time data 
+SITA: An AI platform that rapidly analyses national datasets and 
+generates detailed insights to help make real time decisions at 
+national level. Government AI initiatives and projects ➔Implementation status: Implemented 
+➔Policy details: National AI Policy, 2082 (2025) 
+➔Implementation agency: Ministry of Communication and  
+Information Technology (MoCIT) 
+➔Implementation status: Implemented 
+➔Legislation details: National Cyber Security Policy, 2023 
+➔Implementation agency: Council of Ministers, Nepal 
+XX
+ XX
+31
+Nepal (2/4) 
+Availability of infrastructure 
+1
+94.0% in 2023 ( World Bank )Access to electricity 
+Political stability and institutional 
+capacity 
+4Participating in the 50-in-5 initiative 
+Institutional capacity for policy implementation 
+XX
+ XX
+2
+56% ( World Bank , as of 2023) Internet penetration rate 
+37 data centres (Internet Society: Pulse )
+Data centre and cloud infrastructure 
+4
+95.5% ( National Statistics Office )Access to devices 
+5
+ Higher internet access rates: Urban areas (65%)  Rural regions 
+(22%) Only 53% have 4G coverage, 5% have fixed broadband and 
+just 56% have used the internet recently ( IT Infrastructure Report )
+Digital inclusion gaps 
+1
+Hybrid Regime: 4.6/10 Ranking in the Democracy Index 2024 
+210.87% increase in Percentage points for Political Stability index 
+(47.94 in 2014 and 58.81 in 2024) ( World Bank )
+Improvement in political stability (2014 to 2024) 
+3National election cycle 
+Previous and Upcoming Month and Year 
+November 2022 | March 2026 
+32
+Nepal (3/4) 
+Mapping of key ecosystem actors 
+ Funding landscape 
+ XX
+ XX
+Category Organisation(s) Role Major initiatives Budget/funding/investment 
+Government actors 
+(National-level) Ministry of Communication and Information 
+Technology, Nepal e-governance board, 
+Fonepay Payment service Ltd, Nepal 
+Telecommunication Authority, Press Council 
+Nepal, Office of the Controller of Certification Decision-makers & 
+Implementers Fonepay has collaborated with NPCI to facilitate 
+UPI payments in Nepal 
+Private actors Leapfrog, F1Soft International,  Verisk Nepal, 
+CloudFactory Nepal, AI Automation Nepal, 
+Fusemachines Nepal 
+Implementers 
+Development 
+partners and 
+multilaterals World Bank, ADB, UNDP, Global Environment 
+Facility, Global Climate Fund 
+Policy Influencers & 
+Funders -In 2021, UNDP Nepal implemented 
+development programmes across Nepal with 
+a total expenditure of $20.4 million 
+-The World Bank and the ADB jointly 
+co-financE the Nepal Digital Transformation 
+Project contributing $50 million and $ 40 
+million respectively 
+Academic and 
+research 
+institutions Open Knowledge Nepal Policy Influencers 
+Civil society Digital Rights Nepal Policy Influencers and 
+Implementers 
+Philanthropic and 
+funding orgs NPCI International Payments Limited (NIPL), 
+AI Association Nepal Funders 
+33
+Nepal (4/4) 
+Emerging opportunities 
+ Potential risks 
+Partnership and engagement opportunities for UNDP 1
+2IFC, Standard Chartered Bank Nepal Limited, and WorldLink 
+Communications Ltd. partner on $29 million project to expand 
+connectivity, create jobs, and drive economic growth 
+31Government Integrated Data Center (GIDC) is understaffed and 
+lacks resources including technical infrastructure which led to 
+outages and data loss across 10–15 agencies in 2023 
+2DPI understanding remains low beyond central ministries, limiting 
+sectoral uptake. Nepal scores 0.439 on the GovTech Index, 
+reflecting weak systems and skills across government 
+3The 2024 Draft Cyber Bill has been criticised for potentially 
+enabling government surveillance and censorship - especially 
+through a proposed national internet gateway - while lacking 
+strong privacy safeguards and adequate public consultation 
+3With concerns around the 2024 Draft Cyber Bill, UNDP could 
+facilitate multi-stakeholder dialogue and technical 
+assistance on data protection and cybersecurity legislation, 
+ensuring alignment with international norms 1Nepal Digital Transformation Project 
+2World Bank approved a $50m loan that aims to strengthen 
+Nepal’s digital public infrastructure and improve the delivery and 
+use of inclusive, high-impact digital government services 
+Broadband and Data Infrastructure Expansion 
+Nepal is not part of the 50-in-5 initiative 
+Given Nepal’s focus on digital infrastructure expansion, there is 
+scope for the country to become a part of the 50-in-5 initiative GIDC lacks resources which results in outages/breaches 
+Weak Systems and Limited Uptake 
+Data Protection Landscape 
+Strengthening of GDIC 
+UNDP could support the institutional strengthening of the 
+Government Integrated Data Center (GIDC) by helping design 
+operational standards, cybersecurity protocols, and workforce 
+capacity programmes for digital infrastructure management 
+Focused Capacity-Building Across High-Priority Ministries 
+Since DPI understanding remains concentrated within central 
+ministries, UNDP could run capacity-building programmes for 
+specific ministries to increase adoption of digital systems Supporting Rights-Based Data Governance 
+1.Malaysia 
+2.Cambodia 
+3.Philippines 
+4.Nepal 
+5. Bangladesh Scoping Report 
+35
+National digital transformation strategy: Smart Bangladesh Vision 2041 
+Bangladesh (1/4) 
+Digital Public Infrastructure (DPI) 
+1➔Implementation status: Implemented 
+➔Program details: National ID I 2016 I Tk 70.63 crore (for 2026-27) 
+➔Implementation agency: Ministry of Home Affairs 
+➔Early Succession: Youth aged 16 or above are now eligible for NID 
+cards and services, as of February 2026 Digital ID 
+2Digital payments system 
+3Data exchange system 
+4
+Doptor: Currently offers 10+ services and 40+ applications to about 
+14k offices and 140k users with data on the entirety of Bangladesh 
+to native and other populations 
+Other DPI assets 
+➔Implementation status: Implemented 
+➔Program details: National Payment Switch Bangladesh I 2012 I 
+➔Implementation agency: Bangladesh Bank 
+➔Early Succession:  Bank-to-MFS transfers fees set at Tk 1.5 per Tk 
+1,000; MFS-to-bank transfers set at Tk 8.5 per Tk 1,000; 2025 
+➔Implementation status: Implemented 
+➔Program details: National E-Service Bus I 2019 
+➔Implementation agency: Bangladesh National Enterprise 
+Architecture (BNEA) 
+➔Early Succession: Being used by 15 Bangladeshi government 
+agencies, as of August 2025 
+Artificial Intelligence(AI) Ecosystem 
+1➔Implementation status: Drafted 
+➔Policy details: National AI Policy Bangladesh 2026-30 (Drafts V1.1 
+and V2.0) 
+➔Implementation agency: The Ministry of Posts, 
+Telecommunications and Information Technology National AI policy/strategy 
+2AI governance and framework regulations 
+3Data protection and privacy legislation 
+4Kagoj AI : Bangladesh's first Artificial Intelligence platform for the 
+Bangla language uses a new Julai  font) Government AI initiatives and projects ➔Implementation status: Drafted 
+Policy details: National AI Policy Bangladesh 2026-30 (Drafts V1.1 
+and V2.0) 
+➔Implementation agency: The Ministry of Posts, 
+Telecommunications and Information Technology 
+➔Implementation status: Implemented 
+➔Legislation details: The Personal Data Protection Ordinance and 
+the Cyber Security Ordinance | 2025 
+➔Implementation agency: The Ministry of Posts, 
+Telecommunications and Information Technology 
+XX
+ XX
+
+36
+Bangladesh (2/4) 
+Availability of infrastructure 
+1
+99.5% in 2023 ( World Bank) Access to electricity 
+Political stability and institutional 
+capacity 
+4 ➔Building a phygital network of over 9000+ data centres 
+➔Interbank payment system to be developed by 2027 
+➔A three phased ICT Division Roadmap (2025-30) 
+➔EkShop: a rural assisted, government e-commerce platform 
+that acts as an " e-commerce infrastructure backbone" for 
+Bangladesh. 
+Institutional capacity for policy implementation 
+XX
+ XX
+2
+45% ( World Bank , as of 2023) Internet penetration rate 
+3
+36 data centres (Internet Society: Pulse )Data centre and cloud infrastructure 
+4
+98.9% ( Bangladesh Bureau of Statistics) Access to devices 
+5Demographic divide : (Gender, socioeconomic) 0.767%, Urban 
+areas : 71.3% of men and 62.4% of women; Rural areas : 36.6% of men 
+and 23% of women (use of internet) Geographic : (Urban/rural) 
+66.8% vs 29.7% ( UNESCO Readiness Assessment Report )Digital inclusion gaps 
+1
+Hybrid Regime: 100/167 ( EIU)Ranking in the Democracy Index 2024 
+27.04% decrease in Percentage points for Political Stability index 
+(51.48 in 2014 and 40.90 in 2024) ( World Bank )
+Improvement in political stability (2014 to 2024) 
+3National election cycle 
+Previous and Upcoming Month and Year 
+January 2024 | February 2026 
+37
+Bangladesh (3/4) 
+Mapping of key ecosystem actors 
+ Funding landscape 
+ XX
+ XX
+Category Organisation(s) Role Major initiatives Budget/funding/investment 
+Govt actors 
+(National-level) MoPTICT, Bangladesh 
+Bank, Election 
+Commision 
+Porichoy Decision-makers & 
+Implementers A2i (Aspire to Innovate), Smart Bangladesh, National ID The government has prioritized 
+digitalization, allocating ~$200 million to the 
+ICT Division and $11 million to support digital 
+entrepreneurship in fiscal year (FY) 2024/25 
+Private actors bKash, Banglalink, 
+Intellier 
+Implementers bHive by Bkash, MyBL by Banglalink, Nidle by Intellier 
+Development 
+partners and 
+multilaterals World Bank, ADB Policy Influencers & Funders Digital Service Transformation for Access and Resilience, 
+Enhancing Digital Government & Economy Project (EDGE), (World 
+Bank) Promoting Artificial Intelligence-Enhanced Distribution Grids 
+for Sustainability and Resilience (ADB) 
+Academic and 
+research 
+institutions AI Forum Bangladesh, 
+BIGD, CPD 
+Policy Influencers Hackathons, A2i (Aspire to Innovate), DigiDev Initiative 
+Civil society Bangladesh NGOs 
+Network for Radio and 
+Communication 
+(BNNRC), Digitally Right Policy Influencers and 
+Implementers Bangladesh Tech Policy Fellowship, promoting tech governance 
+Philanthropic and 
+funding orgs Korea International 
+Cooperation Agency 
+(KOICA) Funders Fostering Smart & Eco-Friendly Ship Recycling Experts through  
+Physical AI in Bangladesh, Fostering Innovative Technology Experts  
+with a Focus on AI in Bangladesh, Establishment of Bangladesh  
+National Intelligent Cybersecurity Center and AI-Integrated  
+Security Capacity Building KOICA grants $96m to boost Bangladesh's  
+future in advanced tech, AI, and sustainable  
+development 
+
+38
+Bangladesh (4/4) 
+Emerging opportunities 
+ Potential risks 
+Partnership and engagement opportunities for UNDP 
+1➔Currently prone to a high volume of cyberattacks 
+➔Severe shortage of cybersecurity professionals 
+➔The NID breach of 2023 exposed about 50 million citizen data Weak Cybersecurity 
+2➔Bangladesh’s data remains fragmented and siloed 
+➔Systems lack secure interoperability 
+➔Isolation of systems has also led to high operational costs Lack of interoperability 
+3 ➔Low digital literacy rate 
+➔Limited infrastructure and last mile connectivity issues Limited infrastructure and literacy 
+1Support large-scale digital literacy and workforce upskilling 
+initiatives under programs such as Citizen Upskilling and the 
+Digital Leadership Academy Digital Skills and Capacity Development 
+➔Encompassing all 3 layers of DPI, Phygital Public Infrastructure 
+also aims to bridge the gaps between marginalised groups 
+and public services. These include aspiring youth, women; 
+both urban and rural Phygital Public infrastructure for Bangladesh ➔Smart Bangladesh focuses on expanding citizens’ digital skills 
+and access to services, digitizing government operations and 
+service delivery, applying digital technologies across sectors 
+such  and promoting technology-driven economic growth 
+1Smart Bangladesh 2041 
+➔Description: From September 2025, the Bangladesh bank aims 
+to develop an interoperable payment system with the Gates 
+Foundation, built on Mojaloop-based IIPS by July 2027 
+2
+3
+2Support could focus on designing interoperable digital platforms, 
+improving public service delivery, and strengthening regulatory 
+frameworks for data governance, privacy, and cybersecurity. Digital Governance and Public Service Transformation 3Design programs that ensure women, rural communities, persons 
+with disabilities, and other marginalized groups benefit from 
+digital transformation. This could involve supporting affordable 
+connectivity, inclusive service design, and targeted digital literacy 
+programs. Digital Inclusion and Bridging the Digital Divide Interbank payment system 

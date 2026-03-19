@@ -1,0 +1,582 @@
+[
+  {
+    "__EMPTY": "UNDP Digital Transformation Project | Deliverable 1 I Scoping Report for Cambodia"
+  },
+  {
+    "__EMPTY": "Baseline view of the AI and DPI ecosystem in Cambodia"
+  },
+  {
+    "__EMPTY": "#",
+    "__EMPTY_1": "Heading",
+    "__EMPTY_2": "##",
+    "__EMPTY_3": "Sub-Heading",
+    "__EMPTY_4": "###",
+    "__EMPTY_5": "Parameters",
+    "__EMPTY_6": "Potential Sources",
+    "__EMPTY_7": "Country-specific information \n(Summary)",
+    "__EMPTY_8": "Country-specific information \n(Description)",
+    "__EMPTY_9": "Sources"
+  },
+  {
+    "__EMPTY": 1,
+    "__EMPTY_1": "AI and DPI Ecosystem",
+    "__EMPTY_2": 1.1,
+    "__EMPTY_3": "National AI Ecosystem \n- Policy and strategy",
+    "__EMPTY_4": "1.1.1",
+    "__EMPTY_5": "National AI strategy/policy status (adopted, draft, absent)",
+    "__EMPTY_6": "OECD AI Policy Observatory",
+    "__EMPTY_7": "National AI Strategy 2025-30 is in the draft stage",
+    "__EMPTY_8": "1. Vision\n-The vision of the strategy is to transform Cambodia into a skillful adopter of AI in the short term and a contributor to the global AI development market in the long term.\n-It aims to leverage AI as a primary driver for a digital economy and society, ensuring that technological advancement is human-centered, ethical, and rights-based.\n\n2. Mission\nTo achieve this vision, the mission focuses on building the foundational pillars of a trustworthy AI ecosystem through:\n-Developing Human Capital: Creating a workforce equipped with AI and data science skills.\n-Building Infrastructure: Establishing national data platforms, cloud-first policies, and AI labs.\n-Promoting Ethical Governance: Developing frameworks that ensure AI is used responsibly, inclusive of the Khmer language and cultural context.\n-Fostering Sectoral Adoption: Encouraging AI integration in key socio-economic sectors like education, healthcare, and agriculture.\n\n3. Envisioned Outcomes\nThe strategy outlines specific outcomes through its six strategic priorities:\n-Skilled Workforce: Increased number of AI professionals and researchers through specialized university programs.\n-Digital Government Excellence: Enhanced public service delivery through automated, streamlined, and transparent administrative processes.\n-Economic Competitiveness: Boosting SME efficiency and modernizing industries (e.g., agricultural resource optimization).\n-Khmer Language Inclusion: The successful development of a Khmer Large Language Model (LLM) to ensure AI services are accessible to all Cambodians.\n-HPC & Data Sovereignty: Establishing a National AI and Data Science Lab to reduce reliance on external compute resources and store data locally.\n-International Standing: Positioning Cambodia as a proactive participant in regional (ASEAN) and global AI governance discussions.",
+    "__EMPTY_9": "1. Draft National AI Strategy - Jun 2025\n2. Progress of AI Strategy Draft - Jun 2025"
+  },
+  {
+    "__EMPTY_4": "1.1.2",
+    "__EMPTY_5": "AI Governance frameworks and regulations",
+    "__EMPTY_6": "UNESCO - Artificial Intelligence Readiness Assessment Report",
+    "__EMPTY_7": "Cambodia scored 55 out of 100 in the Artificial Intelligence Readiness Assessment, with drafts of Legislation on Personal Data Protection and Cybersecurity yet to pass. ",
+    "__EMPTY_8": "1. Vision\n\nTo establish a human-centered, ethical, and rights-based governance ecosystem that positions Cambodia as a responsible adopter of AI in Southeast Asia. This vision aligns technological innovation with the Pentagonal Strategy – Phase I, ensuring that AI serves as a catalyst for sustainable development and social equity while safeguarding the fundamental rights and dignity of all Cambodian citizens.\n\n2. Mission\n\nThe mission for AI Governance in Cambodia is to build a robust and inclusive regulatory environment through:\n-Legislative Grounding: Expediting the passage of foundational laws, specifically the Personal Data Protection Law and the Cybersecurity Law, to create a secure legal baseline for AI.\n-Ethical Standard Setting: Implementing a \"soft law\" approach initially—guided by the UNESCO Readiness Assessment Methodology (RAM) and the ASEAN Guide on AI Governance and Ethics—to promote transparency and accountability.\n-Multistakeholder Oversight: Fostering a coordinated institutional framework led by the Ministry of Post and Telecommunications (MPTC) that integrates government, private sector, and civil society into the governance process.\n-Khmer-Centric Inclusion: Ensuring that regulatory frameworks mandate the inclusion of the Khmer language and cultural context in AI datasets to prevent digital exclusion.\n\n3. Envisioned Outcomes\n\nBy 2030, the implementation of these governance frameworks is expected to achieve:\n-Trust and Safety: A high level of public trust in AI systems, supported by clear mechanisms for liability, auditability, and redress in cases of AI-related harm.\n-Standardized Innovation: A \"Sandbox\" regulatory environment that allows startups to innovate while adhering to national safety standards, reducing the risk of biased or opaque algorithms.\n-Regional Alignment: Full harmonization with ASEAN AI governance standards, facilitating cross-border data flows and international investment confidence.\n-Institutional Clarity: An end to institutional fragmentation, with clearly defined roles for MPTC (Backbone & Governance), MISTI (R&D), and MoEYS (Education).\n-Data Sovereignty: The establishment of a National Open Data Platform and a National AI Lab that operate under strict ethical governance, ensuring data is used for the public good.",
+    "__EMPTY_9": "1. UNESCO AI Readiness Assessment\n2. AI Ethics report by UNESCO - Cambodia"
+  },
+  {
+    "__EMPTY_4": "1.1.3",
+    "__EMPTY_5": "Ethical AI principles and guidelines",
+    "__EMPTY_6": "UNESCO - Artificial Intelligence Readiness Assessment Report",
+    "__EMPTY_7": "As part of the draft of the National AI Strategy, Combodia has set \"Promoting Ethical and Responsible AI\" as a Strategic Priority. ",
+    "__EMPTY_8": "9 Strategic measures for promoting ethical and responsible AI under the National AI Strategy are as follows: \n1. MPTC to prepare the National AI Governance Framework to harmonize governance from the national through sectoral to the enterprise levels.\n2. Disseminate the AI ethics principles and the principles of responsible development, deployment, and use of artificial intelligence.\n3. Compile, enhance, and disseminate technical resources that facilitate compliance with ethical principles and principles of responsible development of artificial intelligence.\n4. Prevent and mitigate the negative impacts of digital content created or modified using artificial intelligence.\n5. Promote and support risk assessments of the use of artificial intelligence by sector and by key institutions, with participation from relevant stakeholders according to each sectoral context.\n6. Conduct a feasibility study for setting up a (regulatory) sandbox artificial intelligence.\n7. Study the preparation of a response mechanism for artificial intelligence incidents.\n8. Strengthen understanding and respect for intellectual property within the framework of the ethical and responsible use and development of artificial intelligence.\n9. Invest in research and training of human resources related to AI ethics, responsible AI and AI regulation.",
+    "__EMPTY_9": "1. Draft of National AI Strategy - Jun 2025"
+  },
+  {
+    "__EMPTY_4": "1.1.4",
+    "__EMPTY_5": "Data protection and privacy legislation ",
+    "__EMPTY_6": "DLA Piper\nUNDP Digital Development Compass",
+    "__EMPTY_7": "Low amount of Data protection and Privacy regulation in Cambodia as reported by DLA Piper (Jan 2025). ",
+    "__EMPTY_8": "the Royal Government of Cambodia issued Sub-Decree No. 252 on the Management, Use, and Protection of Personal Identification Data (only available in Khmer) (Sub-Decree 252) in order to promote broad policy objections, such as - ensuring the protection of peace and order; serving the public interest; and promoting national development by improving the provision of services.\nHowever, Sub-Decree 252 only applies to \"personal identification data\" owned by the Ministry of Interior (MOI) and does not apply to personal identification data used by other entities.\nIn September 2023, the MPTC made available to select private organizations and companies a Draft Law on Personal Data Protection for their review and comment. \nA later draft was made available to the Public for consultation in July 2025. ",
+    "__EMPTY_9": "1. DLA Piper - Cambodia\n2. Public Consultation on Draft of Personal Data Protection Law"
+  },
+  {
+    "__EMPTY_4": "1.1.5",
+    "__EMPTY_5": "Sector-specific AI regulations (health, finance, education etc)",
+    "__EMPTY_6": "Government websites, reports, news articles",
+    "__EMPTY_7": "Sector Specific AI Regulations haven't been proposed yet, instead, a wide-sweeping set of Legislation based on Personal Data Protection and Cybersecurity are in the draft stage. ",
+    "__EMPTY_8": "As referenced above-",
+    "__EMPTY_9": "As referenced above-"
+  },
+  {
+    "__EMPTY_4": "1.1.6",
+    "__EMPTY_5": "Multi-stakeholder Consultation for AI projects and strategies?",
+    "__EMPTY_6": "Government websites, news articles, UNDP Digital Development Compass",
+    "__EMPTY_7": "UNESCO - AI Readiness Assessment Report along with Cambodia Academy of Digital Technology helped evaluate the current Digital Landscape of Cambodia. These multi-lateral stakeholders along with Public Consultations of the draft of National AI Strategy have been carried out in Cambodia. ",
+    "__EMPTY_8": "1. Ministry of Post and Telecommunications (MIPTC) has published the draft of National AI Strategy 2025-30 for Public Consultation in June 2025. \n2. The National AI Strategy was drafted by MIPTC with help from institutional support from Cambodia Academy of Digital Technology (CADT), keeping inclusivity and adoption across all sectors in mind. \n3. UNESCO AI Readiness Assessment Report, for which surveys & data collection was conducted in collaboration with 26 Ministries and CADT, helped the MIPTC understand that Cambodia has a low level of AI adoption across all sectors. ",
+    "__EMPTY_9": "1. National AI Strategy - Cambodia"
+  },
+  {
+    "__EMPTY_2": 1.2,
+    "__EMPTY_3": "National AI Ecosystem \n- Implementation and Adoption",
+    "__EMPTY_4": "1.2.1",
+    "__EMPTY_5": "Government AI initiatives and projects (ongoing, pipeline)",
+    "__EMPTY_6": "Government digital transformation portals, ministry annual reports, budget documents etc",
+    "__EMPTY_7": "As part of the draft of the National AI Strategy, Combodia has created the National Research Center on AI for Education, while for practical uses,  Landmine detection tools using AI are being built to achieve a Landmine free status by 2030. \n\nMinistry of Post and Tele Communication is also developing a Khmer based LLM using the Llama-3 open source model. ",
+    "__EMPTY_8": "NEC and the Cambodian Mine Action Center Successfully Predict Landmine: Traditionally, identifying potential landmine-infested areas required extensive, unorganized data and significant manpower over long periods. By leveraging AI, this process can now be performed quickly with fewer personnel, demonstrating the potential to support swift and efficient landmine clearance. \n\nNational Research Center on AI for Education inaugarated (Nov 2025): The National Research Center on AI for Education was officially inaugurated during the AI for Education National Conference 2025. The Inauguration Ceremony was presided over by His Excellency Dr. Hang Chuon Naron, Deputy Prime Minister and Minister of Education, Youth and Sport (MoEYS), and His Excellency Dr. Chea Vandeth, Minister of Post and Telecommunications (MPTC). The establishment of the Center was led by the Rector Council of Cambodia (RCC), in cooperation with the Cambodia Academy of Digital Technology (CADT), and supported by MoEYS and MPTC.\n\nCambodia and Singapore Partner to Develop Khmer Large Language Model: AI Forum Cambodia and AI Singapore have signed an MoU to collaboratively develop an open-source Khmer Large Language Model, aiming to advance AI capabilities in Southeast Asia by addressing linguistic challenges, fostering skill development and ensuring equitable access to AI for Cambodians",
+    "__EMPTY_9": "1. Landmine Detection using AI\n\n2. National Research Center on AI for Education\n\n3. Cambodia and Singapore - Khmer LLM"
+  },
+  {
+    "__EMPTY_4": "1.2.2",
+    "__EMPTY_5": "Public and private sector AI use cases by domain (Just an overview-preliminary understanding)",
+    "__EMPTY_6": "World Bank - Gov Tech Maturity Index\n\nOECD - Digital Government Review ",
+    "__EMPTY_7": "-",
+    "__EMPTY_8": "-"
+  },
+  {
+    "__EMPTY_4": "1.2.3",
+    "__EMPTY_5": "Availability of AI Infrastructure (Connectivity, Compute, Cloud etc)",
+    "__EMPTY_6": "ICT Development Index , Cloud Infrastructure Map",
+    "__EMPTY_7": "As of 2023, 60.7% of population has internet connectivity in Cambodia. \n\nAccording to UNESCO AI Readiness report, Data availability is low in Cambodia, for which the National AI Strategy has called for Data Openness in the form of Datasets being released by different Ministries in Cambodia. \n\nFundamental resources for AI adoption and development in Cambodia, including data,\ncomputing resources, and talents are still limited. ",
+    "__EMPTY_8": "-",
+    "__EMPTY_9": "1. UNESCO AI Readiness Report\n\n2. National AI Strategy - Cambodia"
+  },
+  {
+    "__EMPTY_2": 1.3,
+    "__EMPTY_3": "DPI Ecosystem\n-DPI Stack Maturity",
+    "__EMPTY_4": "1.3.1",
+    "__EMPTY_5": "National Digital Transformation Strategy / Policy",
+    "__EMPTY_7": "Cambodia Digital Economy and Society Policy Framework 2021-2035 and the Cambodia Digital Government Policy 2022-2035",
+    "__EMPTY_8": "1. Vision\n\n-To build a vibrant digital economy and society by laying the foundations for promoting digital adoption and transformation across all sectors of society—the state, citizens, and businesses—to accelerate new economic growth and improve social welfare in the \"new normal.\"\n-The long-term aspiration is to leverage digital technology as a catalyst to transform Cambodia into an upper-middle-income country by 2030 and a high-income country by 2050.\n\n2. Mission\nThe mission is to execute a 15-year roadmap (2021–2035) focused on three strategic pillars and two foundational layers:\n-Pillar 1: Digital Citizens: Fostering a pool of digital talent, enhancing digital literacy, and developing digital leadership among the Cambodian people.\n-Pillar 2: Digital Government: Transforming public administration into a \"Smart Government\" by modernizing public services and adopting data-based governance.\n-Pillar 3: Digital Business: Encouraging enterprises and SMEs to embrace digital technology and fostering a robust startup ecosystem.\n-Foundations: Building reliable Digital Infrastructure (high-speed internet, 5G, and data centers) and ensuring Digital Trustworthiness through robust cybersecurity and legal frameworks (Data Protection and Cyber Laws).\n\n3. Envisioned Outcomes\nThe strategy is implemented in three distinct phases, each with specific envisioned goals:\n-Phase 1 (2021–2025) – Building Foundations: * Establishment of the \"National Council for Digital Economy and Society.\"\n-Successful deployment of digital identity (E-ID) and payment gateways (e.g., Bakong).\n-Enactment of essential digital laws and updated regulations.\n\n-Phase 2 (2026–2030) – Digital Adoption: * Mass adoption of digital services by citizens and businesses.\n-Modernization of all key state systems and public services.\n-Strengthened regional (ASEAN) and global digital cooperation.\n\n-Phase 3 (2031–2035) – Digital Transformation: * Transformation into a fully participatory digital society where technology drives economic productivity and innovation.\n-A sizable digital economy contributing significantly to the national GDP.\n-A highly skilled workforce specializing in advanced fields like AI, Data Analytics, and IoT."
+  },
+  {
+    "__EMPTY_4": "1.3.2",
+    "__EMPTY_5": "Digital ID: Availability of National ID systems, biometric coverage, authentication mechanisms, interoperability etc",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "Digital ID CamDigiKey - DPI Like",
+    "__EMPTY_8": "-",
+    "__EMPTY_9": "1. CamDigiKey"
+  },
+  {
+    "__EMPTY_4": "1.3.3",
+    "__EMPTY_5": "Digital Payments : Availability, Interoperability, financial inclusion",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "Digital Payments Bakong - DPI Like",
+    "__EMPTY_8": "-",
+    "__EMPTY_9": "1. Bakong"
+  },
+  {
+    "__EMPTY_4": "1.3.4",
+    "__EMPTY_5": "Data Exchange: Availability, data sharing frameworks, consent mechanisms, interoperability standards",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "Data Exchange Cam-DX - DPI Like",
+    "__EMPTY_8": "-",
+    "__EMPTY_9": "1. Cam-DX"
+  },
+  {
+    "__EMPTY_4": "1.3.5",
+    "__EMPTY_5": "Any other DPI assets ",
+    "__EMPTY_6": "DPI Use Cases Explorer",
+    "__EMPTY_7": "Cambodia built a Blockchain based Identity Verification platform called verify.gov",
+    "__EMPTY_8": "-",
+    "__EMPTY_9": "1. Verify Cambodia"
+  },
+  {
+    "__EMPTY_4": "1.3.6",
+    "__EMPTY_5": "Service delivery: Presence of government digital services, citizen portals, service integration with DPIs",
+    "__EMPTY_6": "DPI Use Cases Explorer, Ministry websites",
+    "__EMPTY_7": "NA - Still under development",
+    "__EMPTY_8": "-"
+  },
+  {
+    "__EMPTY_2": 1.4,
+    "__EMPTY_3": "DPI Ecosystem\n-DPI Adoption ",
+    "__EMPTY_4": "1.4.1",
+    "__EMPTY_5": "Digital ID - No. of people enrolled",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "Cambodia has a population of 18 Million - CamDigiKey app has only been downloaded 50K+ times. ",
+    "__EMPTY_8": "-",
+    "__EMPTY_9": "1. CamDigiKey"
+  },
+  {
+    "__EMPTY_4": "1.4.2",
+    "__EMPTY_5": "Digital Payments - No. of transaction per month ",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "~100 Million transactions per month",
+    "__EMPTY_8": "-",
+    "__EMPTY_9": "1. KiriPost reporting on 2025 usage"
+  },
+  {
+    "__EMPTY_4": "1.4.3",
+    "__EMPTY_5": "Data Exchange - No. of partners onboarded ",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "22 ministries using it, 1M transactions per month",
+    "__EMPTY_8": "-",
+    "__EMPTY_9": "1. CamDX ministries"
+  },
+  {
+    "__EMPTY_4": "1.4.4",
+    "__EMPTY_5": "Other DPI assets",
+    "__EMPTY_6": "Secondary research ",
+    "__EMPTY_7": "NA - Still under development",
+    "__EMPTY_8": "-"
+  },
+  {
+    "__EMPTY_4": "1.4.5",
+    "__EMPTY_5": "Digital inclusion gaps (geographic - Urban Rural, demographic - Gender, socioeconomic)",
+    "__EMPTY_6": "National surveys, ITU dataset",
+    "__EMPTY_7": "Stark gap in Urban-Rural Internet connectivity, with ~60% of Cambodia's population using Internet, but usage being concentrated amongst young urban people. \n\nWhile statistics around the digital restrictions of Rural Women are available through the UNICEF Girl's Digital Literacy Program's report. ",
+    "__EMPTY_9": "1. Cambodia's Gender Divide\n\n2. Access and Connectivity in Cambodia\n\n3. UNICEF Girl's Digital Literacy Report"
+  },
+  {
+    "__EMPTY_4": "1.4.6",
+    "__EMPTY_5": "User experience, satisfaction ",
+    "__EMPTY_6": "Newspaper articles, civic society organisation reports"
+  },
+  {
+    "__EMPTY": 2,
+    "__EMPTY_1": "Political Economy",
+    "__EMPTY_2": 2.1,
+    "__EMPTY_3": "Political Stability and Institutional Capacity ",
+    "__EMPTY_4": "2.1.1",
+    "__EMPTY_5": "National election cycle\nPrevious and Upcoming Month and Year",
+    "__EMPTY_6": "Election Commission websites",
+    "__EMPTY_7": "Previous cycle in 2023-24, next one in 2028-29",
+    "__EMPTY_8": "It is a mainly \"one party\" model of governance though. Could instead track Key people of Interest and their terms, especially if there is an expected change in MPTC or MISTI. "
+  },
+  {
+    "__EMPTY_4": "2.1.2",
+    "__EMPTY_5": "Governance structure - Centralised/Decentralised/Federal",
+    "__EMPTY_7": "Constitutional Monarchy with a Parliamentary system, governed centrally by mostly a One-party rule. "
+  },
+  {
+    "__EMPTY_4": "2.1.3",
+    "__EMPTY_5": "Political stability and continuity \n\nWorld bank map includes - Voice and accountability, polictical stability, government effectiveness, regulatory quality, rule of law, control of corruption ",
+    "__EMPTY_6": "Recent news articles, \nEconomist Intelligence Unit Political Stability Index, \nWorld Bank Governance Indicators ",
+    "__EMPTY_7": "Democracy Index Report 2024 puts Cambodia in the \"Authoritarian\" category with a democracy index rank of 123 out of 169"
+  },
+  {
+    "__EMPTY_4": "2.1.4",
+    "__EMPTY_5": "Government's digital transformation priority in the last 5 years and next decade",
+    "__EMPTY_6": "PM/President recent speech, National Development Plan, Budgets",
+    "__EMPTY_7": "Cambodia in collaboration with UN organizations has shown enthusiastic participation when it comes to formulating and enacting digital transformation policies along with making it a priority for the next decade. The National AI Strategy draft is an example of this. ",
+    "__EMPTY_8": "Inauguration of the National Research Center on AI for Education (Nov 2025): \nKeeping the UNESCO AI Readiness Report's recommendations in mind, Cambodia has included Capacity Building as a priority in the draft of the National AI Strategy. \n\nLast year, Prime Minister Hun Manet during the Teachers' day address said, \"It resonates with Cambodia's national vision articulated in its Pentagonal Strategy -- Phase I, where human development and digital transformation are identified as two of the core pillars to sustainable growth of the country\", emphasizing the importance of the Strategy laid out and its prioritization of Skill Development. ",
+    "__EMPTY_9": "1. News on the Teachers' Day address"
+  },
+  {
+    "__EMPTY_4": "2.1.5",
+    "__EMPTY_5": "Institutional capacity for policy implementation ",
+    "__EMPTY_6": "World Bank - Country Policy and Institutional Assessment ",
+    "__EMPTY_7": "Statistical Performance Indicators on Cambodia's Data Infrastructure Capacity show increasing capacity for digital transformation policy implementation, while indicators on Political Stability remain mostly flat. ",
+    "__EMPTY_8": "Cambodia from 2019 to 2023 has shown improvement on all DataBank Performance indicators, with Dimensions within these scores on Institutional collection and upkeep of data also increasing. This is in-line with the Digital Transformation policies Cambodia has undertaken in the past few years.  ",
+    "__EMPTY_9": "1. Cambodia Performance Indicators"
+  },
+  {
+    "__EMPTY_4": "2.1.6",
+    "__EMPTY_5": "Leadership/ Digital transformation champions within the cabinet, PM",
+    "__EMPTY_7": "Key Champions include the Prime Minister, Minister of Post and Telecommunications, Director General of the General Department of ICT at MPTC, and Deputy Director General of the General Department of Science, Technology, and Innovation at MISTI",
+    "__EMPTY_8": "1. H.E. Hun Manet: In 2024, Prime Minister Hun Manet emphasized the future focus on a \"Digital Revolution\". \n\n2. H.E. Chea Vandeth: Minister of Post and Telecommunications has often emphasized a \"balance between ethics and technology\", even to student technologists. He has also been instrumental in launching the Digital Skills Roadmap (2024-35)\n\n3. H.E. Sam Sethserey: Director General of the General Department of ICT at MPTC, often recognized as a leader in cybersecurity and digital startup ecosystem development.\n\n4. Seng Molika: Deputy Director General of the General Department of Science, Technology, and Innovation at MISTI, leading the digital transformation unit for the ministry. ",
+    "__EMPTY_9": "1. PM's Digital Government Forum address\n\n2. Minister's Ethics + Technology statement"
+  },
+  {
+    "__EMPTY_4": "2.1.7",
+    "__EMPTY_5": "Key decision makers and influencers",
+    "__EMPTY_7": "Same as Above",
+    "__EMPTY_8": "Same as Above"
+  },
+  {
+    "__EMPTY_4": "2.1.8",
+    "__EMPTY_5": "Technical expertise/ Dedicated authority/staff for digital transformation projects\n\nDIgital readiness of civil service",
+    "__EMPTY_7": "Same as Above",
+    "__EMPTY_8": "Same as Above"
+  },
+  {
+    "__EMPTY_4": "2.1.9",
+    "__EMPTY_5": "Civil society engagement levels"
+  },
+  {
+    "__EMPTY_4": "2.1.10",
+    "__EMPTY_5": "Overall governance and administrative culture ",
+    "__EMPTY_6": "Subjective question - need KIIs"
+  },
+  {
+    "__EMPTY": 3,
+    "__EMPTY_1": "Mapping of Key Ecoosystem Actors and Initiatives",
+    "__EMPTY_2": 3.1,
+    "__EMPTY_3": "Government actors - National and Sub-national levels (Focus on National only)",
+    "__EMPTY_4": "3.1.1",
+    "__EMPTY_5": "Lead agency/ministry for digital transformation ",
+    "__EMPTY_6": "Govt. websites",
+    "__EMPTY_7": "Ministry of Post and Telecommunications along with some inputs from Ministry of Science, Technology, and Innovation on matters of adoption and training. "
+  },
+  {
+    "__EMPTY_4": "3.1.2",
+    "__EMPTY_5": "AI and DPI implementation agencies (for foundational DPIs such as digital id, payments etc)",
+    "__EMPTY_7": "Same as above with National Bank of Cambodia being a stakeholder for Payments and verification based DPIs. "
+  },
+  {
+    "__EMPTY_4": "3.1.3",
+    "__EMPTY_5": "Regulatory bodies and oversight agencies",
+    "__EMPTY_7": "NA - Prime Minister if any. "
+  },
+  {
+    "__EMPTY_4": "3.1.4",
+    "__EMPTY_5": "Any innovation lab/ government accelerators ",
+    "__EMPTY_7": "National Research Centre for AI in Education and the Techo Startup Centre"
+  },
+  {
+    "__EMPTY_4": "3.1.5",
+    "__EMPTY_5": "Parliamentary committe on digital transformation/technology/AI and DPI",
+    "__EMPTY_7": "Working Group on Artificial Intelligence and Data Science Research and Development - they were the ones who drafted the National AI Strategy"
+  },
+  {
+    "__EMPTY_4": "3.1.6",
+    "__EMPTY_5": "Chief digital officer/Lead - Team - Details ",
+    "__EMPTY_7": "H.E. Chea Vandeth - Minister of Post and Telecommunications also serves as the Head of the Digital Governance Committee. "
+  },
+  {
+    "__EMPTY_2": 3.2,
+    "__EMPTY_3": "Private actors ",
+    "__EMPTY_4": "3.2.1",
+    "__EMPTY_5": "Major tech companies operating in the country ",
+    "__EMPTY_7": "1. Amazon Inc\n2. IBM Corporation\n3. Huawei Technologies Co., Ltd.\n4. Google LLC\n5. Microsoft Corporation",
+    "__EMPTY_9": "Mordor Intelligence - Top ICT Companies"
+  },
+  {
+    "__EMPTY_4": "3.2.2",
+    "__EMPTY_5": "AI/ML Solution providers",
+    "__EMPTY_6": "Gartner/IDC market reports",
+    "__EMPTY_7": "More research needed on this",
+    "__EMPTY_8": "More research needed on this"
+  },
+  {
+    "__EMPTY_4": "3.2.3",
+    "__EMPTY_5": "DPI tech vendors",
+    "__EMPTY_7": "1. First Cambodia\n2. Smart Axiata\n3. iValue Infosolutions\n4. Cisco",
+    "__EMPTY_9": "1. First Cambodia being a leading ICT integrator\n2. Smart Axiata works with MPTC"
+  },
+  {
+    "__EMPTY_4": "3.2.4",
+    "__EMPTY_5": "DPGs",
+    "__EMPTY_7": "1. Verify - Public service tool, powered by blockchain, which helps verify personal government documentation"
+  },
+  {
+    "__EMPTY_4": "3.2.5",
+    "__EMPTY_5": "Cloudeservice providers",
+    "__EMPTY_7": "1. Alibaba Cloud Services is increasing its presence in Cambodia, along with some local SEA and Cambodian cloud service providers. ",
+    "__EMPTY_9": "1. Alibaba Cloud"
+  },
+  {
+    "__EMPTY_4": "3.2.6",
+    "__EMPTY_5": "Telecommunication operators ",
+    "__EMPTY_6": "Telecom regulatory authority data",
+    "__EMPTY_7": "1. Smart Axiata\n2. CellCard\n3. Metfone\n4. CooTel",
+    "__EMPTY_9": "1. Zoominfo Top Telecom Providers - Cambodia"
+  },
+  {
+    "__EMPTY_4": "3.2.7",
+    "__EMPTY_5": "Fintech and digital payment providers",
+    "__EMPTY_6": "Central bank lists",
+    "__EMPTY_7": "1. Pi Pay\n2. True Money\n3. Bakong (Government owned)"
+  },
+  {
+    "__EMPTY_2": 3.3,
+    "__EMPTY_3": "Development partners and multilaterals - Digital transformation/AI/DPI\nAlong with details of ongoing projects",
+    "__EMPTY_4": "3.3.1",
+    "__EMPTY_5": "UN Agencies",
+    "__EMPTY_7": "1. UNESCO\n2. UN ESCAP",
+    "__EMPTY_9": "1. List of UN Entities in Cambodia"
+  },
+  {
+    "__EMPTY_4": "3.3.2",
+    "__EMPTY_5": "World Bank "
+  },
+  {
+    "__EMPTY_4": "3.3.3",
+    "__EMPTY_5": "Asian Development Bank"
+  },
+  {
+    "__EMPTY_4": "3.3.4",
+    "__EMPTY_5": "Others - Bilateral development agencies, International NGOs and Foundations, Global Tech Partners"
+  },
+  {
+    "__EMPTY_2": 3.4,
+    "__EMPTY_3": "Academic and research institutions",
+    "__EMPTY_4": "3.4.1",
+    "__EMPTY_5": "Institutions (Universities, Think Tanks etc.) working in research on AI/DPI/Digital transformation "
+  },
+  {
+    "__EMPTY_2": 3.5,
+    "__EMPTY_3": "Civil society ",
+    "__EMPTY_4": "3.5.1",
+    "__EMPTY_5": "Digital rights org, advocacy groups, grassroot innovation initiatives etc."
+  },
+  {
+    "__EMPTY_2": 3.6,
+    "__EMPTY_3": "Mapping of Initiatives along with the implementation agency",
+    "__EMPTY_4": "3.6.1",
+    "__EMPTY_5": "National AI/DPI/Digital transformation strategy (National policy/Digital framework/E-governance blueprint/National cyber security policy/National AI policy etc.)"
+  },
+  {
+    "__EMPTY_4": "3.6.2",
+    "__EMPTY_5": "Flagship AI and DPI projects"
+  },
+  {
+    "__EMPTY_4": "3.6.3",
+    "__EMPTY_5": "Failed or stalled initiatives"
+  },
+  {
+    "__EMPTY": 4,
+    "__EMPTY_1": "Emerging opportunities, risks, and practical entry points",
+    "__EMPTY_2": 4.1,
+    "__EMPTY_3": "Opportunities",
+    "__EMPTY_4": "4.1.1",
+    "__EMPTY_5": "Upcoming projects, policy reforms, government mandates"
+  },
+  {
+    "__EMPTY_4": "4.1.2",
+    "__EMPTY_5": "Electoral transitions?"
+  },
+  {
+    "__EMPTY_4": "4.1.3",
+    "__EMPTY_5": "International commitments",
+    "__EMPTY_6": "WB, ADB, UNDP, 50-in-5 Websites",
+    "__EMPTY_7": "1. UNESCO AI Readiness Assessment and its recommendations along with the ASEAN Data Governance commitments. "
+  },
+  {
+    "__EMPTY_4": "4.1.4",
+    "__EMPTY_5": "Sectoral opportunities (Health, education, agri, social protection, governance)",
+    "__EMPTY_6": "Need to conduct KIIs to get this information "
+  },
+  {
+    "__EMPTY_2": 4.2,
+    "__EMPTY_3": "Risks - Technical ",
+    "__EMPTY_4": "4.2.1",
+    "__EMPTY_5": "Infrastructure inadequacy or unreliability ",
+    "__EMPTY_6": "These represent potential or forecasted risks. For the initial version of the document, we can rely on historical data points and the country’s development trajectory to validate whether these constitute the relevant risks.",
+    "__EMPTY_7": "1. Internet Speed and Quality\n2. Lack of Compute Capacity",
+    "__EMPTY_8": "1. While mobile broadband coverage exists, the actual internet speeds rank low globally (73rd for mobile broadband and 107th for fixed broadband), impeding data-heavy AI operations\n2. A massive hurdle is the lack of modern data centers and domestic High-Performance Computing (HPC) capabilities. A survey found that only 11% of surveyed institutions have on-premises GPU processors",
+    "__EMPTY_9": "UNESCO AI Readiness Report"
+  },
+  {
+    "__EMPTY_4": "4.2.2",
+    "__EMPTY_5": "Data availability and quality ",
+    "__EMPTY_7": "Lack of Khmer Datasets",
+    "__EMPTY_8": "There is an acute scarcity of high-quality, machine-readable datasets in the Khmer language, which is necessary to prevent cultural and linguistic exclusion in AI models",
+    "__EMPTY_9": "UNESCO AI Readiness Report"
+  },
+  {
+    "__EMPTY_4": "4.2.3",
+    "__EMPTY_5": "System interoperability issues"
+  },
+  {
+    "__EMPTY_4": "4.2.4",
+    "__EMPTY_5": "Technology lock-in and vendor dependency "
+  },
+  {
+    "__EMPTY_4": "4.2.5",
+    "__EMPTY_5": "Limitations in scalability of the project"
+  },
+  {
+    "__EMPTY_4": "4.2.6",
+    "__EMPTY_5": "Issues in financial sustainability "
+  },
+  {
+    "__EMPTY_2": 4.3,
+    "__EMPTY_3": "Risks - Governance and Institutional ",
+    "__EMPTY_4": "4.3.1",
+    "__EMPTY_5": "Weak regulatory frameworks"
+  },
+  {
+    "__EMPTY_4": "4.3.2",
+    "__EMPTY_5": "Institutional fragmentation and silos",
+    "__EMPTY_7": "Institutional Fragmentation",
+    "__EMPTY_8": "The governance landscape experiences fragmentation, with overlapping mandates among different ministries that can complicate the development of a cohesive regulatory framework",
+    "__EMPTY_9": "UNESCO AI Readiness Report"
+  },
+  {
+    "__EMPTY_4": "4.3.3",
+    "__EMPTY_5": "Capacity constraints"
+  },
+  {
+    "__EMPTY_4": "4.3.4",
+    "__EMPTY_5": "Malpractices (Corruption), lack of accountability measures"
+  },
+  {
+    "__EMPTY_4": "4.3.5",
+    "__EMPTY_5": "Procurement processes"
+  },
+  {
+    "__EMPTY_2": 4.4,
+    "__EMPTY_3": "Risks - Social",
+    "__EMPTY_4": "4.4.1",
+    "__EMPTY_5": "Digital exclusion and inequality"
+  },
+  {
+    "__EMPTY_4": "4.4.2",
+    "__EMPTY_5": "Privacy violations and surveillance concerns"
+  },
+  {
+    "__EMPTY_2": 4.5,
+    "__EMPTY_3": "Risks - Political Economy risks",
+    "__EMPTY_4": "4.5.1",
+    "__EMPTY_5": "Political instability or transitions"
+  },
+  {
+    "__EMPTY_4": "4.5.2",
+    "__EMPTY_5": "Lack of sustained commitment"
+  },
+  {
+    "__EMPTY_2": 4.6,
+    "__EMPTY_3": "Risks - Financial",
+    "__EMPTY_4": "4.6.1",
+    "__EMPTY_5": "Insufficient funding "
+  },
+  {
+    "__EMPTY_4": "4.6.2",
+    "__EMPTY_5": "Dependence on external financing"
+  },
+  {
+    "__EMPTY_4": "4.6.3",
+    "__EMPTY_5": "High operational costs"
+  },
+  {
+    "__EMPTY_4": "4.6.4",
+    "__EMPTY_5": "Challenges in revenue generation etc"
+  },
+  {
+    "__EMPTY_2": 4.7,
+    "__EMPTY_3": "Entry points for UNDP offices",
+    "__EMPTY_4": "4.7.1",
+    "__EMPTY_5": "Policy advisory",
+    "__EMPTY_6": "These will be determined by the data points collected from Sr. No. 1-4 and conversations with UNDP team and other country stakeholders \n\nThe entry points can be further divided into immediate, medium term and long term"
+  },
+  {
+    "__EMPTY_4": "4.7.2",
+    "__EMPTY_5": "Capacity building"
+  },
+  {
+    "__EMPTY_4": "4.7.3",
+    "__EMPTY_5": "Convening and facilitation roles, coalition building "
+  },
+  {
+    "__EMPTY_4": "4.7.4",
+    "__EMPTY_5": "Evidence generation and feasibility studies"
+  },
+  {
+    "__EMPTY_4": "4.7.5",
+    "__EMPTY_5": "AI/DPI use case development "
+  },
+  {
+    "__EMPTY_4": "4.7.6",
+    "__EMPTY_5": "Co-design of digital transformation programs"
+  },
+  {
+    "__EMPTY": 5,
+    "__EMPTY_1": "Funding landscape",
+    "__EMPTY_2": 5.1,
+    "__EMPTY_3": "Multilateral development banks",
+    "__EMPTY_4": "5.1.1",
+    "__EMPTY_5": "ADB, World Bank, Other MDBs:\n\n- Current DPI and AI projects\n- Approved and pipeline financing\n- Strategic priorities and focus area over the next 5 years/decade\n-Financing instruments and supporting guidelines"
+  },
+  {
+    "__EMPTY_2": 5.2,
+    "__EMPTY_3": "Bilateral development banks",
+    "__EMPTY_4": "5.2.1",
+    "__EMPTY_5": "Bilateral development partners:\n\n- Major donors active in the country \n- Geographic and Sectoral preferences\n- Digital development programs \n- Other modalities"
+  },
+  {
+    "__EMPTY_2": 5.3,
+    "__EMPTY_3": "Philanthropic and Private Foundations",
+    "__EMPTY_4": "5.3.1",
+    "__EMPTY_5": "-Foundations active in digital development in the country \n-Grant making priorities and cycles"
+  },
+  {
+    "__EMPTY_2": 5.4,
+    "__EMPTY_3": "Government budget allocation",
+    "__EMPTY_4": "5.4.1",
+    "__EMPTY_5": "-National digital transformation budget\n-Ministry/agency-specific allocations etc.",
+    "__EMPTY_7": "10 Billion approved in AI linked investments in Cambodia in 2025",
+    "__EMPTY_8": "CNA links Cambodia’s AI ambitions to broader competitiveness and investor confidence. The country approved more than $10 billion in investments in 2025. ",
+    "__EMPTY_9": "1. Cambodia Investment commitment in 2025"
+  },
+  {
+    "__EMPTY": 6,
+    "__EMPTY_1": "Partnership and engagement opportunities for UNDP",
+    "__EMPTY_2": 6.1,
+    "__EMPTY_3": "Strategic opportunities",
+    "__EMPTY_4": "6.1.1",
+    "__EMPTY_5": "Government partnerships?"
+  },
+  {
+    "__EMPTY_5": "Coordination and partnership with other UN agencies?",
+    "__EMPTY_7": "Partnerships with ESCAP and UNESCO to design National AI Strategy"
+  },
+  {
+    "__EMPTY_5": "Multi-stakeholder partnership? "
+  },
+  {
+    "__EMPTY_5": "University collaboration, joint research and evaluations?",
+    "__EMPTY_7": "Collaboration with the Cambodia Academy of Digital Technology, where the National Research Centre for AI in Eduction was inagurated. "
+  },
+  {
+    "__EMPTY_5": "Knowledge exchange platform/DPI stewardship ?"
+  },
+  {
+    "__EMPTY": 7,
+    "__EMPTY_1": "Synthesis and recommendation "
+  }
+]

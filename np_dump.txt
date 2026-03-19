@@ -1,0 +1,190 @@
+
+[P1] AI Ecosystem Maturity -> IMF AI Preparedness Index (AIPI) 
+(2023 dataset)
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: Open to Adopt
+  Datapoints: AIPI Index score - 0.35
+
+[P1] AI Ecosystem Maturity -> National AI Strategy / Policy Status
+  Maturity: Early Success
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: National AI Policy released in 2025 aims to 
+- Build a human-centered, ethical, and prosperous Nepal through AI.
+- Maximize the use of Artificial Intelligence for the socio-economic development of the nation.
+- Build a sustainable and reliable AI ecosystem.
+- Accelerate the economic growth rate through the optimal use of AI.
+- Enhance the effectiveness of public service delivery through AI applications.
+- Strengthen AI governance
+
+[P1] AI Ecosystem Maturity -> AI Governance and Regulatory Frameworks and Ethical AI Principles
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: Improving AI governance mentioned as one of the goals of AI policy but no framework or guidelines mentioned. Same applies for ethical AI principles
+
+[P1] AI Ecosystem Maturity -> Government AI Initiatives and Projects
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: 1. "Lalitpur Metropolitan City (LMC) has successfully deployed an AI-based intelligent traffic light system in certain major junctions in the city to manage the traffic situation more efficiently. This system uses real-time data to adjust timings at traffic signals automatically.
+
+2. SITA - Developed by UNFPA, in collaboration with the Ministry of Health and Population, UNFPA HQ’s IT Services Office, Google, and with support from the British Embassy Kathmandu.
+SITA is an AI platform to  rapidly analyze national datasets and generate detailed insights. It scans thousands of variables in massive datasets like the Nepal Demographic and Health Survey (NDHS), runs the analysis, and outputs polished charts, tables, and even written narratives that match human quality. This helps in making real time decisions at national level."
+
+[P2] DPI Ecosystem Maturity -> National Digital Transformation Strategy
+  Maturity: Maturing
+  Overall Score: undefined
+  Overall Param Scoring: Maturing
+  Datapoints: Digital Nepal Framework released in 2019 aimed at at leveraging digital technologies to achieve SDGs and harness digital technologies as a catalyst to positively transform government, society and economy. The framework identified 8 sectors and 80 inititaitves to propel socioeconomic growth.
+
+A version 2 of the framework was released in 2025 which has received funding in the form of a $40 million loan co-financed by the ADB and World Bank
+
+e-Governance blueprint, a framework developed by Nepal’s E-governance Board, which comprises representatives from multiple govt. agencies, includes 7 pillars aimed at to addressing existing challenges in digital transformation.
+
+[P2] DPI Ecosystem Maturity -> Digital ID
+  Maturity: Maturing
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: Nepal's National Identity Document system or Rastriya Parichaya Patra is a biometric based ID launched in 2018. As of 2025, over 17 million people have been registered which is about 57% of the population and approximately 6 million cards have been printed. 
+It is also integrated with Nagarik App (a platform for accessing govt. services) and mandated (in 28 districts) for accessing services like pensions and health insurance. However, owing to the lack of authentication infrastructure agencies still rely on physical documentation and e-KYC is not leveraged
+
+[P2] DPI Ecosystem Maturity -> Digital Payments
+  Maturity: Maturing
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: Digital Payments system comprises of a National Payment Switch, an interbank payment system and retail payment system developed by Nepal Clearing House developed as a public infrastructure and thereby facilitating interoperability.
+It has aslo developed NepalPay QR and NepalPay Instant for real-time payments. Private digital wallets such as eSewa, Khalti and Fonepay also operate in the country.
+QR payments are accepted by over 2 million merchants, with volumes growing 117% in a year. In 2024/25, NCHL processed 186 million transactions, covering 17% of total market volume but 77% of value. 
+
+[P2] DPI Ecosystem Maturity -> Data Exchange
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: National Data Exchange platform planned which aims to enable enabling multiple government bodies to securely share information through a single interface to reduce duplication and streamline operations
+
+[P2] DPI Ecosystem Maturity -> Use Cases of DPI Assets
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: The ‘Nagarik App’ was launched in 2021 to deliver online services through a single online e-governance platform currently offers access to 61 public services. Howerver uptake remains low at around 800,000 users.
+
+SUSASAN has developed digital tools that have been adopted by multiple municipalities in Nepal. These include a data portal, citizen charter, grievance redressal and a municipality mobile app that provides municipality news, notices, services, policies and enables citizens to give feedback to local government
+
+[P3] Digital-Physical Infrastructure -> Electricity Access and Reliability
+  Maturity: Early Success
+  Overall Score: undefined
+  Overall Param Scoring: Early Success
+  Datapoints: 94% of population have access to electricity
+
+[P3] Digital-Physical Infrastructure -> Internet Penetration
+  Maturity: Greenfield
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: National average of internet access - 49.6%
+4G internet coverage - 53%
+
+[P3] Digital-Physical Infrastructure -> Compute and Cloud Capacity
+  Maturity: Early Success
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: Domestic IT and global firms providing cloud hosting services
+
+Governemnt in partnership with these cloud providers has developed its own cloud infrastructure in the form of  Government Integrated Data Center (GIDC)
+
+[P3] Digital-Physical Infrastructure -> Digital Inclusion 
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints:  Internet access stands at 65% in urban vs 22% in rural areas
+
+[P4] Political Stability and Governance -> WB Worldwide Governance Indicators - Political Stability Score
+2024
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: Open to Adopt
+  Datapoints: Worldwide governance index score - 39.34. Scores of the sub parameters are as follows
+
+-Voice and Accountability (The extent to which citizens can participate in the selection of government, their freedom of expression and holding officials accountable) : 55.80
+-Political Stability (Measures political motivated violance and/or terrorism) : 58.81
+-Government Effectiveness (Quality of public services) : 34.14
+-Regulatory Quality (Ability to implement sound policy and laws) : 46.15
+- Rule of Law (Quality of law enforcement) : 51.74 (Ranked 72 out of 143, as of 2025)
+-Control of Corruption (Captures perceptions of extent to which public power could be misused for private gain) : 35.05 (Ranked 107 out of 143, as of 2025)
+
+Characterised by high instability with the country undergoing  14 government changes since 2008
+
+[P4] Political Stability and Governance -> Political stability and DT policy continuity (Requirement of KIIs)
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: High political instability but digital transformation efforts have sustained
+
+[P5] Stakeholder Participation and Ecosystem Coordination -> Lead Agency and Government Coordination
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: Open to Adopt
+  Datapoints: Ministry of Communication and Information Technology and the Nepal e-governance board (part of office of Prime Minsiter and Council of Ministers)
+
+[P5] Stakeholder Participation and Ecosystem Coordination -> Private Sector Engagement
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: Private sector firms have engaged 
+- In Development of  Government Integrated Data Center 
+- Interoperable digital payment networks - Eg. Fonepay Payment service Ltd is licensed as a payment system operator by Nepal Rastra Bank, the country's central bank. It also collaborated with NPCI to facilitate UPI payments in Nepal
+- DPG development - Rumsan Associates has developed Rahat, a collection of open-source blockchain-based digital relief distribution management projects. This  can be used by humanitarian agencies to support marginalized communities
+
+[P5] Stakeholder Participation and Ecosystem Coordination -> Development Partners and MDBs
+  Maturity: Early Success
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: UNDP Nepal implemented development programmes across Nepal in 2021 with a total expenditure of $20.4 million.
+
+The World Bank and the ADB jointly co-finance the Nepal Digital Transformation Project contributing $50 million and $ 40 million respectively. It aims to invest in digital platforms including an integrated online citizen service portal and an integrated social registry; a secure government-wide data exchange; and a digital locker to manage verifiable credentials and digital wallet.
+
+However, in 2024, the World Bank cancelled a $110 million loan agreement for the Digital Nepal Acceleration project, two years after signingdue to the lack of clarity on implementation
+
+[P5] Stakeholder Participation and Ecosystem Coordination -> Academic and Research Institutions
+  Maturity: undefined
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: Limited info 
+
+[P5] Stakeholder Participation and Ecosystem Coordination -> Civil Society Engagement
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: Some organisations include Open Knowledge Nepal and Digital Rights Nepal that engage in research and advocacy on digital rights and data stewardship
+
+[P6] Funding Landscape -> Domestic Public Budget for AI/DPI
+  Maturity: Early Success
+  Overall Score: undefined
+  Overall Param Scoring: Early Success
+  Datapoints: Fundign allocated to Ministry of Communication and IT in turn spent on initiatives for digital transformation strategy i.e. Digital Nepal Framework
+
+[P6] Funding Landscape -> MDB and Multilateral/Bilateral Financing
+  Maturity: undefined
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: undefined
+
+[P7] Ecosystem-wide legislation  -> Data Protection and Privacy Legislation
+  Maturity: Greenfield
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: No comprehensive data protection legislation. However, data privacy governed by various laws chief among them being The Incividual Privacy Act and , 2018 and Individual Privacy Regulation
+It ensures  the right to privacy of every individual over their data in the online medium and asserts restrictions on processing and infringment of privacy
+
+[P7] Ecosystem-wide legislation  -> Cyber Security Act
+  Maturity:  Open to Adopt
+  Overall Score: undefined
+  Overall Param Scoring: undefined
+  Datapoints: The National CyberSecurity Policy released in 2023 aims to 
+-Establish legal and institutional frameworks to build a secure cyber space.
+-Protect critical national infrastructure while reducing the risk of cyberattacks.
+-Enhance cyber security research, human resource development and enhancing capacity of existing workforce, to ensure a robust and strong cyber space.
+-Improve the reliability and security of digital technology-based services.
+-Exchange bilateral, regional and international coordination, knowledge sharing, and assistance to reduce cyber security related risks.
+- Increase Nepal's Global Cyber Security Index (GCI) score from the current 44.99% to 60% within the next 5 years,

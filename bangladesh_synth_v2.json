@@ -1,0 +1,319 @@
+{
+  "countryName": "Bangladesh",
+  "dpiEcosystem": {
+    "digitalId": {
+      "title": "Digital ID",
+      "status": "Maturing",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "payments": {
+      "title": "Digital Payments",
+      "status": "Maturing",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "dataExchange": {
+      "title": "Data Exchange",
+      "status": "Early Success",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "useCases": [
+      {
+        "sector": "Government Services",
+        "description": "MyGov - One-stop service access for 172 digitized services"
+      },
+      {
+        "sector": "Language AI",
+        "description": "Kagoj AI - First Bangla language AI platform for official use"
+      },
+      {
+        "sector": "Agriculture",
+        "description": "Krishi Batayan - Integrated information and service portal for farmers"
+      }
+    ]
+  },
+  "aiEcosystem": {
+    "policy": {
+      "title": "AI Strategy",
+      "status": "Open to Adopt",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "governance": {
+      "title": "AI Governance",
+      "status": "Open to Adopt",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "legislation": {
+      "title": "Data Protection",
+      "status": "Maturing",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "initiatives": {
+      "title": "AI Initiatives",
+      "status": "Early Success",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    }
+  },
+  "sectionB": {
+    "fundingLandscape": "Domestic budget (~$211m) supplemented by WB (EDGE, DISTAR) and ADB projects.",
+    "electricityAccess": 100,
+    "internetPenetration": 44.5,
+    "politicalStability": "",
+    "electionCycles": "-",
+    "politicalModalDetails": {
+      "fullContext": "",
+      "keyMetrics": [
+        ""
+      ]
+    }
+  },
+  "parameterStages": {
+    "P1": {
+      "parameter": "AI Ecosystem Maturity",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "IMF AI Preparedness Index (AIPI)  (2023 dataset)",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "National AI Strategy / Policy Status",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Data Protection and Privacy Legislation",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Government AI Initiatives and Projects",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P2": {
+      "parameter": "DPI Ecosystem Maturity",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "National Digital Transformation Strategy",
+          "stage": "Greenfield"
+        },
+        {
+          "name": "Digital ID",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital Payments",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Data Exchange",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Use Cases of DPI Assets",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P3": {
+      "parameter": "Digital-Physical Infrastructure",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "Electricity Access and Reliability",
+          "stage": "Role Model"
+        },
+        {
+          "name": "Internet Penetration",
+          "stage": "Greenfield"
+        },
+        {
+          "name": "Compute and Cloud Capacity",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Digital Inclusion",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P4": {
+      "parameter": "Political Stability and Governance",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "WB Worldwide Governance Indicators - Political Stability Score 2024",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Political stability and DT policy continuity (Requirement of KIIs)",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P5": {
+      "parameter": "Stakeholder Participation and Ecosystem Coordination",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Lead Agency and Government Coordination",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Private Sector Engagement",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Development Partners and MDBs",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Academic and Research Institutions",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Civil Society Engagement",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P6": {
+      "parameter": "Funding Landscape",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Domestic Public Budget for AI/DPI",
+          "stage": "Early Success"
+        },
+        {
+          "name": "MDB and Multilateral/Bilateral Financing",
+          "stage": "Early Success"
+        }
+      ]
+    }
+  },
+  "sectionC": {
+    "actors": [
+      {
+        "id": "bd-1",
+        "name": "ICT Division",
+        "type": "Lead Agency & Govt Coordination",
+        "role": "Primary policy maker",
+        "initiatives": [
+          "Smart Bangladesh 2041 Roadmap"
+        ]
+      },
+      {
+        "id": "bd-2",
+        "name": "a2i (Aspire to Innovate)",
+        "type": "Lead Agency & Govt Coordination",
+        "role": "Digital transformation catalyst",
+        "initiatives": [
+          "MyGov",
+          "G2P",
+          "NDX"
+        ]
+      },
+      {
+        "id": "bd-3",
+        "name": "Bangladesh Bank",
+        "type": "Private Sector",
+        "role": "Central Bank",
+        "initiatives": [
+          "NPSB",
+          "Interbank Payment System"
+        ]
+      },
+      {
+        "id": "bd-4",
+        "name": "Brain Station 23",
+        "type": "Private Sector",
+        "role": "Tech Solution Provider",
+        "initiatives": [
+          "AI/ML in Fintech"
+        ]
+      },
+      {
+        "id": "bd-5",
+        "name": "World Bank",
+        "type": "Development Partners & MDBs",
+        "role": "Funding & Technical Partner",
+        "initiatives": [
+          "EDGE Project",
+          "DISTAR"
+        ]
+      },
+      {
+        "id": "bd-6",
+        "name": "BRAC",
+        "type": "Civil Society",
+        "role": "Implementation Partner",
+        "initiatives": [
+          "Digital Innovation Research"
+        ]
+      }
+    ]
+  },
+  "sectionD": {
+    "takeaways": [
+      {
+        "id": "bd-t1",
+        "text": "Transition from Digital Bangladesh to Smart Bangladesh 2041 marks a shift towards AI-driven ecosystem."
+      },
+      {
+        "id": "bd-t2",
+        "text": "Significant infrastructure progress with near-universal electricity, but digital inclusion gaps remain (rural vs urban)."
+      },
+      {
+        "id": "bd-t3",
+        "text": "Strong donor support (WB, ADB) is critical for scaling foundational DPI assets like the e-Service Bus."
+      }
+    ]
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "Malaysia": {
+    "P1": {
+      "parameter": "AI Ecosystem Maturity",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "IMF AI Preparedness Index (AIPI)  (2023 dataset)",
+          "stage": "Maturing"
+        },
+        {
+          "name": "National AI Strategy / Policy Status",
+          "stage": "Maturing"
+        },
+        {
+          "name": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Data Protection and Privacy Legislation",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Government AI Initiatives and Projects",
+          "stage": "Maturing"
+        }
+      ]
+    },
+    "P2": {
+      "parameter": "DPI Ecosystem Maturity",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "National Digital Transformation Strategy",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital ID",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital Payments",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Data Exchange",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Use Cases of DPI Assets",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P3": {
+      "parameter": "Digital-Physical Infrastructure",
+      "parameterStage": "Role Model",
+      "subParameters": [
+        {
+          "name": "Electricity Access and Reliability",
+          "stage": "Role Model"
+        },
+        {
+          "name": "Internet Penetration",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Compute and Cloud Capacity",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital Inclusion",
+          "stage": "Role Model"
+        }
+      ]
+    },
+    "P4": {
+      "parameter": "Political Stability and Governance",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "WB Worldwide Governance Indicators - Political Stability Score 2024",
+          "stage": "Maturing"
+        }
+      ]
+    },
+    "P5": {
+      "parameter": "Stakeholder Participation and Ecosystem Coordination",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Lead Agency and Government Coordination",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Private Sector Engagement",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Development Partners and MDBs",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Academic and Research Institutions",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Civil Society Engagement",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P6": {
+      "parameter": "Funding Landscape",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Domestic Public Budget for AI/DPI/Investments by private sector",
+          "stage": "Early Success"
+        }
+      ]
+    }
+  },
+  "Cambodia": {
+    "P1": {
+      "parameter": "AI Ecosystem Maturity",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "IMF AI Preparedness Index (AIPI)  (2023 dataset)",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "National AI Strategy / Policy Status",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Data Protection and Privacy Legislation",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P2": {
+      "parameter": "DPI Ecosystem Maturity",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "National Digital Transformation Strategy",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital ID",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Digital Payments",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Data Exchange",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Availability/Deployment Use cases",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P3": {
+      "parameter": "Digital-Physical Infrastructure",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "Electricity Access and Reliability",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Internet Penetration",
+          "stage": "Greenfield"
+        },
+        {
+          "name": "Compute and Cloud Capacity",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Digital Inclusion",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P4": {
+      "parameter": "Political Stability and Governance",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "WB Worldwide Governance Indicators - Political Stability Score 2024",
+          "stage": "Maturing"
+        }
+      ]
+    },
+    "P5": {
+      "parameter": "Stakeholder Participation and Ecosystem Coordination",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Lead Agency and Government Coordination",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Private Sector Engagement",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Development Partners and MDBs",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Academic and Research Institutions",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Civil Society Engagement",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P6": {
+      "parameter": "Funding Landscape",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "Domestic Public Budget for AI/DPI",
+          "stage": "Open to Adopt"
+        }
+      ]
+    }
+  },
+  "Philippines": {
+    "P1": {
+      "parameter": "AI Ecosystem Maturity",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "IMF AI Preparedness Index (AIPI)  (2023 dataset)",
+          "stage": "Early Success"
+        },
+        {
+          "name": "National AI Strategy / Policy Status",
+          "stage": "Early Success"
+        },
+        {
+          "name": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Data Protection and Privacy Legislation",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Government AI Initiatives and Projects",
+          "stage": "Maturing"
+        }
+      ]
+    },
+    "P2": {
+      "parameter": "DPI Ecosystem Maturity",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "National Digital Transformation Strategy",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital ID",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital Payments",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Data Exchange",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Use Cases of DPI Assets",
+          "stage": "Maturing"
+        }
+      ]
+    },
+    "P3": {
+      "parameter": "Digital-Physical Infrastructure",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Electricity Access and Reliability",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Internet Penetration",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Compute and Cloud Capacity",
+          "stage": "Maturing"
+        }
+      ]
+    },
+    "P4": {
+      "parameter": "Political Stability and Governance",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "WB Worldwide Governance Indicators - Political Stability Score 2024",
+          "stage": "Early Success"
+        },
+        {
+          "name": "SK  - RECENT INDICATOR /Strategic and Long-term  Subjective call - KIIs",
+          "stage": "Maturing"
+        }
+      ]
+    },
+    "P5": {
+      "parameter": "Stakeholder Participation and Ecosystem Coordination",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "Lead Agency and Government Coordination",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Private Sector Engagement",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Development Partners and MDBs",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Academic and Research Institutions",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Civil Society Engagement",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P6": {
+      "parameter": "Funding Landscape",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "Domestic Public Budget for AI/DPI",
+          "stage": "Maturing"
+        }
+      ]
+    }
+  },
+  "Bangladesh": {
+    "P1": {
+      "parameter": "AI Ecosystem Maturity",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "IMF AI Preparedness Index (AIPI)  (2023 dataset)",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "National AI Strategy / Policy Status",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Data Protection and Privacy Legislation",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Government AI Initiatives and Projects",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P2": {
+      "parameter": "DPI Ecosystem Maturity",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "National Digital Transformation Strategy",
+          "stage": "Greenfield"
+        },
+        {
+          "name": "Digital ID",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital Payments",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Data Exchange",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Use Cases of DPI Assets",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P3": {
+      "parameter": "Digital-Physical Infrastructure",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "Electricity Access and Reliability",
+          "stage": "Role Model"
+        },
+        {
+          "name": "Internet Penetration",
+          "stage": "Greenfield"
+        },
+        {
+          "name": "Compute and Cloud Capacity",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Digital Inclusion",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P4": {
+      "parameter": "Political Stability and Governance",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "WB Worldwide Governance Indicators - Political Stability Score 2024",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Political stability and DT policy continuity (Requirement of KIIs)",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P5": {
+      "parameter": "Stakeholder Participation and Ecosystem Coordination",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Lead Agency and Government Coordination",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Private Sector Engagement",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Development Partners and MDBs",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Academic and Research Institutions",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Civil Society Engagement",
+          "stage": "Early Success"
+        }
+      ]
+    },
+    "P6": {
+      "parameter": "Funding Landscape",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Domestic Public Budget for AI/DPI",
+          "stage": "Early Success"
+        },
+        {
+          "name": "MDB and Multilateral/Bilateral Financing",
+          "stage": "Early Success"
+        }
+      ]
+    }
+  },
+  "Nepal": {
+    "P1": {
+      "parameter": "AI Ecosystem Maturity",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "IMF AI Preparedness Index (AIPI)  (2023 dataset)",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "National AI Strategy / Policy Status",
+          "stage": "Early Success"
+        },
+        {
+          "name": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Data Protection and Privacy Legislation",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Government AI Initiatives and Projects",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P2": {
+      "parameter": "DPI Ecosystem Maturity",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "National Digital Transformation Strategy",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital ID",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital Payments",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Data Exchange",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Use Cases of DPI Assets",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P3": {
+      "parameter": "Digital-Physical Infrastructure",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Electricity Access and Reliability",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Internet Penetration",
+          "stage": "Greenfield"
+        },
+        {
+          "name": "Compute and Cloud Capacity",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Digital Inclusion",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P4": {
+      "parameter": "Political Stability and Governance",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "WB Worldwide Governance Indicators - Political Stability Score 2024",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Political stability and DT policy continuity (Requirement of KIIs)",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P5": {
+      "parameter": "Stakeholder Participation and Ecosystem Coordination",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "Lead Agency and Government Coordination",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Private Sector Engagement",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Development Partners and MDBs",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Academic and Research Institutions",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Civil Society Engagement",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P6": {
+      "parameter": "Funding Landscape",
+      "parameterStage": "Greenfield",
+      "subParameters": [
+        {
+          "name": "Domestic Public Budget for AI/DPI",
+          "stage": "Early Success"
+        },
+        {
+          "name": "MDB and Multilateral/Bilateral Financing",
+          "stage": "Greenfield"
+        }
+      ]
+    }
+  }
+}

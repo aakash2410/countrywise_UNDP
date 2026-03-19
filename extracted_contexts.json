@@ -1,0 +1,160 @@
+{
+  "Bangladesh": {
+    "ai_policy": {
+      "summary": "National Artificial Intelligence Policy 2026-30  (Drafts V1.1 and V2.0)",
+      "desc": "Vision To develop an ethical and innovative environment for the use and development of AI to accelerate Bangladesh’s path towards a middle-income country, as outlined in the Vision 2041 master plan and aligned with the UN’s Sustainable Development Goals (SDGs).   Mission  Establishing Bangladesh as a pioneer in AI innovation and adoption, creating a ‘Smart Bangladesh’ that leverages AI technologies for the well-being of all citizens, economic prosperity, and sustainable development in accord with four pillars; Smart Government, Smart Society, Smart Economy and Smart Citizen.  Objectives -Ethical and secure AI governance and compliance -Foster AI innovation for the public sector -Promoting economic growth -Strenghten AI readiness",
+      "metrics": [
+        "Vision",
+        "To develop an ethical and innovative environment for the use and development of AI to accelerate Bangladesh’s path towards a middle-income country, as outlined in the Vision 2041 master plan and aligned with the UN’s Sustainable Development Goals (SDGs).",
+        "Mission",
+        "Establishing Bangladesh as a pioneer in AI innovation and adoption, creating a ‘Smart Bangladesh’ that leverages AI technologies for the well-being of all citizens, economic prosperity, and sustainable development in accord with four pillars; Smart Government, Smart Society, Smart Economy and Smart Citizen."
+      ]
+    },
+    "ai_gov": {
+      "summary": "As in AI Policy",
+      "desc": "-",
+      "metrics": [
+        "As in AI Policy"
+      ]
+    },
+    "ai_legis": {
+      "summary": "The Personal Data Protection Ordinance, 2025",
+      "desc": "Vision Make provisions for processing personal data of a person for the purposes of legitimate use ensuring privacy, confidentiality and security and recognizing the personal data as personal right of a data-subject  Mission  Creating a unified framework that aligns with international standards and ensures privacy, confidentiality, and security of personal data, recognizing it as a right of the data subject.  Objectives  -Citizen focused control -Consent based processes -Digital sovereignty  -Grievance redressal -Responsible data fiduciary",
+      "metrics": [
+        "Vision",
+        "Make provisions for processing personal data of a person for the purposes of legitimate use ensuring privacy, confidentiality and security and recognizing the personal data as personal right of a data-subject",
+        "Mission",
+        "Creating a unified framework that aligns with international standards and ensures privacy, confidentiality, and security of personal data, recognizing it as a right of the data subject."
+      ]
+    },
+    "ai_init": {
+      "summary": "MyGov Kagoj AI",
+      "desc": "MyGov  A one-stop service access point of Bangladesh for all govt. services by which citizens can avail of 172 digitsed services across 7 sectors by using their single identity.   Kagoj AI  Bangladesh's first Artificial Intelligence platform for the Bangla language; it supports AI driven language processing in Bangla and is useful in digitising existing written work using a new Julai font, that measures the compatability between English and Bangla.  Kagoj AI does not find itself limited to institutional and official use and can also be accessed and utilised by larger public audiences for content creation and digital writing  Enhancement of Bangla Language in ICT through Research & Development (EBLICT) Joint initiative by the ICT division and Bangaldesh Computer Council to increase inclusion of Bengali for AI development",
+      "metrics": [
+        "MyGov",
+        "A one-stop service access point of Bangladesh for all govt. services by which citizens can avail of 172 digitsed services across 7 sectors by using their single identity.",
+        "Kagoj AI",
+        "Bangladesh's first Artificial Intelligence platform for the Bangla language; it supports AI driven language processing in Bangla and is useful in digitising existing written work using a new Julai font, that measures the compatability between English and Bangla.  Kagoj AI does not find itself limited to institutional and official use and can also be accessed and utilised by larger public audiences for content creation and digital writing"
+      ]
+    },
+    "dpi_id": {
+      "summary": "Present: National ID (DPI like)",
+      "desc": "National ID (Ongoing)  The National ID is a smart ID card containing an embedded microchip and featuring a unique 10-digit identification number – the National Identification Number (NIN). It is used to access public and private services such as banking, mobile registration and voter registration among other purposes. From 2011-2018, the World Bank Identification for Enhanced Access to Services (IDEAS) Project provided technical assistance. Due to implementation and policy delays, only 90 million NID cards (half the desired goal) was achieved by 2018",
+      "metrics": [
+        "National ID (Ongoing)",
+        "The National ID is a smart ID card containing an embedded microchip and featuring a unique 10-digit identification number – the National Identification Number (NIN). It is used to access public and private services such as banking, mobile registration and voter registration among other purposes. From 2011-2018, the World Bank Identification for Enhanced Access to Services (IDEAS) Project provided technical assistance. Due to implementation and policy delays, only 90 million NID cards (half the desired goal) was achieved by 2018"
+      ]
+    },
+    "dpi_pay": {
+      "summary": "Present: National Payment Switch (DPI like)",
+      "desc": "National Payment Switch (Ongoing)  Operational since 2012, the National Payment Switch Bangladesh (NPSB) is a platform that allows for seamless movement of funds from customers to banks to Mobile Financial Services (MFS) providers. It   supports extensive bank-to-wallet and MFS-to-MFS transactions,  with an aim to replace existing banking platforms with a unified, secure system  Bank-to-MFS transfers fees set at Tk 1.5 per Tk 1,000; MFS-to-bank transfers set at Tk 8.5 per Tk 1,000; 2025",
+      "metrics": [
+        "National Payment Switch (Ongoing)",
+        "Operational since 2012, the National Payment Switch Bangladesh (NPSB) is a platform that allows for seamless movement of funds from customers to banks to Mobile Financial Services (MFS) providers. It   supports extensive bank-to-wallet and MFS-to-MFS transactions,  with an aim to replace existing banking platforms with a unified, secure system",
+        "Bank-to-MFS transfers fees set at Tk 1.5 per Tk 1,000; MFS-to-bank transfers set at Tk 8.5 per Tk 1,000; 2025"
+      ]
+    },
+    "dpi_data": {
+      "summary": "Present: National E-Service Bus (DPI like)",
+      "desc": "National E-Service Bus (Ongoing)  As of a document from August 2025, the National E-Service Bus was being used by around 15 government agencies including the NID agency, National Board of Revenue, BTRC, the Ministry of Agriculture, and the Office of the Registrar General. The platform still requires upgrades for scaling and broader adoption. The World Bank group is assisting with the software upgrading of the bus, along with standardized API specifications, operational processes, and technical capacity for government agencies to leverage the platform for service delivery",
+      "metrics": [
+        "National E-Service Bus (Ongoing)",
+        "As of a document from August 2025, the National E-Service Bus was being used by around 15 government agencies including the NID agency, National Board of Revenue, BTRC, the Ministry of Agriculture, and the Office of the Registrar General. The platform still requires upgrades for scaling and broader adoption. The World Bank group is assisting with the software upgrading of the bus, along with standardized API specifications, operational processes, and technical capacity for government agencies to leverage the platform for service delivery"
+      ]
+    },
+    "pol_stab": {
+      "summary": "-",
+      "desc": "Elections recently concluded",
+      "metrics": [
+        "Elections recently concluded"
+      ]
+    },
+    "pol_elec": {
+      "summary": "-",
+      "desc": "Elections recently concluded",
+      "metrics": [
+        "Elections recently concluded"
+      ]
+    }
+  },
+  "Nepal": {
+    "ai_policy": {
+      "summary": "National AI Policy, 2025",
+      "desc": "Vision To build a human-Centered, ethical, and prosperous Nepal through Artificial Intelligence (AI) technology.  Mission To maximize the use of Artificial Intelligence for the socio-economic development of the nation.  Goals - Increase the contribution of the information technology sector to the Gross Domestic Product (GDP) by 1% through the optimal use of AI across all socio-economic sectors. - Improve Nepal’s position within the top 50 countries in the Global Government AI Readiness Index. - Produce at least five thousand skilled human resources in the field of AI within five years. - Establish AI Excellence Centres in all provinces within five years. - Achieve AI literacy for the entire population, including students at the basic education level.  Objectives - Build a sustainable and reliable AI ecosystem. - Accelerate the economic growth rate through the optimal use of AI. - Enhance the effectiveness of public service delivery through AI applications. - Strengthen AI governance",
+      "metrics": [
+        "Vision",
+        "To build a human-Centered, ethical, and prosperous Nepal through Artificial Intelligence (AI) technology.",
+        "Mission",
+        "To maximize the use of Artificial Intelligence for the socio-economic development of the nation."
+      ]
+    },
+    "ai_gov": {
+      "summary": "As in AI policy",
+      "desc": "",
+      "metrics": [
+        "As in AI policy"
+      ]
+    },
+    "ai_legis": {
+      "summary": "National Cyber Security Policy, 2023",
+      "desc": "Building a secure as well as Resilient Cyber Space.  Mission To ensure information and data security and protection of information technology systems through a combination of people, process and technology by developing legal and institutional structure, enhancing public awareness and developing capacity.  Objectives -Establish legal and institutional frameworks to build a secure cyber space. -Protect critical national infrastructure while reducing the risk of cyberattacks. -Enhance cyber security research, human resource development and enhancing capacity of existing workforce, to ensure a robust and strong cyber space. -Improve the reliability and security of digital technology-based services. -Exchange bilateral, regional and international coordination, knowledge sharing, and assistance to reduce cyber security related risks.  Goal To increase Nepal's Global Cyber Security Index (GCI) score from the current 44.99% to 60% within the next 5 years, 70% within 10 years, and 80% in the 15 years.",
+      "metrics": [
+        "Building a secure as well as Resilient Cyber Space.",
+        "Mission",
+        "To ensure information and data security and protection of information technology systems through a combination of people, process and technology by developing legal and institutional structure, enhancing public awareness and developing capacity.",
+        "Objectives"
+      ]
+    },
+    "ai_init": {
+      "summary": "",
+      "desc": "Lalitpur Metropolitan City (LMC) has successfully deployed a pioneering AI-based intelligent traffic light system in certain major junctions in the city to manage the traffic situation more efficiently. This system uses real-time data to adjust timings at traffic signals automatically.  SITA - Developed by UNFPA, in collaboration with the Ministry of Health and Population, UNFPA HQ’s IT Services Office, Google, and with support from the British Embassy Kathmandu, SITA is an AI platform to  rapidly analyze national datasets and generate detailed insights. It scans thousands of variables in massive datasets like the Nepal Demographic and Health Survey (NDHS), runs the analysis, and outputs polished charts, tables, and even written narratives that match human quality. This helps in making real time decisions at national level.",
+      "metrics": [
+        "Lalitpur Metropolitan City (LMC) has successfully deployed a pioneering AI-based intelligent traffic light system in certain major junctions in the city to manage the traffic situation more efficiently. This system uses real-time data to adjust timings at traffic signals automatically.",
+        "SITA - Developed by UNFPA, in collaboration with the Ministry of Health and Population, UNFPA HQ’s IT Services Office, Google, and with support from the British Embassy Kathmandu, SITA is an AI platform to  rapidly analyze national datasets and generate detailed insights.",
+        "It scans thousands of variables in massive datasets like the Nepal Demographic and Health Survey (NDHS), runs the analysis, and outputs polished charts, tables, and even written narratives that match human quality. This helps in making real time decisions at national level."
+      ]
+    },
+    "dpi_id": {
+      "summary": "Rastriya Parichaya Patra; National Identity",
+      "desc": "Rastriya Parichaya Patra; National Identity  As of 2025, over 17 million people have been registered which is about 57% of the population and approximately 6 million cards have been printed. Over 97% of local government units have switched to online civil registration of vital events like births and deaths, forming a foundational database. The government has also started making the card mandatory for certain services, such as banking, social security fund access, and real estate transactions.   The ID system is integrated with the Nagarik App and is mandated (in 28 districts) for accessing services like pensions and health insurance. It aims to unify credentials like voter ID, citizenship cards, and driving licenses. However, there is no operational authentication infrastructure i.e. KYC and most agencies still require physical documents",
+      "metrics": [
+        "Rastriya Parichaya Patra; National Identity",
+        "As of 2025, over 17 million people have been registered which is about 57% of the population and approximately 6 million cards have been printed. Over 97% of local government units have switched to online civil registration of vital events like births and deaths, forming a foundational database. The government has also started making the card mandatory for certain services, such as banking, social security fund access, and real estate transactions.",
+        "The ID system is integrated with the Nagarik App and is mandated (in 28 districts) for accessing services like pensions and health insurance. It aims to unify credentials like voter ID, citizenship cards, and driving licenses. However, there is no operational authentication infrastructure i.e. KYC and most agencies still require physical documents"
+      ]
+    },
+    "dpi_pay": {
+      "summary": "National Payments Interface (NPI)",
+      "desc": "National Payments Interface (NPI) (Ongoing)  National Payments Interface (NPI) is the consolidated set of APIs of multiple payment systems hosted by NCHL or any other institutions built in an Open API platform concept. It currently provides access to the Nepal Clearing House Limited- Interbank Payment System (NCHL-IPS) and Retail Payment System (RPS); underlying payment systems with the overlaying services built on top of the platform.   Nepal Clearing House Limited (NCHL), a public limited company, serves as the core operator of the country’s clearing, settlement, and switching infrastructure and functions as the backbone of the National Payment Switch, enabling interoperability across systems.   It has also implemented initiatives such as NepalPay QR and NepalPay Instant for real-time payments. QR payments are accepted by over 2 million merchants, with volumes growing 117% in a year. In 2024/25, NCHL processed 186 million transactions, covering 17% of total market volume but 77% of value. Also ~90% of government expenses are digital transactions.",
+      "metrics": [
+        "National Payments Interface (NPI) (Ongoing)",
+        "National Payments Interface (NPI) is the consolidated set of APIs of multiple payment systems hosted by NCHL or any other institutions built in an Open API platform concept. It currently provides access to the Nepal Clearing House Limited- Interbank Payment System (NCHL-IPS) and Retail Payment System (RPS); underlying payment systems with the overlaying services built on top of the platform.",
+        "Nepal Clearing House Limited (NCHL), a public limited company, serves as the core operator of the country’s clearing, settlement, and switching infrastructure and functions as the backbone of the National Payment Switch, enabling interoperability across systems.",
+        "It has also implemented initiatives such as NepalPay QR and NepalPay Instant for real-time payments. QR payments are accepted by over 2 million merchants, with volumes growing 117% in a year. In 2024/25, NCHL processed 186 million transactions, covering 17% of total market volume but 77% of value. Also ~90% of government expenses are digital transactions."
+      ]
+    },
+    "dpi_data": {
+      "summary": "Government Cloud",
+      "desc": "Government Cloud (Pipeline)  The government of Nepal has partnered with various cloud service providers to build its cloud infrastructure and improve the delivery of e-governance services.   Government Integrated Data Center (GIDC) is operational under the MoCIT",
+      "metrics": [
+        "Government Cloud (Pipeline)",
+        "The government of Nepal has partnered with various cloud service providers to build its cloud infrastructure and improve the delivery of e-governance services.",
+        "Government Integrated Data Center (GIDC) is operational under the MoCIT"
+      ]
+    },
+    "pol_stab": {
+      "summary": "Previous cycle in 2022 next one in March, 2026",
+      "desc": "5 year election cycle. Mass and violent protests by youth against (popularily referred to as Gen Z protests) took place in September 2025 forcing the resignation of the Prime Minister Khadga Prasad Sharma Oli and desolution of the house of representatives. An interim government headed by former chief justice Sushila Karki has been appointed.",
+      "metrics": [
+        "5 year election cycle. Mass and violent protests by youth against (popularily referred to as Gen Z protests) took place in September 2025 forcing the resignation of the Prime Minister Khadga Prasad Sharma Oli and desolution of the house of representatives. An interim government headed by former chief justice Sushila Karki has been appointed."
+      ]
+    },
+    "pol_elec": {
+      "summary": "Previous cycle in 2022 next one in March, 2026",
+      "desc": "5 year election cycle. Mass and violent protests by youth against (popularily referred to as Gen Z protests) took place in September 2025 forcing the resignation of the Prime Minister Khadga Prasad Sharma Oli and desolution of the house of representatives. An interim government headed by former chief justice Sushila Karki has been appointed.",
+      "metrics": [
+        "5 year election cycle. Mass and violent protests by youth against (popularily referred to as Gen Z protests) took place in September 2025 forcing the resignation of the Prime Minister Khadga Prasad Sharma Oli and desolution of the house of representatives. An interim government headed by former chief justice Sushila Karki has been appointed."
+      ]
+    }
+  }
+}

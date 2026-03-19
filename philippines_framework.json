@@ -1,0 +1,347 @@
+[
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "IMF AI Preparedness Index (AIPI) \n(2023 dataset)",
+    "Stage 1\n Greenfield\n (No Activity)": "< 0.30",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "0.30 – 0.45",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "0.45 – 0.60",
+    "Stage 4\nMaturing\n(Implementation)": "0.60 – 0.75",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "> 0.75",
+    "Phillipines- Datapoints": "AI Preparedness Index Score is 0.5",
+    "Categorisation ": "Early Stage",
+    "Score": 3,
+    "Parameter scoring ": "Early Success"
+  },
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "National AI Strategy / Policy Status",
+    "Stage 1\n Greenfield\n (No Activity)": "No national AI strategy or policy; absent from government agenda",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Draft strategy or formal consultations underway",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "National AI strategy formally published",
+    "Stage 4\nMaturing\n(Implementation)": "AI strategy actively implemented with defined targets and allocated funding",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Comprehensive, regularly reviewed AI strategy with measurable outcomes and enforcement mechanisms",
+    "Phillipines- Datapoints": "- National AI Strategy and Research Agenda 2.0 (NAISR 2.0) launched in July 2024 by the Department of Trade and Industry (DTI), covering seven strategic imperatives across infrastructure, talent, and ethical AI\n- Centre for AI Research (CAIR) established concurrently as the Philippines' national AI research hub, targeting agriculture and healthcare sectors\n- As of 2026, implementation remains early-stage — no public monitoring framework or verified progress tracking in place (UNESCO, 2025)",
+    "Categorisation ": "Early Stage",
+    "Score": 3
+  },
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+    "Stage 1\n Greenfield\n (No Activity)": "No governance framework or regulatory discussion; No ethical AI discussion or principles",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Initial discussions on AI governance; no formal framework; Ethical AI principles under discussion or consultation",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "AI governance guidelines or regulatory approach published; Ethical AI principles formally published",
+    "Stage 4\nMaturing\n(Implementation)": "AI governance framework operationalised; regulatory body or oversight function designated;Ethical AI principles embedded in procurement, deployment standards, and public-sector mandates",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Comprehensive regulatory regime with active oversight, enforcement, and adaptive review cycles;Ethical AI framework benchmarked internationally; referenced or adopted by peer countries",
+    "Phillipines- Datapoints": "- No enacted AI-specific legislation as of 2026; Senate Bill No. 25 (Artificial Intelligence Regulation Act) remains in Senate committee\n- House Bill 7396 (comprehensive AI deployment framework) also pending enactment\n- DICT and Civil Service Commission published a draft Joint Memorandum Circular on Ethical AI Use in Government (April 2024) — open for public consultation; not yet enacted as of March 2026\n- Draft JMC draws on OECD AI Principles, UNESCO Recommendation on Ethics of AI, and the ASEAN AI Governance Guide\n- No dedicated national lead agency for AI governance currently exists (UNESCO RAM, December 2025)",
+    "Categorisation ": "Open to Adopt",
+    "Score": 2,
+    "Insight?": "- The Philippines is at a critical governance inflection point: AI legislation (SB 25) and ethical guidelines are being shaped NOW, with no lead agency yet designated. UNDP can step in as a neutral convenor to support the design of an inclusive AI governance architecture — drawing on its work with UNESCO's AI RAM and OECD AI Principles to ensure civil society and marginalised voices are embedded before these structures solidify.\n- Opportunity to position UNDP as the preferred technical partner for the DICT in operationalising the Joint Memorandum Circular on Ethical AI Use in Government — a concrete, near-term deliverable with institutional traction."
+  },
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "Data Protection and Privacy Legislation",
+    "Stage 1\n Greenfield\n (No Activity)": "No data protection legislation",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Draft data protection law or consultation underway",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Data protection legislation enacted",
+    "Stage 4\nMaturing\n(Implementation)": "Data protection law enforced with designated authority and complaint mechanisms",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Data protection law enforced with strong redressal mechanism",
+    "Phillipines- Datapoints": "- Data Privacy Act of 2012 (RA 10173): comprehensive, actively enforced privacy law with extraterritorial reach\n\n- National Privacy Commission (NPC) oversees compliance; mandates 72-hour breach reporting for high-risk incidents\n\n- NPC Advisory 2024-04 extends data privacy regulation to AI: requires Privacy Impact Assessments and 'meaningful human intervention' in AI-driven profiling and automated decision-making\n\n- UNDP Digital Development Compass: Philippines scores 4 in data and privacy",
+    "Categorisation ": "Maturing ",
+    "Score": 4
+  },
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "Government AI Initiatives and Projects",
+    "Stage 1\n Greenfield\n (No Activity)": "No government AI initiatives or pilots",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Ad hoc exploratory pilots initiated by individual agencies",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Pilot AI projects implemented in select public-sector domains with defined scope",
+    "Stage 4\nMaturing\n(Implementation)": "Multiple AI deployments across ministries and public services; government AI programs with funding and targets",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Large-scale AI deployment across government; national AI program with R&D, compute, and talent investment",
+    "Phillipines- Datapoints": "- National AI Center for Research and Innovation (NAICRI) launched February 2026 as the central shared high-performance computing (HPC) hub for government AI workloads\n- Key sector deployments:\n  a. Education: Project AGAP.AI (January 2026) — national AI upskilling program targeting 1.5 million learners and teachers\n  b. Health: UTAK AI deployed in public hospitals for brain tumour detection; AINA tool delivers AI-driven nutrition assessments for rural health workers\n  c. Disaster Resilience: AI-4RP (Project Gabay) — 2km resolution AI weather forecasting (DOST–Atmo Inc. partnership)\n  d. Governance: Digital Bayanihan Chain (January 2026) — Philippines is the first country to record its entire national budget on a blockchain ledger",
+    "Categorisation ": "Early Success",
+    "Score": 3,
+    "Insight?": "The government recently launched the national AI hub called NAICRI, which provides the computing power needed for massive data projects. This means the expensive hardware is ready for use. UNDP can partner with the Department of Science and Technology to build a pipeline of projects that focus on the marginalised. Instead of just helping big business, we can use these supercomputers to solve real-world problems like predicting crop failures for small farmers or improving health services in rural areas."
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "National Digital Transformation Strategy",
+    "Stage 1\n Greenfield\n (No Activity)": "No national DT strategy or roadmap",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Draft DT strategy or consultations underway",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "National DT strategy formally published with implementation roadmap",
+    "Stage 4\nMaturing\n(Implementation)": "DT strategy actively implemented with targets, timelines, and dedicated budget",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "DT strategy mature, regularly updated, and used as a model for regional peers",
+    "Phillipines- Datapoints": "-E-Governance Act (RA 12254), signed September 2025: mandates full digitisation of the Philippine bureaucracy; institutionalises DICT as the lead digital authority; establishes a unified Integrated Government Network across all national and local agencies\n\n- Konektadong Pinoy Act (RA 12234), August 2025: removes legislative franchise requirement for internet providers, enabling competitive entry (including Starlink) and expanded rural broadband\n\n- Execution gap: 1,700+ Local Government Units (LGUs) must legally establish digital portals or adopt the DICT eLGU system by end-2026; many rural municipalities lack technical staff and budgets to comply",
+    "Categorisation ": "Early Success",
+    "Score": 3,
+    "Insight?": "- The LGU compliance gap under RA 12254 is the most under-served entry point in the Philippines' digital transition. Over 1,700 LGUs must establish digital portals by end-2026, yet most lack technical staff and budgets. UNDP has a unique role providing 'last-mile' digital governance capacity building in high-need municipalities, where the World Bank and ADB have limited sub-national presence.\n- UNDP can leverage its existing country office networks to co-design a standardised LGU Digital Readiness Toolkit — reducing reliance on bespoke and costly procurement processes.",
+    "Parameter scoring ": "Maturing"
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "Digital ID",
+    "Stage 1\n Greenfield\n (No Activity)": "No national digital ID system",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Digital ID system under design or piloting",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Operational national digital ID with basic authentication; enrollment underway",
+    "Stage 4\nMaturing\n(Implementation)": "Digital ID with biometric coverage, multi-factor authentication, and interoperability with at least one other DPI",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Fully interoperable digital ID with high population coverage, privacy safeguards, and federated authentication",
+    "Phillipines- Datapoints": "Implementation status: Implemented\nProgram details: Philippine Identification System (PhilSys) | 2021 onwards\nImplementation agency: Philippine Statistics Authority (PSA)\nAdoption: 90 million registered Filipinos (~80% of population) as of December 2025\n- Multi-modal biometrics (iris, fingerprint, facial capture) ensure unique, non-duplicable PhilSys Number (PSN) per citizen\n- Interoperable with banking (instant e-KYC under BSP Circular 1105) and the eGovPH Super App (Single Sign-On for health, social, and local government services)",
+    "Categorisation ": "Early Success",
+    "Score": 3
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "Digital Payments",
+    "Stage 1\n Greenfield\n (No Activity)": "No national digital payments infrastructure",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Digital payments system in design or early pilot",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Operational digital payments system with basic interoperability",
+    "Stage 4\nMaturing\n(Implementation)": "Interoperable digital payments across financial institutions; growing financial inclusion; significant transaction volumes",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Universal, fully interoperable digital payments; high financial inclusion; integrated with regional payment systems",
+    "Phillipines- Datapoints": "Implementation status: Implemented\nProgram details: PhilPaSSplus (real-time gross settlement system) | BSP | ISO 20022 compliant\nImplementation agency: Bangko Sentral ng Pilipinas (BSP)\nAdoption: PHP 151.3 trillion in transactions processed in Q3 2025 (21% increase year-on-year)\n- Retail payment rails: InstaPay and PESONet for low-value real-time and high-value/batch transfers respectively\n- System expanded toward 24/7 operations in 2026; underpins national wholesale CBDC pilot",
+    "Categorisation ": "Early Success",
+    "Score": 4
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "Data Exchange",
+    "Stage 1\n Greenfield\n (No Activity)": "No data exchange infrastructure or framework",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Data sharing framework under discussion or design",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Basic data exchange infrastructure operational; limited interoperability between agencies",
+    "Stage 4\nMaturing\n(Implementation)": "Cross-agency data exchange operational with consent mechanisms and defined standards",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Mature data exchange ecosystem; extensive partner onboarding; privacy-preserving data sharing across sectors",
+    "Phillipines- Datapoints": "Implementation status: Implemented\nProgram details: eGovDX (Electronic Government Data Exchange) | DICT\nImplementation agency: Department of Information and Communications Technology (DICT)\n- Secure middleware enabling interoperable data sharing across national agencies via standardised APIs\n- Operates under the Data Privacy Act (RA 10173); governed by Data Sharing Agreements (DSAs) and NPC notifications\n- Active cross-agency use cases: DSWD–BSP social transfer targeting; PSA–BSP identity verification",
+    "Categorisation ": "Maturing ",
+    "Score": 4
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "Use Cases of DPI Assets",
+    "Stage 1\n Greenfield\n (No Activity)": "No DPI assets operational; no use cases in public or private sector",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Use case of a DPI asset is being planned ",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Use cases of DPI assets across 2–3 sectors in pilot or expansion stage",
+    "Stage 4\nMaturing\n(Implementation)": "Multiple use cases across 4+ sectors, cross-DPI integration in public service delivery",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Use case deployment across all government schemes and private sector innovation",
+    "Phillipines- Datapoints": "- Social Protection (DSWD): 4Ps program serves 4.4 million+ households; fully digitised via PhilSys verification and PhilPaSSplus payment rails\n- Health (PhilHealth): Insurance claims integrated with PhilSys registry for real-time eligibility checks and eClaims processing\n- Government Finance (LandBank): Salaries, pensions, and social benefits processed via eMDS and Link.BizPortal digital rails\n- Education (DepEd): Learner Information System (LIS) and Project Bukas use digital identifiers to track student progress across 1.5 million teachers and learners\n- Cross-DPI (eGovPH Super App): Integrates 1,100+ government systems; 440 million+ transactions processed as of early 2026",
+    "Categorisation ": "Early Success",
+    "Score": 3
+  },
+  {
+    "P#": "P3",
+    "Parameter": "Digital-Physical Infrastructure",
+    "Sub-Parameter": "Electricity Access and Reliability",
+    "Stage 1\n Greenfield\n (No Activity)": "Electricity access <70%;unreliable grid",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Electricity access <70%; national electrification roadmap or grid investment actively underway",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Electricity access >80%",
+    "Stage 4\nMaturing\n(Implementation)": "Electricity access >95%; stable grid nationally",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Near-universal electricity supply",
+    "Phillipines- Datapoints": "- National household electrification rate: 89% by 2024. Expected to reach 91.7% (NEA and DOE, 2025)\n- Regional disparity: Luzon at 98.5%, Visayas at 95.8%; Mindanao significantly lower at 83.8%, with BARMM provinces averaging below 50%",
+    "Categorisation ": "Early Success ",
+    "Score": 3,
+    "Parameter scoring ": "Open to Adopt"
+  },
+  {
+    "P#": "P3",
+    "Parameter": "Digital-Physical Infrastructure",
+    "Sub-Parameter": "Internet Penetration",
+    "Stage 1\n Greenfield\n (No Activity)": "Internet penetration <70%; significant urban-rural gap",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Internet penetration <70%; active connectivity expansion program",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Internet penetration >80%",
+    "Stage 4\nMaturing\n(Implementation)": "Internet penetration >95%",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Near-universal internet ",
+    "Phillipines- Datapoints": "- 98 million internet users as of early 2026; 83.8% internet penetration rate (DataReportal, 2026)\n- ~19 million people (16.2%) remain offline, primarily due to affordability constraints and regional infrastructure gaps",
+    "Categorisation ": "Early Success ",
+    "Score": 3
+  },
+  {
+    "P#": "P3",
+    "Parameter": "Digital-Physical Infrastructure",
+    "Sub-Parameter": "Compute and Cloud Capacity",
+    "Stage 1\n Greenfield\n (No Activity)": "No cloud or data centre presence; no domestic hosting capacity",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Nascent or imported cloud services only; no domestic compute infrastructure",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Basic cloud or data hosting via domestic or regional providers",
+    "Stage 4\nMaturing\n(Implementation)": "Compute-capable national data centres operational; domestic and international cloud available",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Availability of compute- govt effort, data centres",
+    "Phillipines- Datapoints": "- Installed data centre capacity: 632.80 MW across 28 operational colocation facilities (Mordor Intelligence, 2026)\n- Google Cloud activated its first Philippine cloud region in early 2026; PLDT VITRO Sta. Rosa (50 MW) and STT Fairview (124 MW) are the country's first AI-ready hyperscale facilities\n- NAICRI (launched February 2026) provides shared supercomputing (HPC) via DOST-ASTI COARE for government AI workloads",
+    "Categorisation ": "Maturing ",
+    "Score": 4
+  },
+  {
+    "P#": "P3",
+    "Parameter": "Digital-Physical Infrastructure",
+    "Sub-Parameter": "Digital Inclusion ",
+    "Stage 1\n Greenfield\n (No Activity)": "Large access gaps across geographic, gender, and socioeconomic dimensions; no disaggregated data collected",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Inclusion gaps identified and measured; pilot programmes or targeted interventions initiated",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Inclusion programmes operational;gaps narrowing with measurable progress",
+    "Stage 4\nMaturing\n(Implementation)": "Gaps significantly narrowed- rural-urban gap <5 percentage points, gender gap <5 percentage points; affrodable infrastructure available nationally",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Near equitable access across all dimensions ",
+    "Phillipines- Datapoints": "- Individual internet penetration: 83.8% (98 million users) as of early 2026 (DataReportal) — includes mobile internet access\n- Household internet access: 48.8% by July 2025 (PSA) — measures fixed/home connectivity; lower because many users access the internet via mobile only, not home broadband\n- Urban-rural gap (individual users): Metro Manila ~88%; Zamboanga Peninsula ~51% (DataReportal regional estimates, 2025)\n- Gender parity: The Philippines ranks 20th globally in the 2025 Global Gender Gap Report; near-equal internet usage between men and women\n- Affordability remains the primary barrier for 58.3% of unconnected households; average monthly internet spend: PHP 1,069 in 2024 (down from PHP 1,281 in 2019)",
+    "Categorisation ": "Open to Adopt",
+    "Score": 2,
+    "Insight?": "At 83.8% individual internet penetration, the Philippines has achieved broad mobile connectivity — but this masks a sharp geographic inequality. Regional estimates suggest a ~37 percentage point gap between Metro Manila and Zamboanga Peninsula in individual internet access, concentrated among lower-income households in rural Mindanao and the Visayas, where affordability (a barrier for 58.3% of unconnected households) and infrastructure gaps compound each other.\n\nGender is not the fault line here — the Philippines ranks 20th globally on gender parity in technology access. The divide is geographic and socioeconomic. UNDP can partner with USAID BEACON and the Gates Foundation to fund community connectivity in isolated areas, and work with BSP and NTC to design affordability subsidies delivered through existing cash transfer infrastructure to reach the bottom quintile."
+  },
+  {
+    "P#": "P4",
+    "Parameter": "Political Stability and Governance",
+    "Sub-Parameter": "WB Worldwide Governance Indicators - Political Stability Score\n2024",
+    "Stage 1\n Greenfield\n (No Activity)": "0 – 20th percentile",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "20 – 40th percentile",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "40 – 60th percentile",
+    "Stage 4\nMaturing\n(Implementation)": "60 – 80th percentile",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "80 – 100th percentile",
+    "Phillipines- Datapoints": "Political stability improved from 2019 to 2024 by ~4 percentage points (48.65 to 52.67) — Philippines sits within the 40–60th percentile of the WB Worldwide Governance Indicators",
+    "Categorisation ": "Early Success",
+    "Score": 3,
+    "Parameter scoring ": "Maturing"
+  },
+  {
+    "P#": "P4",
+    "Parameter": "Political Stability and Governance",
+    "Sub-Parameter": "SK  - RECENT INDICATOR /Strategic and Long-term \nSubjective call - KIIs",
+    "Stage 1\n Greenfield\n (No Activity)": "High instability or conflict; digital transformation not a policy priority; no continuity across administrations",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Inconsistent policy continuity; digital agenda ad hoc or personality-driven; survives within one administration only",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Relative stability; digital transformation an articulated priority that survives at least one change of administration",
+    "Stage 4\nMaturing\n(Implementation)": "Digital transformation embedded in national agenda across multiple election cycles; stable institutional ownership",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Digital transformation is a sovereign, cross-party strategic priority",
+    "Phillipines- Datapoints": "- E-Governance Act (RA 12254), signed September 2025: institutionalises digital transformation as state policy across all government branches — ensuring reform continuity beyond individual administrations\n- DICT has navigated three presidential transitions since 2016; budget utilisation rose to 87% by late 2024\n- USD 1.637 billion in World Bank digital financing locked in (USD 750M Second DPL 2024; USD 287M Digital Infrastructure Project) — acts as a financial anchor protecting the national fibre backbone\n- Risk: UNESCO RAM (December 2025) warns that political tensions and the 2028 election cycle may delay enactment of 'hard laws' on AI governance",
+    "Categorisation ": "Early Success",
+    "Score": 3
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Lead Agency and Government Coordination",
+    "Stage 1\n Greenfield\n (No Activity)": "No designated lead agency for AI/DPI; no formal initiative; no cross-government coordination",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Single ministry or agency leading digital transformation; no cross-government coordination mechanism",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Inter-ministerial coordination mechanism established; lead agency with clear mandate",
+    "Stage 4\nMaturing\n(Implementation)": "Institutionalised inter-ministerial platforms with recurring mandates; regulatory sandboxes operational; CDO leading coordination",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Whole-of-government architecture with clear roles across national and sector agencies; continuous, transparent coordination",
+    "Phillipines- Datapoints": "- DICT is the legally designated lead for digital transformation (RA 10844 and RA 12254)\n- Key agencies under the digital governance mandate:\n  1. Department of Information and Communications Technology (DICT) — lead authority\n  2. National Privacy Commission (NPC) — data protection oversight\n  3. Bangko Sentral ng Pilipinas (BSP) — fintech and digital payments regulation\n  4. Philippine Statistics Authority (PSA) — PhilSys (Digital ID) management\n- BSP Circular 1153: institutionalises a regulatory sandbox for fintech and AI service providers\n- Gap: No single lead agency for AI governance as of 2026; LGU compliance gap persists (UNESCO RAM, December 2025)",
+    "Categorisation ": "Maturing ",
+    "Score": 4,
+    "Parameter scoring ": "Early Success"
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Private Sector Engagement",
+    "Stage 1\n Greenfield\n (No Activity)": "No private sector engagement in digital agenda",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Bilateral engagement with select tech or telecom operators; largely ad hoc and commercial",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Structured consultations with private sector formally documented in strategy development; PPP frameworks emerging",
+    "Stage 4\nMaturing\n(Implementation)": "Formal public-private platforms operational; DPG and open-source ecosystem engaged; fintech and cloud providers integrated in delivery",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Deep ecosystem integration; private sector co-invests in national digital infrastructure; DPGs and open standards embedded in public procurement",
+    "Phillipines- Datapoints": "- GCash (Mynt): 94 million registered users (81 million active) as of January 2025; primary vehicle for G2P disbursements — operates as de facto digital public infrastructure\n- Microsoft: long-term MOU with DICT for government cloud (Azure); Google Cloud activated first on-shore Philippine region in early 2026\n- Aboitiz Data Innovation (ADI): formal AI partnerships with DICT and PSA\n- PLDT/Smart and Globe: active PPP frameworks under the Common Tower Policy for national connectivity\n- DSWD piloted open-source Digital Public Goods (DPGs) for social protection in 2025; most other agencies remain on proprietary platforms — vendor lock-in risk noted",
+    "Categorisation ": "Maturing ",
+    "Score": 4
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Development Partners and MDBs",
+    "Stage 1\n Greenfield\n (No Activity)": "No MDB or bilateral engagement; no pipeline financing identified",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "MDB/donor activity exploratory; primarily providing advisory or strategy support",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Recurrent MDB and bilateral investment in AI/DPI projects; approved and pipeline financing visible",
+    "Stage 4\nMaturing\n(Implementation)": "Multi-year strategic partnerships with ADB, World Bank, bilaterals operational",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Development partners fully aligned to national roadmap",
+    "Phillipines- Datapoints": "- World Bank: USD 1.637 billion digital portfolio — USD 600M First DPL (2023), USD 750M Second DPL (November 2024), USD 287M Digital Infrastructure Project\n- ADB: ProSPER Project (2026) — digital tools for agricultural value chains and logistics in Mindanao (Zamboanga Peninsula and BARMM)\n- USAID BEACON: community network deployments in underserved areas\n- Gates Foundation: grants via PSA to link PhilSys with digital financial services\n- Philippines is an active member of the 50-in-5 Campaign — sharing PhilSys and open-source payment system roadmaps (MOSIP/Mojaloop) with 50 countries by 2028",
+    "Categorisation ": "Early Success",
+    "Score": 3,
+    "Insight?": "The Philippines’ adoption of open-source frameworks like MOSIP for its National ID (PhilSys) offers a practical case study in balancing rapid digital scaling with technical autonomy. This creates an opening for the country to share its implementation experience with regional neighbors facing similar infrastructure challenges.\nUNDP Entry Point: Support the impact evaluation of large-scale initiatives like Project AGAP.AI and PhilSys. By building this evidence base, UNDP can facilitate structured South-South knowledge exchanges, helping the Philippines export its digital blueprints to neighboring ASEAN and Pacific countries through a global convening platform."
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Academic and Research Institutions",
+    "Stage 1\n Greenfield\n (No Activity)": "No domestic academic or research engagement in AI/DPI",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Isolated university or think tank activity; no formal linkage to government agenda",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "At least one institution formally engaged in AI/DPI research; outputs informing policy discussions",
+    "Stage 4\nMaturing\n(Implementation)": "Multiple universities and think tanks contributing to AI/DPI policy; formal research-government linkage mechanisms",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "National research ecosystem; AI/DPI research institutions internationally recognised; research actively shaping national and regional policy",
+    "Phillipines- Datapoints": "- Ateneo Technical Resource Lab (TRL): launched early 2026 as a DPI testing hub focused on PhilSys integration, e-verify, and KYC analytics\n- University of the Philippines: institutionalised 'UP Principles for Responsible AI' — serves as a national soft-law guide for government AI deployment\n- DepEd–Microsoft E-CAIR (Education Centre for AI Research): AI-powered literacy tools scaled to millions of students and teachers\n- DOST-ASTI COARE HPC facility: provides universities access to supercomputing resources for large-scale AI modelling and data-driven policy research",
+    "Categorisation ": "Maturing ",
+    "Score": 4
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Civil Society Engagement",
+    "Stage 1\n Greenfield\n (No Activity)": "No civil society engagement; digital rights not on agenda",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Civil society informed but not consulted; awareness-level engagement only",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Civil society formally consulted on governance and ethics dimensions; inputs recorded and acknowledged",
+    "Stage 4\nMaturing\n(Implementation)": "Independent digital rights organisations active; civil society participates in governance and ethics discussions with formal channels",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Civil society embedded in co-design and oversight; transparent public accountability mechanisms for AI and DPI governance",
+    "Phillipines- Datapoints": "- Foundation for Media Alternatives (FMA): lead digital rights watchdog; monitors DICT policy developments including social media verification and AI child protection debates\n- Democracy.Net.PH: leading legislative push for the Magna Carta for Philippine Internet Freedom (MCPIF) — a crowdsourced, rights-based internet policy bill\n- Civil society formally consulted in December 2025 multi-stakeholder process for the Implementing Rules of the E-Governance Act (RA 12254)\n- Gap: PWD organisations, indigenous peoples, and informal sector workers systematically excluded from high-level AI and DPI consultations (UNESCO RAM, December 2025)",
+    "Categorisation ": "Early Success ",
+    "Score": 3
+  },
+  {
+    "P#": "P6",
+    "Parameter": "Funding Landscape",
+    "Sub-Parameter": "Domestic Public Budget for AI/DPI",
+    "Stage 1\n Greenfield\n (No Activity)": "No dedicated AI/DPI budget line; digital transformation funded opportunistically or not at all",
+    "Stage 2\n Open to Adopt\n (Intent / Planning)": "Ministry nominally responsible; limited, non-recurrent annual allocation; insufficient for implementation",
+    "Stage 3\nEarly Success\n (Strategy/framework published)": "Dedicated recurring domestic budget for AI/DPI development and upkeep; responsible ministry funded with multi-year commitment",
+    "Stage 4\nMaturing\n(Implementation)": "Sustained multi-year public investment programme; budget execution rates tracked and reported; domestic co-financing of externally-supported initiatives",
+    "Stage 5\n Role Model\n (Leadership and  scaling)": "Long-term sovereign funding mechanisms; significant R&D allocation; domestic digital transformation budget substantial and independently sustained",
+    "Phillipines- Datapoints": "- 2026 National Budget: PHP 6.793 trillion; DepEd received record PHP 992.7 billion allocation (includes 'future-ready' skills and computerisation)\n- RA 12254 (E-Governance Act): mandates DICT to lead a Unified Project Management Office (UPMO); requires a Chief Information Officer (CIO) in every government agency; establishes 16 Regional Offices for digital service localisation\n- Digital Bayanihan Chain (January 2026): entire 2026 national budget recorded on blockchain for fiscal transparency\n- Gap: LGUs lack budget capacity and directives to align with national digitisation mandates; RA 9184 (Procurement Reform Act) cited as primary cause of underspending due to high bid failure rates (UNESCO RAM, December 2025)",
+    "Categorisation ": "Early Success ",
+    "Score": 3,
+    "Parameter scoring ": "Maturing"
+  },
+  {
+    "P#": "For Philipines"
+  },
+  {
+    "P#": "Potential Risks"
+  },
+  {
+    "P#": "Infrastructure reliability and cybersecurity risks: Despite rapid digital expansion and 5G growth, connectivity gaps persist across rural Visayas and Mindanao. The Philippines remains a major target for ransomware and cyberattacks, with critical digital infrastructure increasingly exposed as government services migrate online."
+  },
+  {
+    "P#": "Vendor dependency and technology lock-in risks: Heavy reliance on foreign hyperscale cloud providers — including AWS and Azure — raises concerns around cyber-resilience, data sovereignty, interoperability, and long-term technology lock-in. The absence of a domestic cloud-first policy creates structural dependency that may constrain future flexibility."
+  },
+  {
+    "P#": "Institutional fragmentation and LGU capacity constraints: Digital transformation mandates exist at the national level, but coordination between DICT, DILG, and Local Government Units remains uneven. The absence of structured capacity building programmes for LGUs — most of which lack dedicated technical staff and digital procurement expertise — is the most binding implementation constraint at the sub-national level. Procurement rules under RA 9184 that prioritise lowest-cost bids and the migration of public-sector IT talent to the private sector further compound this risk."
+  },
+  {
+    "P#": "Digital inclusion risks: Significant disparities in connectivity, device ownership, and digital literacy risk excluding vulnerable populations — particularly in rural Mindanao, the Bangsamoro region, and low-income households — from DPI-enabled services."
+  },
+  {
+    "P#": "Political continuity risks: Active political tensions — including the Marcos-Duterte rift and credible reports of potential election delays — may affect continuity of ICT investments and institutional ownership of the digital transformation agenda across the 2028 election cycle."
+  },
+  {
+    "P#": "Financial sustainability risks: Heavy reliance on external development financing, including World Bank and ADB loans, raises questions about long-term sustainability. High operational costs and limited domestic revenue generation capacity for digital infrastructure create fiscal exposure if external financing contracts."
+  },
+  {
+    "P#": "Emerging Opportunities"
+  },
+  {
+    "P#": "The Philippines is in the process of operationalising its AI governance architecture, with initiatives such as NAICRI and the national AI roadmap emerging alongside broader digital transformation policies. UNDP can provide technical support on AI governance and regulatory design, drawing on international best practices and supporting the development of responsible AI standards for public-sector deployment."
+  },
+  {
+    "P#": "With large-scale initiatives such as PhilSys (national digital ID), eGovPH, and digital payments infrastructure, the Philippines has built several foundational DPI components. A key opportunity is deepening the use of these foundations for efficient and effective public service delivery — for example, leveraging PhilSys and G2P payment rails for social protection programmes such as 4Ps, pending confirmation that current delivery remains paper-based and digital integration is still in transition. UNDP can support the government in designing interoperability frameworks and prioritising high-impact citizen-facing use cases, ensuring existing infrastructure translates into integrated public services."
+  },
+  {
+    "P#": "The government is investing in AI talent development through initiatives such as Project AGAP.AI and NAICRI, creating momentum for a domestic AI ecosystem. UNDP can support this by linking talent pipelines to real-world public sector use cases and establishing an AI-for-Good accelerator that provides mentorship, grants, and technical support for startups and research teams working on development-focused solutions in sectors such as healthcare, agriculture, and disaster resilience."
+  },
+  {
+    "P#": "Partnerships"
+  },
+  {
+    "P#": "Partnership with DICT and DILG on LGU digital transformation: While national digital policies are well established, implementation gaps persist at the Local Government Unit (LGU) level. UNDP can work with DICT and the Department of the Interior and Local Government (DILG) to develop LGU digital roadmaps, procurement templates, and capacity-building programs, enabling municipalities to operationalise national digital mandates under the E-Governance Act."
+  },
+  {
+    "P#": "Partnership with DOST and NAICRI to operationalise AI-for-development use cases: The National Artificial Intelligence Center for Research and Innovation (NAICRI) was launched to strengthen AI research and ecosystem development. UNDP can collaborate with DOST, NAICRI, and academic partners to pilot AI applications for disaster preparedness, climate resilience, and rural healthcare, while supporting responsible AI governance practices."
+  },
+  {
+    "P#": "Partnership with DTI, DICT, and startup ecosystem actors to strengthen the AI innovation ecosystem: The government is seeking to expand the domestic AI and digital innovation ecosystem through startup support and technology entrepreneurship programs. UNDP can partner with the Department of Trade and Industry (DTI), DICT innovation programs, and local accelerators to develop an AI for Good startup accelerator, providing grants, mentorship, and sandbox access for startups working on development challenges such as agriculture, climate resilience, and social protection."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "Bangladesh": {
+    "opportunities": [],
+    "risks": [
+      {
+        "id": "risk-0",
+        "text": "Mentioned above "
+      }
+    ],
+    "partnerships": [],
+    "pol_stab": "Poor 'D' ranking, with major challenges in corrupution",
+    "ele_cycle": "-"
+  },
+  "Nepal": {
+    "opportunities": [],
+    "risks": [],
+    "partnerships": [],
+    "pol_stab": "Unstable. Since transition to democracy in 1990 Nepal has had 27 Prime Ministers. The country has also witnessed two mass protests in 2006 against the Monarchy and in 2025 against government corruption,  discontent with the economy and state of unemployment.\n\n1990- Transition to constitutional monarchy \n2008 - Democratic republic",
+    "ele_cycle": "Previous cycle in 2022 next one in March, 2026"
+  }
+}

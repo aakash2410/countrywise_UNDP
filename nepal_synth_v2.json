@@ -1,0 +1,316 @@
+{
+  "countryName": "Nepal",
+  "dpiEcosystem": {
+    "digitalId": {
+      "title": "Digital ID",
+      "status": "Maturing",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "payments": {
+      "title": "Digital Payments",
+      "status": "Maturing",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "dataExchange": {
+      "title": "Data Exchange",
+      "status": "Open to Adopt",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "useCases": [
+      {
+        "sector": "Traffic Management",
+        "description": "AI-based intelligent traffic light system in Lalitpur"
+      },
+      {
+        "sector": "Healthcare Data",
+        "description": "SITA - AI platform for analyzing national health datasets"
+      },
+      {
+        "sector": "Agriculture",
+        "description": "Plantsat & Geokrishi - Satellite monitoring and data-driven farming apps"
+      }
+    ]
+  },
+  "aiEcosystem": {
+    "policy": {
+      "title": "AI Strategy",
+      "status": "Early Success",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "governance": {
+      "title": "AI Governance",
+      "status": "Open to Adopt",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "legislation": {
+      "title": "Data Protection",
+      "status": "Early Success",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    },
+    "initiatives": {
+      "title": "AI Initiatives",
+      "status": "Open to Adopt",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ]
+      }
+    }
+  },
+  "sectionB": {
+    "fundingLandscape": "Dependent on external financing (WB, ADB) with emerging domestic allocations.",
+    "electricityAccess": 92,
+    "internetPenetration": 49.6,
+    "politicalStability": "",
+    "electionCycles": "Previous cycle in 2022 next one in March, 2026",
+    "politicalModalDetails": {
+      "fullContext": "",
+      "keyMetrics": [
+        ""
+      ]
+    }
+  },
+  "parameterStages": {
+    "P1": {
+      "parameter": "AI Ecosystem Maturity",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "IMF AI Preparedness Index (AIPI)  (2023 dataset)",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "National AI Strategy / Policy Status",
+          "stage": "Early Success"
+        },
+        {
+          "name": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Data Protection and Privacy Legislation",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Government AI Initiatives and Projects",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P2": {
+      "parameter": "DPI Ecosystem Maturity",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "National Digital Transformation Strategy",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital ID",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital Payments",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Data Exchange",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Use Cases of DPI Assets",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P3": {
+      "parameter": "Digital-Physical Infrastructure",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Electricity Access and Reliability",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Internet Penetration",
+          "stage": "Greenfield"
+        },
+        {
+          "name": "Compute and Cloud Capacity",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Digital Inclusion",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P4": {
+      "parameter": "Political Stability and Governance",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "WB Worldwide Governance Indicators - Political Stability Score 2024",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Political stability and DT policy continuity (Requirement of KIIs)",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P5": {
+      "parameter": "Stakeholder Participation and Ecosystem Coordination",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "Lead Agency and Government Coordination",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Private Sector Engagement",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Development Partners and MDBs",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Academic and Research Institutions",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Civil Society Engagement",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P6": {
+      "parameter": "Funding Landscape",
+      "parameterStage": "Greenfield",
+      "subParameters": [
+        {
+          "name": "Domestic Public Budget for AI/DPI",
+          "stage": "Early Success"
+        },
+        {
+          "name": "MDB and Multilateral/Bilateral Financing",
+          "stage": "Greenfield"
+        }
+      ]
+    }
+  },
+  "sectionC": {
+    "actors": [
+      {
+        "id": "np-1",
+        "name": "MoCIT",
+        "type": "Lead Agency & Govt Coordination",
+        "role": "Lead Ministry",
+        "initiatives": [
+          "Digital Nepal Framework"
+        ]
+      },
+      {
+        "id": "np-2",
+        "name": "e-Governance Commission",
+        "type": "Lead Agency & Govt Coordination",
+        "role": "Implementation body",
+        "initiatives": [
+          "Nagarik App"
+        ]
+      },
+      {
+        "id": "np-3",
+        "name": "Fonepay",
+        "type": "Private Sector",
+        "role": "Fintech Leader",
+        "initiatives": [
+          "NepalPay QR",
+          "UPI Cross-border"
+        ]
+      },
+      {
+        "id": "np-4",
+        "name": "Fusemachines",
+        "type": "Private Sector",
+        "role": "AI Specialist",
+        "initiatives": [
+          "AI Solutions"
+        ]
+      },
+      {
+        "id": "np-5",
+        "name": "Asian Development Bank (ADB)",
+        "type": "Development Partners & MDBs",
+        "role": "Funding Partner",
+        "initiatives": [
+          "Digital Transformation Project"
+        ]
+      },
+      {
+        "id": "np-6",
+        "name": "Digital Rights Nepal",
+        "type": "Civil Society",
+        "role": "Advocacy",
+        "initiatives": [
+          "Digital Privacy Campaign"
+        ]
+      }
+    ]
+  },
+  "sectionD": {
+    "takeaways": [
+      {
+        "id": "np-t1",
+        "text": "Political instability remains a challenge, but digital transformation efforts have shown resilience across administrations."
+      },
+      {
+        "id": "np-t2",
+        "text": "Rapid adoption of digital payments (Fonepay) and National ID, though authentication infrastructure is still lagging."
+      },
+      {
+        "id": "np-t3",
+        "text": "Digital Nepal Framework identifies 8 sectors for growth, with a strong focus on digital foundation."
+      }
+    ]
+  }
+}

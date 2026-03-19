@@ -1,0 +1,287 @@
+[
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "IMF AI Preparedness Index (AIPI) \n(2023 dataset)",
+    "Stage 1\n Greenfield\n(No Activity)": "< 0.30",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "0.30 – 0.45",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "0.45 – 0.60",
+    "Stage 4\nMaturing\n(Implementation)": "0.60 – 0.75",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "> 0.75",
+    "Nepal Maturity level": " Open to Adopt",
+    "Comments": "AIPI Index - 0.35"
+  },
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "National AI Strategy / Policy Status",
+    "Stage 1\n Greenfield\n(No Activity)": "No national AI strategy or policy; absent from government agenda",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Draft strategy or formal consultations underway",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "National AI strategy published",
+    "Stage 4\nMaturing\n(Implementation)": "AI strategy implemented with defined targets and allocated funding",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Comprehensive, regularly reviewed AI strategy with measurable outcomes and enforcement mechanisms",
+    "Nepal Maturity level": "Early Success"
+  },
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+    "Stage 1\n Greenfield\n(No Activity)": "No governance framework or regulatory discussion; No ethical AI discussion or principles",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Initial discussions on AI governance; no formal framework; Ethical AI principles under discussion or consultation",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "AI governance guidelines or regulatory approach published; Ethical AI principles published",
+    "Stage 4\nMaturing\n(Implementation)": "AI governance framework and ethical AI principles operationalised",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "AI governance framework and ethical AI principles operationalised; Regulatory body with oversight, enforcement, and review cycles",
+    "Nepal Maturity level": " Open to Adopt"
+  },
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "Data Protection and Privacy Legislation",
+    "Stage 1\n Greenfield\n(No Activity)": "No data protection legislation",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Draft data protection law or consultation underway",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Data protection legislation enacted",
+    "Stage 4\nMaturing\n(Implementation)": "Data protection law enforced with designated authority and complaint mechanisms",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Data protection law enforced with strong redressal mechanism",
+    "Nepal Maturity level": "Early Success",
+    "Comments": "The Privacy Act, 2018"
+  },
+  {
+    "P#": "P1",
+    "Parameter": "AI Ecosystem Maturity",
+    "Sub-Parameter": "Government AI Initiatives and Projects",
+    "Stage 1\n Greenfield\n(No Activity)": "No government AI initiatives or pilots",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Ad hoc pilots initiated by individual agencies",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "AI projects implemented in some public-sector domains with defined scope",
+    "Stage 4\nMaturing\n(Implementation)": "Multiple AI deployments across ministries and public services; government AI programs with funding and targets",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Large-scale AI deployment across government; national AI program with R&D, compute, and talent investment",
+    "Nepal Maturity level": " Open to Adopt"
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "National Digital Transformation Strategy",
+    "Stage 1\n Greenfield\n(No Activity)": "No national DT strategy or roadmap",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Draft DT strategy or consultations underway",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "National DT strategy published with implementation roadmap",
+    "Stage 4\nMaturing\n(Implementation)": "DT strategy implemented with targets, timelines, and dedicated budget",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "DT strategy mature, regularly updated, and used as a model for regional peers",
+    "Nepal Maturity level": "Maturing"
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "Digital ID",
+    "Stage 1\n Greenfield\n(No Activity)": "No national digital ID system",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Digital ID system under design or piloting",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Operational national digital ID with basic authentication; enrollment underway",
+    "Stage 4\nMaturing\n(Implementation)": "Digital ID interoperable with at least one other DPI",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Fully interoperable digital ID with high population coverage (>70% TAM), privacy safeguards",
+    "Nepal Maturity level": "Maturing"
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "Digital Payments",
+    "Stage 1\n Greenfield\n(No Activity)": "No national digital payments infrastructure",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Digital payments system in design or early pilot",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Operational digital payments system with basic interoperability",
+    "Stage 4\nMaturing\n(Implementation)": "Interoperable digital payments across financial institutions; significant transaction volumes",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Universal, fully interoperable digital payments; high financial inclusion; adoption >70% TAM",
+    "Nepal Maturity level": "Maturing"
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "Data Exchange",
+    "Stage 1\n Greenfield\n(No Activity)": "No data exchange infrastructure or framework",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Data sharing framework under discussion or design",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Basic data exchange infrastructure operational; limited interoperability between agencies",
+    "Stage 4\nMaturing\n(Implementation)": "Cross-agency data exchange operational with consent mechanisms and defined standards",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Mature data exchange ecosystem; extensive partner onboarding-across sectors/institutions",
+    "Nepal Maturity level": " Open to Adopt"
+  },
+  {
+    "P#": "P2",
+    "Parameter": "DPI Ecosystem Maturity",
+    "Sub-Parameter": "Use Cases of DPI Assets",
+    "Stage 1\n Greenfield\n(No Activity)": "No DPI assets operational; no use cases in public or private sector",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Use case of a DPI asset is being planned ",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Use cases of DPI assets across 2–3 sectors in pilot or expansion stage",
+    "Stage 4\nMaturing\n(Implementation)": "Multiple use cases across 4+ sectors, cross-DPI integration in public service delivery",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Use case deployment across all government schemes and private sector innovation",
+    "Nepal Maturity level": " Open to Adopt",
+    "Comments": "Digital services reused at municipality level"
+  },
+  {
+    "P#": "P3",
+    "Parameter": "Digital-Physical Infrastructure",
+    "Sub-Parameter": "Electricity Access and Reliability",
+    "Stage 1\n Greenfield\n(No Activity)": "Electricity access <70%;unreliable grid",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Electricity access <70%; national electrification roadmap or grid investment actively underway",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Electricity access >80%",
+    "Stage 4\nMaturing\n(Implementation)": "Electricity access >95%; stable grid nationally",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Near-universal electricity supply",
+    "Nepal Maturity level": "Early Success"
+  },
+  {
+    "P#": "P3",
+    "Parameter": "Digital-Physical Infrastructure",
+    "Sub-Parameter": "Internet Penetration",
+    "Stage 1\n Greenfield\n(No Activity)": "Internet penetration <70%",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Internet penetration <70%; active connectivity expansion program",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Internet penetration >80%",
+    "Stage 4\nMaturing\n(Implementation)": "Internet penetration >95%",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Near-universal internet ",
+    "Nepal Maturity level": "Greenfield"
+  },
+  {
+    "P#": "P3",
+    "Parameter": "Digital-Physical Infrastructure",
+    "Sub-Parameter": "Compute and Cloud Capacity",
+    "Stage 1\n Greenfield\n(No Activity)": "No cloud or data centre presence; no domestic hosting capacity",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Nascent or imported cloud services only; no domestic compute infrastructure",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Basic cloud or data hosting via domestic or regional providers",
+    "Stage 4\nMaturing\n(Implementation)": "Compute-capable national data centres operational; domestic and international cloud available",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Compute-capable national data centres operational; domestic and international cloud available; Focussed government effort to expand the compute capacity",
+    "Nepal Maturity level": "Early Success"
+  },
+  {
+    "P#": "P3",
+    "Parameter": "Digital-Physical Infrastructure",
+    "Sub-Parameter": "Digital Inclusion ",
+    "Stage 1\n Greenfield\n(No Activity)": "Large access gaps across geographic, gender, and socioeconomic dimensions; no disaggregated data collected",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Inclusion gaps identified and measured; pilot programmes or targeted interventions initiated",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Inclusion programmes operational;gaps narrowing with measurable progress",
+    "Stage 4\nMaturing\n(Implementation)": "Gaps significantly narrowed- rural-urban gap <5 percentage points, gender gap <5 percentage points; affrodable infrastructure available nationally",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Near equitable access across all dimensions ",
+    "Nepal Maturity level": " Open to Adopt"
+  },
+  {
+    "P#": "P4",
+    "Parameter": "Political Stability and Governance",
+    "Sub-Parameter": "WB Worldwide Governance Indicators - Political Stability Score\n2024",
+    "Stage 1\n Greenfield\n(No Activity)": "0 – 20th percentile",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "20 – 40th percentile",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "40 – 60th percentile",
+    "Stage 4\nMaturing\n(Implementation)": "60 – 80th percentile",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "80 – 100th percentile",
+    "Nepal Maturity level": " Open to Adopt",
+    "Comments": "Score - 39.34"
+  },
+  {
+    "P#": "P4",
+    "Parameter": "Political Stability and Governance",
+    "Sub-Parameter": "Political stability and DT policy continuity (Requirement of KIIs)",
+    "Stage 1\n Greenfield\n(No Activity)": "High instability or conflict; no digital transformation agenda",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Fragile stability; digital agenda exists but is ad hoc and leadership-dependent",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Stable government; digital transformation is a formal priority and survives a change of administration",
+    "Stage 4\nMaturing\n(Implementation)": "Sustained stability; digital transformation embedded in national agenda across election cycles",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Full stability, digital transformation is a cross-party strategic priority",
+    "Nepal Maturity level": " Open to Adopt",
+    "Comments": "High political instability but digital transformation efforts have sustained"
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Lead Agency and Government Coordination",
+    "Stage 1\n Greenfield\n(No Activity)": "No designated lead agency for AI/DPI; no formal initiative; no cross-government coordination",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Single ministry or agency leading digital transformation; no cross-government coordination mechanism",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Inter-ministerial coordination mechanism established",
+    "Stage 4\nMaturing\n(Implementation)": "Inter-ministerial coordination mechanism established; lead agency with clear mandate",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Clear roles across national and sector agencies; continuous, transparent coordination and regular review meetings ",
+    "Nepal Maturity level": " Open to Adopt"
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Private Sector Engagement",
+    "Stage 1\n Greenfield\n(No Activity)": "No private sector engagement in digital agenda",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Ad hoc engagement with select tech or telecom operators",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Participation or consultation with private sector; PPP frameworks emerging",
+    "Stage 4\nMaturing\n(Implementation)": "Formal public-private platforms operational; DPG and open-source ecosystem engaged; fintech and cloud providers integrated in delivery",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Deeper public-private integration; private sector co-invests in national digital infrastructure",
+    "Nepal Maturity level": " Open to Adopt"
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Development Partners and MDBs",
+    "Stage 1\n Greenfield\n(No Activity)": "No MDB or bilateral engagement",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "MDB/donor activity exploratory; primarily providing advisory or strategy support",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Recurrent MDB and bilateral investment in AI/DPI projects; approved and pipeline financing visible",
+    "Stage 4\nMaturing\n(Implementation)": "Multi-year strategic partnerships with ADB, World Bank, bilaterals operational",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Development partners fully aligned to national roadmap",
+    "Nepal Maturity level": "Early Success"
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Academic and Research Institutions",
+    "Stage 1\n Greenfield\n(No Activity)": "No domestic academic or research engagement in AI/DPI",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Isolated university or think tank activity; no formal linkage to government agenda",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "A few institutions(2-3) formally engaged in AI/DPI research; outputs informing policy discussions",
+    "Stage 4\nMaturing\n(Implementation)": "Multiple universities and think tanks contributing to AI/DPI policy",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "National research ecosystem in the country- shaping national and regional policy",
+    "Nepal Maturity level": " Open to Adopt"
+  },
+  {
+    "P#": "P5",
+    "Parameter": "Stakeholder Participation and Ecosystem Coordination",
+    "Sub-Parameter": "Civil Society Engagement",
+    "Stage 1\n Greenfield\n(No Activity)": "No civil society engagement",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Civil society informed but not consulted; awareness-level engagement only",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Civil society formally consulted; inputs recorded and acknowledged",
+    "Stage 4\nMaturing\n(Implementation)": "Independent digital rights organisations active; civil society participates in governance discussions with formal channels",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Civil society participates in design and monitoring for AI and DPI governance",
+    "Nepal Maturity level": " Open to Adopt"
+  },
+  {
+    "P#": "P6",
+    "Parameter": "Funding Landscape",
+    "Sub-Parameter": "Domestic Public Budget for AI/DPI",
+    "Stage 1\n Greenfield\n(No Activity)": "No dedicated AI/DPI budget line",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "Ministry responsible; limited, non-recurrent allocation; insufficient for implementation",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Dedicated recurring domestic budget for AI/DPI development and upkeep; responsible ministry funded with multi-year commitment",
+    "Stage 4\nMaturing\n(Implementation)": "Sustained multi-year public investment programme; budget execution rates tracked and reported",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "Long-term funding mechanisms; significant R&D allocation; domestic digital transformation budget substantial and independently sustained",
+    "Nepal Maturity level": "Early Success"
+  },
+  {
+    "P#": "P6",
+    "Parameter": "Funding Landscape",
+    "Sub-Parameter": "MDB and Multilateral/Bilateral Financing",
+    "Stage 1\n Greenfield\n(No Activity)": "No active engagement; no pipeline financing",
+    "Stage 2\n Open to Adopt\n(Intent / Planning)": "MDB engagement exploratory; grants or small TA used primarily for strategy or feasibility",
+    "Stage 3\nEarly Success\n(Strategy/framework published)": "Recurrent MDB investment in AI/DPI projects; approved and pipeline financing visible",
+    "Stage 4\nMaturing\n(Implementation)": "MDB financing supplementary to domestic budget strategic multi-year partnerships established",
+    "Stage 5\n Role Model\n(Leadership and  scaling)": "External finance used selectively for innovation or regional public goods"
+  },
+  {
+    "P#": "Assumptions/Limitations:"
+  },
+  {
+    "P#": "1. Double counting "
+  },
+  {
+    "P#": "2. Scoring overall "
+  },
+  {
+    "P#": "3. Political stability - Inference for UNDP "
+  },
+  {
+    "P#": "Glossary "
+  },
+  {
+    "P#": 1,
+    "Parameter": "IMF AI Preparedness Index (AIPI), 2023\n\n 174 countries ",
+    "Sub-Parameter": "AIPI is the sum of four key dimensions: digital infrastructure, human capital, technological innovation, and legal frameworks. These four dimensions are likely relevant for smooth AI adoption. In turn, each dimension is computed by normalizing and averaging a rich set of sub-indicators including, but not limited to, the presence of relevant digital infrastructure, sustained human capital investment, inclusive STEM expertise, labor and capital mobility, a vibrant R&D ecosystem, and the adaptability of legal frameworks to digital business models."
+  },
+  {
+    "P#": 2,
+    "Parameter": "World Bank  - Worldwide Governance Indicators (1996-2024)\n\nFor this study, 2024 data has been considered",
+    "Sub-Parameter": " The WGI draw on 35 cross-country data sources—including household surveys, firm surveys, and expert assessments—and are annual composite indicators based on perceptions of governance quality across more than 200 economies from 1996 to 2024.\n\nAcross these 35 data sources, more than 400 underlying indicators are used to capture the six dimensions of governance included in the WGI:\n\nVoice and Accountability\nPolitical Stability\nGovernment Effectiveness\nRegulatory Quality\nRule of Law\nControl of Corruption"
+  },
+  {
+    "Sub-Parameter": "Political stability- perceptions of the extent to which political power and governance are secure from destabilization, and of the likelihood that authority will be challenged or altered through violent, coercive, or unconstitutional means."
+  }
+]

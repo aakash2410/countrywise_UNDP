@@ -1,0 +1,556 @@
+[
+  {
+    "__EMPTY": "UNDP Digital Transformation Project | Deliverable 1 I Scoping Report for Malaysia"
+  },
+  {
+    "__EMPTY": "Baseline view of the AI and DPI ecosystem in Malaysia"
+  },
+  {
+    "__EMPTY": "#",
+    "__EMPTY_1": "Heading",
+    "__EMPTY_2": "##",
+    "__EMPTY_3": "Sub-Heading",
+    "__EMPTY_4": "###",
+    "__EMPTY_5": "Parameters",
+    "__EMPTY_6": "Potential Sources",
+    "__EMPTY_7": "Country-specific information \n(Summary)",
+    "__EMPTY_8": "Country-specific information \n(Description)",
+    "__EMPTY_9": "Sources",
+    "__EMPTY_10": "Remarks"
+  },
+  {
+    "__EMPTY": 1,
+    "__EMPTY_1": "AI and DPI Ecosystem",
+    "__EMPTY_2": 1.1,
+    "__EMPTY_3": "National AI Ecosystem \n- Policy and strategy",
+    "__EMPTY_4": "1.1.1",
+    "__EMPTY_5": "National AI strategy/policy status (adopted, draft, absent)",
+    "__EMPTY_6": "OECD AI Policy Observatory",
+    "__EMPTY_7": "Malaysia's Artificial Intelligence Roadmap 2021-2025 (launched in Aug 2022 by Malaysian Ministry of Science, Technology, and Innovation (MOSTI))",
+    "__EMPTY_8": "- Malaysia's Artificial Intelligence Roadmap 2021-2025  describes how Malaysia’s AI capabilities will be harnessed, catalysed and propelled from 2021-25\n\n- Vision: “Make Malaysia a nation where Artificial Intelligence augments JOBS, drives NATIONAL COMPETITIVENESS, encourages INNOVATION & ENTREPRENEURSHIP to bring economic prosperity, social good and improves PEOPLE’S WELL BEING”\n\n- Mission: “To create a THRIVING NATIONAL AI ECOSYSTEM that allows EVERYONE (government, business, and people) to capitalise on the BENEFITS OF AI in a SECURED AND SAFE manner for economic prosperity and social well-being”\n\n- Envisioned outcomes:\n1. Establishing AI governance\n2. Advancing AI R&D\n3. Escalating digital infrastructure to enable AI\n4. Fostering AI Talents\n5.Acculturating AI\n6. Kickstarting a national AI innovation ecosystem",
+    "__EMPTY_9": "1. https://mastic.mosti.gov.my/publication/artificial-intelligence-roadmap-2021-2025/",
+    "__EMPTY_10": "Information about AI strategy not available on OECD AI Policy Observator"
+  },
+  {
+    "__EMPTY_4": "1.1.2",
+    "__EMPTY_5": "AI Governance frameworks and regulations",
+    "__EMPTY_6": "UNESCO - Artificial Intelligence Readiness Assessment Report",
+    "__EMPTY_7": "The following guidelines are currently being used in the development and deployment of AI in Malaysia.\n\n1. The National Guidelines on AI Governance and Ethics \n2.ASEAN guide on AI Governance and Ethics",
+    "__EMPTY_8": "-The National Guidelines on AI Governance and Ethics are intended to establish Responsible AI practices as the government aspires to enhance the development and deployment of AI \n\n- Guidelines are structured across three levels: Users, Regulators, and Developers\n\n- Built on 7 AI Principles of fairness; reliability, safety and human control; privacy and security; inclusiveness; transparency, accountability, and human-centricity, the AIGE lays a strong foundation for future AI legislation",
+    "__EMPTY_9": "1. https://mastic.mosti.gov.my/publication/the-national-guidelines-on-ai-governance-ethics/\n\n2. https://asean.org/book/asean-guide-on-ai-governance-and-ethics/\n\n3. https://www.unesco.org/ethics-ai/en/malaysia"
+  },
+  {
+    "__EMPTY_4": "1.1.3",
+    "__EMPTY_5": "Ethical AI principles and guidelines",
+    "__EMPTY_6": "UNESCO - Artificial Intelligence Readiness Assessment Report",
+    "__EMPTY_7": "Same as above",
+    "__EMPTY_8": "- Malaysia’s National Guidelines on AI Governance and Ethics (AIGE)"
+  },
+  {
+    "__EMPTY_4": "1.1.4",
+    "__EMPTY_5": "Data protection and privacy legislation ",
+    "__EMPTY_6": "DLA Piper\nUNDP Digital Development Compass",
+    "__EMPTY_7": "Data Protection and Privacy Laws - \n\n1. Electronic Commerce Act 2006, governs electronic transactions \n2. Consumer Protection Act 1999 ensures marketplace safeguards\n3. Personal Data Protection Act (PDPA) 2010 - Personal Data Protection (Amendment) Act 2024 addresses Data protection and privacy \n4. Computer Crimes Act 1997 tackles cybercrimes\n\nPDPA Act's enforcement is overseen by the Department of Personal Data Protection (JPDP)",
+    "__EMPTY_8": "As per the UNDP Digital Development Compass, Malaysia has a score of 4.17 in data and privacy and  5 in cybersecurity. (5 is the top score representing transformational performance). It has dynamic Legal Framework: Comprehensive law, baselines, compliance, international alignment.",
+    "__EMPTY_9": "1. https://digitaldevelopmentcompass.undp.org/country/MYS"
+  },
+  {
+    "__EMPTY_4": "1.1.5",
+    "__EMPTY_5": "Sector-specific AI regulations (health, finance, education etc)",
+    "__EMPTY_6": "Government websites, reports, news articles",
+    "__EMPTY_8": "Many sectors namely Business and Finance Service, Education, Medical and Healthcare, Smart Technology and systems, Energy, Transportation, Agriculture and the Public Transportation, Agriculture and Public Sector have adopted and operated AI systems in Malaysia."
+  },
+  {
+    "__EMPTY_2": 1.2,
+    "__EMPTY_3": "National AI Ecosystem \n- Implementation and Adoption",
+    "__EMPTY_4": "1.2.1",
+    "__EMPTY_5": "Government AI initiatives and projects (ongoing, pipeline)",
+    "__EMPTY_6": "Government digital transformation portals, ministry annual reports, budget documents etc",
+    "__EMPTY_7": "1. AI in Healthcare - establishment of the Digital Health Research and Innovation Unit",
+    "__EMPTY_8": "1. AI in Healthcare\na. MySejahtera: Public Health Digital Gateway\nb. DR MATA: AI-Based Diabetic Retinopathy Screening\nc Cof’e: AI-Driven Cough Sound Screening for COVID-19\nd. CODIC-MY: AI-Powered Remote Monitoring"
+  },
+  {
+    "__EMPTY_4": "1.2.2",
+    "__EMPTY_5": "Public and private sector AI use cases by domain (Just an overview-preliminary understanding)",
+    "__EMPTY_6": "World Bank - Gov Tech Maturity Index\n\nOECD - Digital Government Review ",
+    "__EMPTY_8": "Ministry of Digital launched the Public Sector Artificial Intelligence (AI) Adaptation Guideline on 27 February 2025. This guideline used as a dedicated reference for the public sector to ensure the responsible and ethical integration and use of AI, while also promoting the efficiency and effectiveness of AI technologies and innovations for public sectors."
+  },
+  {
+    "__EMPTY_4": "1.2.3",
+    "__EMPTY_5": "Availability of AI Infrastructure (Connectivity, Compute, Cloud etc)",
+    "__EMPTY_6": "ICT Development Index , Cloud Infrastructure Map",
+    "__EMPTY_7": "Good connectivity ",
+    "__EMPTY_8": "- 100% access to electricity (World Bank, 2022) \n- 97.7% internet penetration rate (ITU, 2024)\n- Ranked 1st globally in the Open Data Inventory (ODIN 2024/25)\n- 34 colocation data centres per million people, 19 under construction\n- RM114.7 billion in data centre and cloud investments (2021–2023)\n- RM64.2 billion allocated by govt. for AI education in 2025\n- As of Nov 2024 - 87 data centres",
+    "__EMPTY_9": "1. Malaysia | Global AI Ethics and Governance Observatory"
+  },
+  {
+    "__EMPTY_2": 1.3,
+    "__EMPTY_3": "DPI Ecosystem\n-DPI Stack Maturity",
+    "__EMPTY_4": "1.3.1",
+    "__EMPTY_5": "Digital ID: Availability of National ID systems, biometric coverage, authentication mechanisms, interoperability etc",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "Present - MyDigital ID - registration begin in 2024 / MyGOV Malaysia with a budget of RM80 million\n\nGoverned by Ministry of Digital - My Digital ID Sdn Bhd",
+    "__EMPTY_8": "MyDigital ID is a government initiative for a secure and trusted digital identity solution. \n\nIdentity verification refers directly to the government database, without storing any personal data and does not replace the MyKad system. It also facilitates access to online applications and portals using only one password.",
+    "__EMPTY_9": "1. DPI Map\n2. https://www.mygov.gov.my/ms-MY\n3. https://www.digital-id.my/_next/about\n4. https://www.mosti.gov.my/wp-content/uploads/2023/12/PR-231212-MYDIGITAL-ID-REGISTRATION-FOR-THE-GENERAL-PUBLIC-WILL-COMMENCE-IN-MARCH-2024.pdf\n5. https://www.thestar.com.my/news/nation/2026/02/24/weaknesses-in-management-and-expenditure-of-mydid-project-revealed"
+  },
+  {
+    "__EMPTY_4": "1.3.2",
+    "__EMPTY_5": "Digital Payments : Availability, Interoperability, financial inclusion",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "Present - Real-time Retail Payments Platform (RPP) started in 2018",
+    "__EMPTY_8": "• Real-time Retail Payments Platform (RPP) is a fast payment system launched in 2018) that enables Malaysian consumers, businesses and government agencies to make real-time, data-rich payments between accounts at participating financial institutions\n\n• RPP was launched by PayNet, the operator of shared payments infrastructure formed by merger of MEPS (Malaysian Electronic Payment System) - an interbank network service provider in Malaysia and MyClear (Malaysian Electronic Clearing Corporation Sdn Bhd) - a wholly-owned subsidiary of Bank Negara Malaysia",
+    "__EMPTY_9": "1. https://fastpayments.worldbank.org/sites/default/files/2021 09/World_Bank_FPS_Malaysia_RPP_Case_Study.pdf\n2.DPI Map"
+  },
+  {
+    "__EMPTY_4": "1.3.3",
+    "__EMPTY_5": "Data Exchange: Availability, data sharing frameworks, consent mechanisms, interoperability standards",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "Present - Malaysian Government Central Data Exchange (MyGDX)",
+    "__EMPTY_8": "MyGDX is a seamless data sharing ecosystem that encompasses digital governance and a secured platform to empower and enhance end-to-end (E2E) online services towards a data-driven government. The implementation of MyGDX allows the sharing of classified data to be coordinated more efficiently and reduces the cost of infrastructure and system integration. A shared platform makes you quicker.",
+    "__EMPTY_9": "1. Malaysian Government Central Data Exchange (MyGDX)"
+  },
+  {
+    "__EMPTY_4": "1.3.4",
+    "__EMPTY_5": "Any other DPI assets ",
+    "__EMPTY_6": "DPI Use Cases Explorer"
+  },
+  {
+    "__EMPTY_4": "1.3.5",
+    "__EMPTY_5": "Service delivery: Presence of government digital services, citizen portals, service integration with DPIs",
+    "__EMPTY_6": "DPI Use Cases Explorer, Ministry websites",
+    "__EMPTY_7": "MyGovernment Portal",
+    "__EMPTY_8": "The MyGovernment Portal is an initiative by the National Digital Department (JDN) to establish Malaysia’s Single Government Gateway based on life events and citizen-centric design. The portal provides convenient, comprehensive, and secure access to government information and digital services.",
+    "__EMPTY_9": "1. https://www.malaysia.gov.my/en"
+  },
+  {
+    "__EMPTY_2": 1.4,
+    "__EMPTY_3": "DPI Ecosystem\n-DPI Adoption ",
+    "__EMPTY_4": "1.4.1",
+    "__EMPTY_5": "Digital ID - No. of people enrolled",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "8.7 million users - Jan 2026\nPopulation above 15 years ~26.67 million ",
+    "__EMPTY_8": "1. Malaysian Prime Minister Datuk Seri Anwar Ibrahim has set out a target of 15 million users for MyDigital ID by 2026\n2. Populations - 32 million",
+    "__EMPTY_9": "1. https://www.biometricupdate.com/202510/malaysia-targets-15m-mydigital-id-users-2026-funds-allocated\n2. https://malaysia.news.yahoo.com/only-2-8-million-malaysians-044521446.html\n3. https://www.malaymail.com/news/malaysia/2026/01/17/mydigital-id-hits-87-million-users-sets-sights-on-15-million-sign-ups-with-e-hailing-boost/205833"
+  },
+  {
+    "__EMPTY_4": "1.4.2",
+    "__EMPTY_5": "Digital Payments - No. of transaction per month ",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "5.3 bn transactions in 2024",
+    "__EMPTY_8": "1. 70% population (Above 15) made 1 digital payment in 2018/19\n2. 5.3 bn transactions in 2024\n3.36 participants (30 major banks and 6 non-banks) - These 30 banks account for over 99.9% of total current and savings accounts in Malaysia",
+    "__EMPTY_9": "1. DPI Map\n2.https://fastpayments.worldbank.org/sites/default/files/2021-09/World_Bank_FPS_Malaysia_RPP_Case_Study.pdf\n3. https://paynet.my/"
+  },
+  {
+    "__EMPTY_4": "1.4.3",
+    "__EMPTY_5": "Data Exchange - No. of partners onboarded ",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "1.657 users\n2. 35 million transactions",
+    "__EMPTY_9": "MyGDX | Malaysian Government Central Data Exchange"
+  },
+  {
+    "__EMPTY_4": "1.4.4",
+    "__EMPTY_5": "Other DPI assets",
+    "__EMPTY_6": "Secondary research ",
+    "__EMPTY_7": "Government service delivery portal: MyGovernment managed by National Digital Department\r"
+  },
+  {
+    "__EMPTY_4": "1.4.5",
+    "__EMPTY_5": "Digital inclusion gaps (geographic - Urban Rural, demographic - Gender, socioeconomic)",
+    "__EMPTY_6": "National surveys, ITU dataset",
+    "__EMPTY_7": "1. Nearly equal access for men and women, urban and rural areas"
+  },
+  {
+    "__EMPTY_4": "1.4.6",
+    "__EMPTY_5": "User experience, satisfaction ",
+    "__EMPTY_6": "Newspaper articles, civic society organisation reports"
+  },
+  {
+    "__EMPTY": 2,
+    "__EMPTY_1": "Political Economy",
+    "__EMPTY_2": 2.1,
+    "__EMPTY_3": "Political Stability and Institutional Capacity ",
+    "__EMPTY_4": "2.1.1",
+    "__EMPTY_5": "National election cycle\nPrevious and Upcoming Month and Year",
+    "__EMPTY_6": "Election Commission websites",
+    "__EMPTY_7": "Last elections held in Nov 2022, 5 year cycle",
+    "__EMPTY_8": "1.Political crisis ongoing since 2020; political instability caused by coalition or party switching among members of Parliament, combined with the fallout of the COVID-19 pandemic, contributed to the resignation of two prime ministers and the collapse of each of their respective coalition governments since the 2018 general elections.",
+    "__EMPTY_9": "1.https://en.wikipedia.org/wiki/Elections_in_Malaysia\n2.https://en.wikipedia.org/wiki/2022_Malaysian_general_election\n3. https://www.electiondata.my/elections"
+  },
+  {
+    "__EMPTY_4": "2.1.2",
+    "__EMPTY_5": "Governance structure - Centralised/Decentralised/Federal",
+    "__EMPTY_7": "Federal. At present, elections in Malaysia exist at two levels: federal level and state level. ",
+    "__EMPTY_8": "The administrative structure of the Federal Government in Malaysia is responsible for administering the entire country covering various areas such as security, finance, education, health and foreign relations.\n\nIt is led by the Federal Cabinet headed by the Prime Minister, and assisted by ministries, departments and implementing agencies under it.\n\nMalaysia practices a Parliamentary Democracy system under the administration of a Constitutional Monarchy with His Majesty the Yang di-Pertuan Agong as Head of State. \r\n\r\nThe Parliamentary Democracy Government System divides the power of governance into three parts:\r\n\r\nExecutive Power\r\nJudicial Power\r\nLegislative Power",
+    "__EMPTY_9": "1.https://www.malaysia.gov.my/en/government/sistem-pemerintahan-negara/federal-government"
+  },
+  {
+    "__EMPTY_4": "2.1.3",
+    "__EMPTY_5": "Political stability and continuity \n\nWorld bank map includes - Voice and accountability, polictical stability, government effectiveness, regulatory quality, rule of law, control of corruption ",
+    "__EMPTY_6": "Recent news articles, \nEconomist Intelligence Unit Political Stability Index, \nWorld Bank Governance Indicators ",
+    "__EMPTY_7": "1. Malaysia ranked 44 out of 167 countries in the Democracy Index 2024\n2. Political stability improved from 2014 to 2024 by ~5 percentage points (67.4 to 72.47)\n\nThe political environment can be classified as stable but fragile (Coalition govt)",
+    "__EMPTY_8": "1. Malaysia categorised as flawed democracy in the Democracy Index 2024\n2. Governance score for various indicators for the year 2024 is as follows -\n\n-Voice and Accountability (The extent to which citizens can participate in the selection of government, their freedom of expression and holding officials accountable) : 54.63\n-Political Stability (Measures political motivated violance and/or terrorism) : 72.47\n-Regulatory Quality (Ability to implement sound policy and laws) : 65.59\n- Rule of Law (Quality of law enforcement) : 62.9 \n-Control of Corruption (Captures perceptions of extent to which public power could be misused for private gain) : 57.94\n",
+    "__EMPTY_9": "1.https://www.eiu.com/n/campaigns/democracy-index-2024-confirmation/\n2.https://www.worldbank.org/en/publication/worldwide-governance-indicators/interactive-data-access"
+  },
+  {
+    "__EMPTY_4": "2.1.4",
+    "__EMPTY_5": "Government's digital transformation priority in the last 5 years and next decade",
+    "__EMPTY_6": "PM/President recent speech, National Development Plan, Budgets",
+    "__EMPTY_8": "Same as 2.1.5"
+  },
+  {
+    "__EMPTY_4": "2.1.5",
+    "__EMPTY_5": "Institutional capacity for policy implementation ",
+    "__EMPTY_6": "World Bank - Country Policy and Institutional Assessment ",
+    "__EMPTY_7": "Public Sector Capacity \n\nMalaysia has implemented various strategies and programs to develop digital competencies within the public sector . Key initiatives include the Malaysia Digital Economy Blueprint (MDEB), the Public Sector ICT Strategic Plan, and partnerships with the private sector to provide targeted digital skills training.",
+    "__EMPTY_8": "National frameworks and programs - \n1. Malaysia Digital Economy Blueprint (MyDIGITAL) - Launched in 2021- aims to transform Malaysia into a digitally-driven, high-income nation. A central component is the upskilling of public sector employees to leverage digital technologies effectively in their roles, ensuring efficient and modernized public service delivery\n\n2.Public Sector ICT Strategic Plan (National Digital Department/Jabatan Digital Negara) - enhancing digital literacy and technical skills among government employees.\n\n3. AI Adoption in the Public Sector (Feb 2025) -Public Sector AI Adaptation Guidelines to ensure responsible and ethical AI adoption in government agencies \n\n4. National Talent Framework - Data Science Digital Talent Group which focuses on Big Data Analytics and Artificial Intelligence (AI) - May 2024\n\n5. Public-Private Partnerships - \n2024 - Microsoft committed to training 300,000 Malaysians in AI skills\n\n6. Malaysia Digital Workforce Training Directory - directory offers a range of endorsed digital technology courses.\n\n7. State level initiatives - \na. The Selangor State Government - establish multiple AI centres in 2025\nb. Johar - emerging as a major AI-powered data centre hub, housing 78.6% of Malaysia’s IT capacity and expected to surpass 1GW in data centre capacity.\nc. Sarawak -launching an AI Centre to integrate AI into digital infrastructure and drive innovation\n\nGaps:No uniform mandate requiring all new public employees to undergo training in digital skills"
+  },
+  {
+    "__EMPTY_4": "2.1.6",
+    "__EMPTY_5": "Leadership/ Digital transformation champions within the cabinet, PM",
+    "__EMPTY_8": "Quote by\n \n1. YAB Dato' Seri Anwar bin Ibrahim, PM of Malaysia\nIf you want to ensure that an emerging economy succeeds, remains competitive, and sustainable, then it has to be through a quantum leap. And AI is the answer for that, for the matter of digital transformation.\n\n2. YB Gobind Singh Deo, Minister of Digital\nIt is imperative that we bring AI to all sectors, reaching every segment of society – from the young to the elderly in every corner of the nation. This is to ensure no one is left behind and that everyone benefits from this technological shift.",
+    "__EMPTY_9": "1. https://www.ai.gov.my/"
+  },
+  {
+    "__EMPTY_4": "2.1.7",
+    "__EMPTY_5": "Key decision makers and influencers",
+    "__EMPTY_8": "Secretary-General of MOSTI established an AI Governance Structure, consisting of a Steering Committee, a Technical Committee, and five Working Committees on Governance, Legal and Ethics (Working Group 1), Collaboration, Enabler and Innovation Hub (Working Group 2), Talent Development (Working Group 3), Research, Innovation and Data Sharing (Working Group 4) and Acculturation and Communication (Working Group 5).\n\nThe Steering Committee’s progress is monitored by the National Digital Economy and Fourth Industrial Revolution Council (MED4IRN), chaired by the Prime Minister. MED4IRN also works to harmonise state-level digital economy plans with national strategies."
+  },
+  {
+    "__EMPTY_4": "2.1.8",
+    "__EMPTY_5": "Technical expertise/ Dedicated authority/staff for digital transformation projects\n\nDIgital readiness of civil service"
+  },
+  {
+    "__EMPTY_4": "2.1.9",
+    "__EMPTY_5": "Civil society engagement levels"
+  },
+  {
+    "__EMPTY_4": "2.1.10",
+    "__EMPTY_5": "Overall governance and administrative culture ",
+    "__EMPTY_6": "Subjective question - need KIIs"
+  },
+  {
+    "__EMPTY": 3,
+    "__EMPTY_1": "Mapping of Key Ecoosystem Actors and Initiatives",
+    "__EMPTY_2": 3.1,
+    "__EMPTY_3": "Government actors - National and Sub-national levels (Focus on National only)",
+    "__EMPTY_4": "3.1.1",
+    "__EMPTY_5": "Lead agency/ministry for digital transformation ",
+    "__EMPTY_6": "Govt. websites",
+    "__EMPTY_7": "To support the implementation of digital functions, two departments and six agencies are placed under the Ministry of Digital.",
+    "__EMPTY_8": "To support the implementation of digital functions, two departments and six agencies are placed under the Ministry of Digital, namely the\n1. National Digital Department (JDN), \n2. Department of Personal Data Protection (JPDP),\n3. Malaysian Digital Economy Corporation (MDEC)\n4. MyDIGITAL Corporation\n5. CyberSecurity Malaysia (CSM)\n6. Digital Nasional Berhad (DNB) \n7. MYNIC Berhad . The government has\n8. National AI Office (NAIO) -implement and coordinate all matters related to AI governance and ethics"
+  },
+  {
+    "__EMPTY_4": "3.1.2",
+    "__EMPTY_5": "AI and DPI implementation agencies (for foundational DPIs such as digital id, payments etc)",
+    "__EMPTY_7": "1. Malaysian National AI Office (NAIO) - Central authority for advancing the Malaysia’s AI agenda \n",
+    "__EMPTY_8": "1. Malaysian National AI Office (NAIO) launched in Dec 2024\n\n- Goal: Transforming Malaysia from an AI consumer into an AI producer by building a robust AI ecosystem that will accelerate economic growth, improve public services, and ensure inclusive and equitable access to AI where ‘No One is Left Behind’.\n\n- Aim: Drive AI Investments, promote AI innovation, foster collaboration, formulate robust policy and ensure governance and security\n\n- NAIO has 7 deliverables "
+  },
+  {
+    "__EMPTY_4": "3.1.3",
+    "__EMPTY_5": "Regulatory bodies and oversight agencies",
+    "__EMPTY_7": "MOSTI",
+    "__EMPTY_8": "Malaysia’s AI regulatory approach is still evolving, and future AI policies and strategies may provide specific mandatory standards as the National AI Innovation Ecosystem matures.\n\nMOSTI working closely with Ministry of Digital are continuously assessing digital and AI-related initiatives under broader digital economy strategies to ensure that Malaysia’s policies remain aligned with technological advancements and societal needs."
+  },
+  {
+    "__EMPTY_4": "3.1.4",
+    "__EMPTY_5": "Any innovation lab/ government accelerators "
+  },
+  {
+    "__EMPTY_4": "3.1.5",
+    "__EMPTY_5": "Parliamentary committe on digital transformation/technology/AI and DPI"
+  },
+  {
+    "__EMPTY_4": "3.1.6",
+    "__EMPTY_5": "Chief digital officer/Lead - Team - Details "
+  },
+  {
+    "__EMPTY_2": 3.2,
+    "__EMPTY_3": "Private actors ",
+    "__EMPTY_4": "3.2.1",
+    "__EMPTY_5": "Major tech companies operating in the country ",
+    "__EMPTY_7": "Existing partnerships between NAIO and other companies - \n\n1. Toshiba\n2. Global AI Village\n3. YTL POwer International Bhd\n4. Microsoft\n5. Google\n6. Amazon Web Services\n\nMalaysia is home to 284 AI technology companies, aiming to grow to\r\n900 by 2026",
+    "__EMPTY_8": "Existing partnerships between NAIO and other companies - \n\n1. Toshiba - Partnering with MADA to integrate TOSHIBA’s Weather Forecast AI technology into the Smart Farming Project (Projek Ladang Padi IR4.0) in Kedah's Muda region\n\n2. Global AI Village - Partnering with NAIO to incubate high-impact AI applications for Malaysian corporations and government in energy, cybersecurity, agriculture, supply chain, transportation, and healthcare\n\n3. YTL Power International Bhd - Developing Ilmu 0.1, a Malaysian LLM built, owned, and operated by Malaysians in Malaysia.\n\n4. Microsoft - Partnering with NAIO to launch a national AI Adoption Accelerator, promoting AI in key sectors like the public sector and creating an AI Governance Sandbox framework.\n\n5. Google - Running a pilot project with the Ministry of Digital to equip 100 officers with AI-powered solutions to automate tasks, analyze data, and streamline workflows, enabling focus on higher-value work and citizen engagement.\n\n6. Amazon Web Services - Partnering with NAIO to empower Malaysians with AI skills and infrastructure for national and global ecosystem development.\n\nThe private sector integrates AI across various industries including medical and healthcare, agriculture, transportation, education, business and finance. Companies such as Petronas, JCorp, WISE AI, and Phison are leading adopters. Industry enablers such as YTL and Iskandar Investment actively champion smart city initiatives and AI ecosystem development.",
+    "__EMPTY_9": "1. Thought Leadership | Malaysia National AI Office (NAIO)\n\n2. UNESCO - Assessment methodology"
+  },
+  {
+    "__EMPTY_4": "3.2.2",
+    "__EMPTY_5": "AI/ML Solution providers",
+    "__EMPTY_6": "Gartner/IDC market reports"
+  },
+  {
+    "__EMPTY_4": "3.2.3",
+    "__EMPTY_5": "DPI tech vendors"
+  },
+  {
+    "__EMPTY_4": "3.2.4",
+    "__EMPTY_5": "DPGs"
+  },
+  {
+    "__EMPTY_4": "3.2.5",
+    "__EMPTY_5": "Cloudeservice providers"
+  },
+  {
+    "__EMPTY_4": "3.2.6",
+    "__EMPTY_5": "Telecommunication operators ",
+    "__EMPTY_6": "Telecom regulatory authority data"
+  },
+  {
+    "__EMPTY_4": "3.2.7",
+    "__EMPTY_5": "Fintech and digital payment providers",
+    "__EMPTY_6": "Central bank lists"
+  },
+  {
+    "__EMPTY_2": 3.3,
+    "__EMPTY_3": "Development partners and multilaterals - Digital transformation/AI/DPI\nAlong with details of ongoing projects",
+    "__EMPTY_4": "3.3.1",
+    "__EMPTY_5": "UN Agencies",
+    "__EMPTY_8": "UNESCO "
+  },
+  {
+    "__EMPTY_4": "3.3.2",
+    "__EMPTY_5": "World Bank "
+  },
+  {
+    "__EMPTY_4": "3.3.3",
+    "__EMPTY_5": "Asian Development Bank"
+  },
+  {
+    "__EMPTY_4": "3.3.4",
+    "__EMPTY_5": "Others - Bilateral development agencies, International NGOs and Foundations, Global Tech Partners",
+    "__EMPTY_7": "Existing partnerships with the following:\n\n1. MYCentre4IR\n2. ",
+    "__EMPTY_8": "1.  The Malaysia Centre for Fourth Industrial Revolution (MYCentre4IR) was established in 2023 and is a partnership between the Malaysian government and the World Economic Forum (WEF). It brings together policymakers, business leaders, and experts to develop policies for advancing frontier technologies in Malaysia. As a strategic partner to NAIO, MYCentre4IR will connect NAIO with global WEF experts, support international partnerships, and co-develop thought leadership publications.",
+    "__EMPTY_9": "1. https://www.ai.gov.my/thought-leadership"
+  },
+  {
+    "__EMPTY_2": 3.4,
+    "__EMPTY_3": "Academic and research institutions",
+    "__EMPTY_4": "3.4.1",
+    "__EMPTY_5": "Institutions (Universities, Think Tanks etc.) working in research on AI/DPI/Digital transformation ",
+    "__EMPTY_7": "Key research centres addressing AI and ethics in Malaysia include:\n1. The Centre for Artificial Intelligence and Robotics (CAIRO) at Universiti Teknologi Malaysia (UTM)\n2. The Artificial Intelligence Research Unit (AiRU) at Universiti Malaysia Sabah (UMS)\n3. Malaya Artificial Intelligence Research (MALAYA AIR) at Universiti Malaya (UM)\n4.  The Artificial Intelligence and Applications Research Team at the University of Nottingham Malaysia\n5. The Artificial Intelligence Research Group at Universiti Malaysia Sarawak (UNIMAS)",
+    "__EMPTY_8": "Academic institutions like UTM and UM contribute through R&D, curriculum development, and talent pipelines via centres of excellence like the Centre of Artificial Intelligence and Robotics (CAIRO), UTM.",
+    "__EMPTY_9": "1. UNESCO - Artificial Intelligence Readiness Assessment Report"
+  },
+  {
+    "__EMPTY_2": 3.5,
+    "__EMPTY_3": "Civil society ",
+    "__EMPTY_4": "3.5.1",
+    "__EMPTY_5": "Digital rights org, advocacy groups, grassroot innovation initiatives etc.",
+    "__EMPTY_7": "Associations and civil society groups, including PIKOM, MIFA, and Women in AI, promote AI literacy, digital inclusion, and gender equity. Their efforts ensure women and underserved groups benefit from AI, fostering trust and cultural sensitivity in adoption."
+  },
+  {
+    "__EMPTY_2": 3.6,
+    "__EMPTY_3": "Mapping of Initiatives along with the implementation agency",
+    "__EMPTY_4": "3.6.1",
+    "__EMPTY_5": "National AI/DPI/Digital transformation strategy (National policy/Digital framework/E-governance blueprint/National cyber security policy/National AI policy etc.)",
+    "__EMPTY_7": "AI:\n\n1. Digital Economy Blueprint 2021-2030 (Feb 2021)\n2. Artificial Intelligence Roadmap 2021-2025 (Aug 2022)\n3. Launch of AI Nexus ( May 2024)\n4. Launch of Malaysia AI Consortium (May 2024)\n5. Launch of AI Untuk Rakyat - Self-learning program on AI (July 2024) \n6. National guidelines on AI governance and Ethics (Sept 2024)\n7. Launch of Impact of Artificial Intelligence (AI), Digital, and the Green Economy on the Malaysian Workforce (Nov 2024)\n8. Launch of MyMAHIR (FUture skills) (Nov 2024) - implemented by Talent Corp - Malaysia's National Agency \n9. Launch of National AI Office (Dec 2024)",
+    "__EMPTY_8": "Managed by MOSTI and supported by MD, MOHE, MOE, MITI, MOC and KESUMA, 22 strategic initiatives have been implemented. These include launching a national AI governance structure, publishing AIGE guidelines, advancing AI research and commercialization, fostering talent, and building infrastructure.\n\nThe Malaysian government has identified ten key socio-economic drivers under the 10-10\r\nMalaysian Science, Technology, Innovation, and Economy (MySTIE) Framework that\r\nare vital for national development:\r\n1. Energy\r\n2. Education\r\n3. Medical and Healthcare\r\n4. Business and Finance Services\r\n5. Smart Technology and Systems\r\n6. Smart Cities and Transportation\r\n7. Water and Food\r\n8. Environment and Biodiversity\r\n9. Culture, Art, and Tourism\r\n10. Agriculture and Forestry\r\nAcross these sectors, Malaysia has identified 10 Science and Technology (S&T)\r\nDrivers, including Advanced Intelligent Systems, of which Artificial Intelligence (AI)\r\nis a core component",
+    "__EMPTY_9": "1. https://mastic.mosti.gov.my/publication/artificial-intelligence-roadmap-2021-2025/\n\n2. UNESCO - Artificial Intelligence Readiness Assessment Report"
+  },
+  {
+    "__EMPTY_4": "3.6.2",
+    "__EMPTY_5": "Flagship AI and DPI projects",
+    "__EMPTY_7": "AI Sandbox 2024 Pilot Programme, aimed at fostering innovation and achieving the establishment of 900 AI startups by 2026"
+  },
+  {
+    "__EMPTY_4": "3.6.3",
+    "__EMPTY_5": "Failed or stalled initiatives"
+  },
+  {
+    "__EMPTY": 4,
+    "__EMPTY_1": "Emerging opportunities, risks, and practical entry points",
+    "__EMPTY_2": 4.1,
+    "__EMPTY_3": "Opportunities",
+    "__EMPTY_4": "4.1.1",
+    "__EMPTY_5": "Upcoming projects, policy reforms, government mandates"
+  },
+  {
+    "__EMPTY_4": "4.1.2",
+    "__EMPTY_5": "Electoral transitions?"
+  },
+  {
+    "__EMPTY_4": "4.1.3",
+    "__EMPTY_5": "International commitments",
+    "__EMPTY_6": "WB, ADB, UNDP, 50-in-5 Websites"
+  },
+  {
+    "__EMPTY_4": "4.1.4",
+    "__EMPTY_5": "Sectoral opportunities (Health, education, agri, social protection, governance)",
+    "__EMPTY_6": "Need to conduct KIIs to get this information "
+  },
+  {
+    "__EMPTY_2": 4.2,
+    "__EMPTY_3": "Risks - Technical ",
+    "__EMPTY_4": "4.2.1",
+    "__EMPTY_5": "Infrastructure inadequacy or unreliability ",
+    "__EMPTY_6": "These represent potential or forecasted risks. For the initial version of the document, we can rely on historical data points and the country’s development trajectory to validate whether these constitute the relevant risks."
+  },
+  {
+    "__EMPTY_4": "4.2.2",
+    "__EMPTY_5": "Data availability and quality "
+  },
+  {
+    "__EMPTY_4": "4.2.3",
+    "__EMPTY_5": "System interoperability issues"
+  },
+  {
+    "__EMPTY_4": "4.2.4",
+    "__EMPTY_5": "Technology lock-in and vendor dependency "
+  },
+  {
+    "__EMPTY_4": "4.2.5",
+    "__EMPTY_5": "Limitations in scalability of the project"
+  },
+  {
+    "__EMPTY_4": "4.2.6",
+    "__EMPTY_5": "Issues in financial sustainability "
+  },
+  {
+    "__EMPTY_2": 4.3,
+    "__EMPTY_3": "Risks - Governance and Institutional ",
+    "__EMPTY_4": "4.3.1",
+    "__EMPTY_5": "Weak regulatory frameworks"
+  },
+  {
+    "__EMPTY_4": "4.3.2",
+    "__EMPTY_5": "Institutional fragmentation and silos"
+  },
+  {
+    "__EMPTY_4": "4.3.3",
+    "__EMPTY_5": "Capacity constraints"
+  },
+  {
+    "__EMPTY_4": "4.3.4",
+    "__EMPTY_5": "Malpractices (Corruption), lack of accountability measures"
+  },
+  {
+    "__EMPTY_4": "4.3.5",
+    "__EMPTY_5": "Procurement processes"
+  },
+  {
+    "__EMPTY_2": 4.4,
+    "__EMPTY_3": "Risks - Social",
+    "__EMPTY_4": "4.4.1",
+    "__EMPTY_5": "Digital exclusion and inequality"
+  },
+  {
+    "__EMPTY_4": "4.4.2",
+    "__EMPTY_5": "Privacy violations and surveillance concerns"
+  },
+  {
+    "__EMPTY_2": 4.5,
+    "__EMPTY_3": "Risks - Political Economy risks",
+    "__EMPTY_4": "4.5.1",
+    "__EMPTY_5": "Political instability or transitions"
+  },
+  {
+    "__EMPTY_4": "4.5.2",
+    "__EMPTY_5": "Lack of sustained commitment"
+  },
+  {
+    "__EMPTY_2": 4.6,
+    "__EMPTY_3": "Risks - Financial",
+    "__EMPTY_4": "4.6.1",
+    "__EMPTY_5": "Insufficient funding "
+  },
+  {
+    "__EMPTY_4": "4.6.2",
+    "__EMPTY_5": "Dependence on external financing"
+  },
+  {
+    "__EMPTY_4": "4.6.3",
+    "__EMPTY_5": "High operational costs"
+  },
+  {
+    "__EMPTY_4": "4.6.4",
+    "__EMPTY_5": "Challenges in revenue generation etc"
+  },
+  {
+    "__EMPTY_2": 4.7,
+    "__EMPTY_3": "Entry points for UNDP offices",
+    "__EMPTY_4": "4.7.1",
+    "__EMPTY_5": "Policy advisory",
+    "__EMPTY_6": "These will be determined by the data points collected from Sr. No. 1-4 and conversations with UNDP team and other country stakeholders \n\nThe entry points can be further divided into immediate, medium term and long term"
+  },
+  {
+    "__EMPTY_4": "4.7.2",
+    "__EMPTY_5": "Capacity building"
+  },
+  {
+    "__EMPTY_4": "4.7.3",
+    "__EMPTY_5": "Convening and facilitation roles, coalition building "
+  },
+  {
+    "__EMPTY_4": "4.7.4",
+    "__EMPTY_5": "Evidence generation and feasibility studies"
+  },
+  {
+    "__EMPTY_4": "4.7.5",
+    "__EMPTY_5": "AI/DPI use case development "
+  },
+  {
+    "__EMPTY_4": "4.7.6",
+    "__EMPTY_5": "Co-design of digital transformation programs"
+  },
+  {
+    "__EMPTY": 5,
+    "__EMPTY_1": "Funding landscape",
+    "__EMPTY_2": 5.1,
+    "__EMPTY_3": "Multilateral development banks",
+    "__EMPTY_4": "5.1.1",
+    "__EMPTY_5": "ADB, World Bank, Other MDBs:\n\n- Current DPI and AI projects\n- Approved and pipeline financing\n- Strategic priorities and focus area over the next 5 years/decade\n-Financing instruments and supporting guidelines"
+  },
+  {
+    "__EMPTY_2": 5.2,
+    "__EMPTY_3": "Bilateral development banks",
+    "__EMPTY_4": "5.2.1",
+    "__EMPTY_5": "Bilateral development partners:\n\n- Major donors active in the country \n- Geographic and Sectoral preferences\n- Digital development programs \n- Other modalities"
+  },
+  {
+    "__EMPTY_2": 5.3,
+    "__EMPTY_3": "Philanthropic and Funding Organisations",
+    "__EMPTY_4": "5.3.1",
+    "__EMPTY_5": "-Foundations active in digital development in the country \n-Grant making priorities and cycles"
+  },
+  {
+    "__EMPTY_2": 5.4,
+    "__EMPTY_3": "Private Organisations",
+    "__EMPTY_4": "5.4.1",
+    "__EMPTY_5": "Private orgs",
+    "__EMPTY_7": "Between 2022 and 2024, Malaysia secured over USD 18 billion in AI-related foreign direct investment (FDI) from global tech leaders such as Google, Microsoft, Nvidia, AWS etc, complemented by RM114.7 billion in data centre and cloud service investments.",
+    "__EMPTY_8": "Malaysia has attracted substantial private investments in AI technologies, underscoring the\r\nsector’s potential. Notable investments include:\r\n-Microsoft: USD 2.2 billion for cloud and AI services.\r\n-Google: USD 2 billion for its first data centre and Google Cloud region.\r\n-ByteDance: Approximately USD 2.13 billion for an AI hub.\r\n-Oracle: Over USD 6.5 billion to establish its first public cloud region."
+  },
+  {
+    "__EMPTY_2": 5.5,
+    "__EMPTY_3": "Government budget allocation",
+    "__EMPTY_4": "5.5.1",
+    "__EMPTY_5": "-National digital transformation budget\n-Ministry/agency-specific allocations etc."
+  },
+  {
+    "__EMPTY": 6,
+    "__EMPTY_1": "Partnership and engagement opportunities for UNDP",
+    "__EMPTY_2": 6.1,
+    "__EMPTY_3": "Strategic opportunities",
+    "__EMPTY_4": "6.1.1",
+    "__EMPTY_5": "Government partnerships?"
+  },
+  {
+    "__EMPTY_5": "Coordination and partnership with other UN agencies?"
+  },
+  {
+    "__EMPTY_5": "Multi-stakeholder partnership? "
+  },
+  {
+    "__EMPTY_5": "University collaboration, joint research and evaluations?"
+  },
+  {
+    "__EMPTY_5": "Knowledge exchange platform/DPI stewardship ?"
+  },
+  {
+    "__EMPTY": 7,
+    "__EMPTY_1": "Synthesis and recommendation "
+  },
+  {
+    "__EMPTY_7": "Digital transformation strategies - \n\n1. National Science, Technology, and Innovation Policy 2030\n2. DIgital Economy blueprint 2030",
+    "__EMPTY_8": "Challenges - \nWeak regulatory and institutional support\n Poor data governance and sharing\n Fragmented coordination\n Low public awareness and trust\n Limited localization and ownership\n Skills gaps and talent drain\n Infrastructure challenges\n\nThe Governance,\r\nRegulation, and Ethics Working Committee is currently benchmarking and reviewing laws,\r\npolicies, and regulations to establish a legal framework. Key challenges include:\r\n Limited technical expertise and resources.\r\n Dependency on imported AI solutions, leading to fewer local use cases.\r\n The absence of a dedicated regulatory framework.\r\n The need to harmonize AI governance with existing sectoral laws."
+  }
+]

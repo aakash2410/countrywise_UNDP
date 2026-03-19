@@ -1,0 +1,562 @@
+[
+  {
+    "__EMPTY": "UNDP Digital Transformation Project | Deliverable 1 I Scoping Report for Phillipines"
+  },
+  {
+    "__EMPTY": "Baseline view of the AI and DPI ecosystem in Phillipines"
+  },
+  {
+    "__EMPTY": "#",
+    "__EMPTY_1": "Heading",
+    "__EMPTY_2": "##",
+    "__EMPTY_3": "Sub-Heading",
+    "__EMPTY_4": "###",
+    "__EMPTY_5": "Parameters",
+    "__EMPTY_6": "Potential Sources",
+    "__EMPTY_9": "Country-specific information \n(Summary)",
+    "__EMPTY_10": "Country-specific information \n(Description)",
+    "__EMPTY_11": "Sources",
+    "__EMPTY_12": "Remarks"
+  },
+  {
+    "__EMPTY": 1,
+    "__EMPTY_1": "AI and DPI Ecosystem",
+    "__EMPTY_2": 1.1,
+    "__EMPTY_3": "National AI Ecosystem \n- Policy and strategy",
+    "__EMPTY_4": "1.1.1",
+    "__EMPTY_5": "National AI strategy/policy status (adopted, draft, absent)",
+    "__EMPTY_6": "Government AI Readiness Index 2025 - Oxford Insights , OECD AI Policy Observatory",
+    "__EMPTY_7": "Adopted, National Artificial Intelligence Strategy Roadmap (NAISR) 2.0, 2024 (upversioned from NAISR 2021, by Department of Trade and Industry)",
+    "__EMPTY_8": "The National AI Strategy Roadmap (NAISR) 2.0, launched by the Philippine Department of Trade and Industry (DTI) on 3 July 2024, is an updated framework designed to position the Philippines as a regional \"Center of Excellence\" for Artificial Intelligence.\n\nKey Objectives and Features\nCenter for AI Research (CAIR): Launched alongside the roadmap, CAIR is the country’s first dedicated AI hub. It focuses on creating AI solutions for local challenges in sectors like sustainable agriculture, healthcare, and disaster resilience.\nEconomic Impact: The strategy aims to boost the economy by up to PHP 2.6 trillion annually through AI integration and increased R&D spending (targeting a rise from 0.3% to 1.0% of GDP).\nWorkforce Development: A core focus is the \"whole-of-nation\" approach to upskilling and reskilling Filipinos to ensure they remain competitive in an AI-driven global market. \n\nThe Seven Strategic Imperatives\nThe roadmap is structured around seven key pillars to drive adoption and innovation: \n\n- Environment: Building a robust, connected, and networked infrastructure.\n- Data: Improving data access and value extraction.\n- Education: Transforming the education system to nurture future AI talent.\n- Workforce: Large-scale upskilling and reskilling programs.\n- Ecosystem \"Conscience\": Developing ethical, safe, and responsible AI governance.\n- Research: Mastering and pushing the boundaries of AI through R&D.\n- Innovation: Accelerating the practical application of AI across industries.",
+    "__EMPTY_9": "The Philippines has an official national AI strategy: the National Artificial Intelligence Strategy Roadmap (NAISR) 2.0, launched by the Department of Trade and Industry (DTI) on 3 July 2024, building on the earlier NAISR 2021 roadmap. The strategy outlines national priorities for AI development, including infrastructure, talent development, research and innovation, responsible AI governance, and sectoral adoption.",
+    "__EMPTY_10": "The National Artificial Intelligence Strategy Roadmap (NAISR) 2.0, launched by the Department of Trade and Industry (DTI) on 3 July 2024, serves as the Philippines’ updated national framework for AI development and deployment, building upon the earlier NAISR 2021 roadmap.\n\nThe roadmap outlines a national vision to position the Philippines as a regional hub for responsible AI innovation and adoption. It is structured around seven strategic imperatives: environment (infrastructure), data, education, workforce development, responsible AI governance (“ecosystem conscience”), research, and innovation.\n\nAlongside the strategy, the government launched the Center for AI Research (CAIR) to support collaborative AI research and development focused on national priority sectors such as agriculture, healthcare, and disaster resilience.\n\nThe strategy highlights AI’s potential economic impact, estimating that AI adoption could contribute up to ₱2.8 trillion to the Philippine economy, particularly through productivity gains in sectors such as IT-BPM, manufacturing, retail, and financial services.\n\nTo support this transformation, the roadmap proposes increasing national research and development (R&D) investment from approximately 0.3% of GDP to around 1% of GDP, aligning with UNESCO’s benchmark for strengthening national innovation ecosystems and AI research capacity.\n\nHowever, while NAISR 2.0 establishes a clear national policy direction, implementation mechanisms, monitoring frameworks, and publicly reported progress indicators remain limited, which constrains full assessment of the strategy’s operational impact. The UNESCO AI Readiness Assessment Methodology (RAM) report for the Philippines similarly notes gaps in institutional coordination, research capacity, and systematic monitoring of AI policy implementation.",
+    "__EMPTY_11": "1. https://erikalegara.com/uploads/NAISR2.0_July2024.pdf",
+    "__EMPTY_12": "Information about AI strategy not available on OECD AI Policy Observator"
+  },
+  {
+    "__EMPTY_4": "1.1.2",
+    "__EMPTY_5": "AI Governance frameworks and regulations",
+    "__EMPTY_6": "UNESCO - Artificial Intelligence Readiness Assessment Report",
+    "__EMPTY_7": "Draft, Pending Appoval\n\nSenate Bill no 25\n\nOthers\nSenate Bill no 852\nHouse Bill No 7396\nHouse Bill No. 807\nHouse Bill no 0057",
+    "__EMPTY_8": "Senate Bill No. 25, also known as the Artificial Intelligence Regulation Act (AIRA), was filed on July 2, 2025, during the 20th Congress of the Philippines. The bill proposes a comprehensive legal framework for the ethical, transparent, and accountable development and use of AI systems in the country. \n\nAs of July 29, 2025, the bill is pending in the Committee on Sustainable Development Goals, Innovation, and Futures Thinking after its first reading. \n\nKey Provisions of SB 25\nThe bill aims to establish several new regulatory mechanisms and obligations: \nNational AI Commission (NAIC): A proposed central regulatory body with exclusive jurisdiction over AI. It would maintain a national AI registry, issue guidelines, and oversee enforcement.\nAI Ethics Review Board: A body within the NAIC responsible for issuing implementing guidelines and reviewing risks associated with AI applications.\n\n- Risk-Based Classification: Mandates the registration and risk-based classification of AI systems, ranging from chatbots to deepfakes.\n- Labor Protections: Requires employers to provide advance notification and impact assessments if AI integration might affect labor rights or cause job displacement.\n- Prohibited Practices: Outlines illegal acts, including using AI to commit crimes, failing to disclose AI-generated content, and using AI to manipulate public opinion or exploit individuals.\nPenalties: Violators could face mandatory compliance training, license suspension, monetary fines (up to ₱10 million reported in some summaries), and imprisonment. \n\nContext and Other Measures\nSB 25 is part of a broader legislative push to address AI risks. Other related pending measures include: \nSenate Bill No. 852: The \"AI Regulation Act\" which proposes an \"AI Bill of Rights\".\nHouse Bill No. 7396: The \"AI Development and Regulation Act of the Philippines,\" which seeks to create an AI Development Authority.\nHouse Bill No. 807: Known as the \"Take It Down Act of 2025,\" focusing on criminalizing non-consensual AI-generated sexually explicit materials",
+    "__EMPTY_11": "1. https://senate.gov.ph/legislative-documents/bills/594456"
+  },
+  {
+    "__EMPTY_4": "1.1.3",
+    "__EMPTY_5": "Ethical AI principles and guidelines",
+    "__EMPTY_6": "UNESCO - Artificial Intelligence Readiness Assessment Report",
+    "__EMPTY_8": "The Philippines is developing its Ethical AI architecture primarily through executive guidelines and strategic policy integration\n\nDICT Ethical and Responsible AI Guidelines (Primary Operational Framework)\nThe Department of Information and Communications Technology is drafting a Joint Memorandum Circular on the Ethical and Responsible Use and Development of AI in Government, which serves as the country’s main operational step toward structured AI governance in the public sector.\n\nKey Details\n- International Alignment: Anchored in the ASEAN AI Governance and Ethics Guidelines and the OECD AI Principles.\n- Scope: Applies to the development, procurement, and deployment of AI systems in government agencies.\n- Governance Principles: Emphasizes transparency, accountability, human oversight, explainability, and responsible use.\n- Data and Security Compliance: Reinforces adherence to the Data Privacy Act, cybersecurity policies, and standards-based technical governance.\n- Standards Participation: Supports engagement in international AI standard-setting bodies such as ISO AI committees.\n\nThis framework positions DICT as the central implementing authority for embedding ethical safeguards into government AI systems, focusing on responsible deployment\n\nBroader Ethical AI Integration\n\nNational AI Strategy Roadmap (NAISR 2.0): Integrates fairness, inclusivity, sustainability, and responsible innovation within its national AI development agenda while promoting a whole-of-nation coordination model.\nUNESCO Alignment: The Philippines is implementing UNESCO’s Recommendation on the Ethics of AI through its AI Readiness Assessment, signaling commitment to human rights, privacy, non-discrimination, and global ethical standards.\nSupporting Legal Frameworks: The Data Privacy Act and national cybersecurity policies provide enforceable safeguards that apply to AI systems."
+  },
+  {
+    "__EMPTY_4": "1.1.4",
+    "__EMPTY_5": "Data protection and privacy legislation ",
+    "__EMPTY_6": "DLA Piper\nUNDP Digital Development Compass",
+    "__EMPTY_8": "The Philippines’ data protection regime is governed by the Data Privacy Act of 2012 (Republic Act No. 10173), which regulates the collection, processing, storage, and transfer of personal data.\n\nCore Framework: Data Privacy Act (DPA)\n- Applies to Personal Information Controllers (PICs) and Processors (PIPs), including certain extraterritorial processing involving Philippine citizens or residents.\n- Defines personal and sensitive personal information, with stricter safeguards for sensitive data.\n- Requires lawful bases for processing such as consent, contractual necessity, legal obligation, protection of vital interests, public authority mandate, or legitimate interests.\n- Imposes security, confidentiality, and proportionality obligations.\n\nNational Privacy Commission (NPC)\nThe DPA established the National Privacy Commission as the independent regulator responsible for enforcement . The NPC oversees compliance, investigates complaints, conducts compliance checks, mandates DPO registration for covered entities, requires 72-hour breach notification where risk of harm exists, and has issued guidance on cross-border transfers and AI-related data processing.\n\nLegislative Developments\nAmendment bills have been filed, including House Bill Nos. 892 and 898, House Bill No. 9651, and Senate Bill No. 1367, all seeking to revise aspects of the DPA. These remain pending, and there are currently no indications that they will be enacted within the next 12 months.\n"
+  },
+  {
+    "__EMPTY_4": "1.1.5",
+    "__EMPTY_5": "Sector-specific AI regulations (health, finance, education etc)",
+    "__EMPTY_6": "Government websites, reports, news articles",
+    "__EMPTY_8": "Various government agencies have issued sector-specific guidelines and frameworks to govern AI use. (These are often grounded in existing laws like the Data Privacy Act of 2012.)\n\n1. Education\nAs of February 2026, the Department of Education (DepEd) has taken the most visible steps in basic education:\n- Foundational Guidelines (DO 003, s. 2026): Issued on February 20, 2026, these guidelines establish the parameters for AI adoption in teaching, assessment, and governance.\n- Project AGAP.AI: Launched in early 2026 to bridge the gap between technology and pedagogy, including a national AI skills training program for 1.5 million learners and teachers.\n- Education Center for AI Research (ECAIR): Tasked with piloting AI-powered tools for school management and developing AI-specific policies for educational institutions. \n\n2. Finance\nThe Bangko Sentral ng Pilipinas (BSP) governs AI use through risk-based frameworks rather than new standalone laws: \n- Regulatory Sandbox (Circular No. 1153): Allows financial institutions to test AI-enabled products in a controlled environment.\n- IT Risk Management: The BSP Manual of Regulations for Banks (MORB) provides guidelines on managing risks associated with automated systems, including credit scoring and fraud detection.\n- Consumer Protection: Circular No. 1160 mandates transparency and accountability in digital channels, including those powered by AI bots. \n",
+    "__EMPTY_11": "1. https://www.deped.gov.ph/wp-content/uploads/DO_s2025_013.pdf\n2. https://www.lexology.com/library/detail.aspx?g=91e88551-72ff-439e-82a6-05ace8a7dd61 \n"
+  },
+  {
+    "__EMPTY_2": 1.2,
+    "__EMPTY_3": "National AI Ecosystem \n- Implementation and Adoption",
+    "__EMPTY_4": "1.2.1",
+    "__EMPTY_5": "Government AI initiatives and projects (ongoing, pipeline)",
+    "__EMPTY_6": "Government digital transformation portals, ministry annual reports, budget documents etc",
+    "__EMPTY_7": "1. AI-4RP (AI Weather Forecasting & Disaster Resilience) – Department of Science and Technology (DOST) through PAGASA and ASTI\n\n2. SkAI-Pinas & ASTI-ALaM (Satellite AI & Automated Data Labeling) – DOST-ASTI\n\n3. iTANONG (Natural Language Government Data Query System) – DOST-ASTI\n\n4. AI Traffic Monitoring & Intelligent Signaling (Urban Mobility AI) – Metropolitan Manila Development Authority (MMDA) with DOST / DICT support\n\n5. AINA – Artificial Intelligence Nutrition Assistant (Public Health AI) – DOST-PCHRD\n\n6. UTAK AI (AI-Assisted Brain Tumor Detection) – DOST-PCHRD\n\n7. AI-as-a-Service Prototype / NAIRA-DIMER (Shared AI Infrastructure Platform) – DOST-ASTI\n\n8. National Artificial Intelligence Center for Research and Innovation (National AI Hub & Compute Infrastructure) – DOST\n\n9. National Data Lakehouse under GATES Program (AI-Ready Government Data Architecture) – DOST\n\n10. Digital Bayanihan Chain (Blockchain for National Budget Transparency) – Department of Information and Communications Technology (DICT)\n\n11. ₱1.5 Billion National AI Upskilling Initiative (AI Education & Workforce Development) – Department of Education (DepEd) with national government allocation\n\n12. COARE High Performance Computing & AI Compute Support (National AI Research Infrastructure) – DOST-ASTI",
+    "__EMPTY_8": "AI-4RP (Project Gabay)\nAI-enhanced weather forecasting collaboration between DOST-ASTI, DOST-PAGASA and Atmo Inc. Produces higher-resolution forecasts to support disaster resilience and extended lead-time predictions.\n\nSkAI-Pinas (Philippine Sky AI) and ASTI-ALaM (Automated Labeling Machine)\nNational R&D program to build automated labeling and model pipelines for large local datasets, including ASTI-ALaM as an automated labeling component and a model store for reuse. Supports remote sensing, agriculture, and disaster applications.\n\niTANONG (NL interface for government databases)\nDOST-ASTI project to let users query relational databases in Filipino, English, or Taglish via a natural language interface, improving citizen access to government data. Originally started as a multi-year ASTI research project and referenced in DOST materials about the new national AI hub.\n\nAI for Traffic / MMDA AI pilots (vehicle detection and intelligent signaling)\nVerified pilots and plans to use AI video analytics for vehicle detection and to modernize traffic signal control in Metro Manila. MMDA is adopting AI detection and planning intelligent signaling upgrades. Note: specific private products and pilots exist; I only list the MMDA / government confirmed activity here.\n\nAINA (Artificial Intelligence Nutrition Assistant)\nMobile AI system to identify foods from images and estimate portion sizes and nutrition metrics for use in public health research and practice. Documented by DOST PCHRD and partner publications.\n\nUTAK AI (Clinical landing and federated learning for brain tumor imaging)\nResearch project using AI for brain tumor detection and federated learning across clinical sites; listed in the Philippine health research registry and DOST/PCHRD summaries.\n\nNAIRA / DIMER and AI-as-a-Service (AIaaS) prototype (DOST-ASTI)\nDOST-ASTI’s initiative to provide a shared AI platform and model exchange (DIMER) as part of the national AI infrastructure. ASTI has publicly described a prototype AI-as-a-Service roadmap and model store to let agencies and researchers deploy models.\n\nNational Artificial Intelligence Center for Research and Innovation (NAICRI / National AI Center)\nAnnounced DOST launch and hub plans to serve as the national research and compute backbone for AI R&D, training, and shared compute resources.\n\nNational Data Lakehouse and the GATES Program\nDOST’s GATES program to harmonize interagency datasets into an AI-ready data lakehouse for evidence based governance, research and cross-sector analytics. Public DOST/region and ASTI documents describe the Lakehouse building work.\n\nDigital Bayanihan Chain (DICT blockchain for the 2026 GAA and budget transparency)\nDICT led initiative to put the national budget records onto a blockchain ledger to create tamper-proof, auditable budget traces. Confirmed in DICT and national press releases about the 2026 budget integration.\n\n₱1.5 Billion AI upskilling allocation and DepEd AGAP.AI / AI literacy programmes\nGovernment commitment and reporting of a ₱1.5 billion allocation for national AI upskilling in 2026 and DepEd’s AGAP.AI AI literacy rollout aimed at millions of learners, teachers and parents.\n\nHPC / COARE and university HPC support (shared compute for AI research)\nDOST-ASTI’s COARE supercomputing and cloud services providing high performance computing resources and support to universities and research groups, and university data commons (UP Data Commons, DLSU projects) tied into national AI research capacity.",
+    "__EMPTY_11": "1. DOST-ASTI news on AI-4RP / PAGASA partnership (AI weather / Atmo Inc).\nhttps://asti.dost.gov.ph/news-articles/asti-pagasa-partner-with-atmo-for-ai-powered-weather-forecasting/ \n\n2. Atmo.ai page about Philippines/AI weather (Atmo background).\nhttps://atmo.ai/news/philippines-ai-transition \n\n3. ASTI iTANONG project page (iTANONG NLIDB).\nhttps://asti.dost.gov.ph/projects/itanong/ \nhttps://asti.dost.gov.ph/projects/alam-project/ \n\n4. MMDA / PIA and press on MMDA AI traffic detection and signaling plans.\nhttps://pia.gov.ph/news/mmda-eyes-use-of-ai-in-traffic-management/ \n\n5. AINA (AI Nutrition Assistant) — PCHRD description.\nhttps://www.pchrd.dost.gov.ph/heartnovation/aina-artificial-intelligence-nutrition-assistant/ \n\n6. UTAK AI — Philippine health research registry and PCHRD descriptions.\nhttps://registry.healthresearch.ph/index.php/registry?cid=8363&layout=details&view=research \n\nhttps://www.pchrd.dost.gov.ph/news_and_updates/dost-pchrd-presents-ai-driven-innovations-at-amcham-philippines/ \n\n7. DOST-ASTI NAIRA / DIMER description and AI-as-a-Service items.\nhttps://asti.dost.gov.ph/events/launch-of-the-national-artificial-intelligence-center-for-research-and-innovation/ \n\nhttps://www.ditosapilipinas.com/national/news/article/05/19/2025/dost-asti-inclusive-ai-ecosystem/1599 \n\n8. DOST public materials on the upcoming NAICRI / national AI center launch.\nhttps://mb.com.ph/2026/02/21/dost-to-launch-national-ai-center \n\n9. GATES Program and National Data Lakehouse references (DOST / regional PIA coverage).\nhttps://pia.gov.ph/news/soccsksargen-backs-dosts-geospatial-technology-ai-initiative/ \n\nhttps://asti.dost.gov.ph/wp-content/uploads/PPAs-2025.pdf \n (FY2025 projects, DOST Data Lakehouse entries). \n\n10. Digital Bayanihan Chain (DICT blockchain for the 2026 GAA) — DICT pages and national press.\nhttps://dict.gov.ph/news-and-updates/25385 \n\nhttps://pia.gov.ph/news/first-in-asia-world-ph-to-use-blockchain-tech-for-budget/ \n (press coverage).\n\n11. ₱1.5B AI upskilling plan reporting and DepEd AGAP.AI launch.\nhttps://businessmirror.com.ph/2025/07/28/government-to-provide-%E2%82%B11-5-b-for-ai-upskilling-in-2026/ \n\nhttps://news.microsoft.com/source/asia/2026/02/03/deped-and-microsoft-accelerate-learning-recovery-and-ai-literacy-for-filipinos/ \n\n12. COARE / DOST-ASTI HPC and university HPC / UP Data Commons references.\nhttps://coare.asti.dost.gov.ph/services \n\nhttps://asti.dost.gov.ph/news-articles/coare-supercomputing-facility-highlights-its-continuous-support-to-covid-19-centric-initiatives/ \n \nhttps://datacommons.up.edu.ph/about-updc/ \n (UP Data Commons)."
+  },
+  {
+    "__EMPTY_4": "1.2.2",
+    "__EMPTY_5": "Public and private sector AI use cases by domain (Just an overview-preliminary understanding)",
+    "__EMPTY_6": "World Bank - Gov Tech Maturity Index\n\nOECD - Digital Government Review "
+  },
+  {
+    "__EMPTY_4": "1.2.3",
+    "__EMPTY_5": "Availability of AI Infrastructure (Connectivity, Compute, Cloud etc)",
+    "__EMPTY_6": "ICT Development Index , Cloud Infrastructure Map"
+  },
+  {
+    "__EMPTY_2": 1.3,
+    "__EMPTY_3": "DPI Ecosystem\n-DPI Stack Maturity",
+    "__EMPTY_4": "1.3.1",
+    "__EMPTY_5": "Digital ID: Availability of National ID systems, biometric coverage, authentication mechanisms, interoperability etc",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "PhilSys/ PhilID",
+    "__EMPTY_8": "The Philippine Identification System (PhilSys) is the Philippines’ national digital ID system that issues the PhilID and a unique identification number supported by biometric data for secure verification. Administered by the Philippine Statistics Authority, it aims to streamline public and private transactions while operating under the Data Privacy Act’s safeguards."
+  },
+  {
+    "__EMPTY_4": "1.3.2",
+    "__EMPTY_5": "Digital Payments : Availability, Interoperability, financial inclusion",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "PhilPASSPlus",
+    "__EMPTY_8": "The Philippine Payments and Settlements System Plus (PhilPaSSplus) is the Bangko Sentral ng Pilipinas’ upgraded real-time gross settlement system that enables high-value interbank fund transfers and settlement of financial market transactions in real time. Operated by the Bangko Sentral ng Pilipinas, it strengthens payment system resilience, liquidity management, and financial stability in the Philippines."
+  },
+  {
+    "__EMPTY_4": "1.3.3",
+    "__EMPTY_5": "Data Exchange: Availability, data sharing frameworks, consent mechanisms, interoperability standards",
+    "__EMPTY_6": "DPI Map",
+    "__EMPTY_7": "eGovDX\n\nInstaPay, PESONet & QR Ph",
+    "__EMPTY_8": "The eGovDX (eGovernment Data Exchange Platform) is the Philippines’ secure digital infrastructure that enables interoperable data sharing among government agencies to streamline public services. Led by the Department of Information and Communications Technology, it supports whole-of-government digital transformation while operating under data privacy and cybersecurity safeguards.\n\ňInstaPay, PESONet, and QR Ph are electronic fund transfer and payment services in the Philippines mandated by the Bangko Sentral ng Pilipinas (BSP) under the National Retail Payment System (NRPS). They provide secure, low-cost alternatives to cash, with InstaPay and QR Ph enabling real-time, low-value transactions, while PESONet is suited for high-value or batch transfers."
+  },
+  {
+    "__EMPTY_4": "1.3.4",
+    "__EMPTY_5": "Any other DPI assets ",
+    "__EMPTY_6": "DPI Use Cases Explorer"
+  },
+  {
+    "__EMPTY_4": "1.3.5",
+    "__EMPTY_5": "Service delivery: Presence of government digital services, citizen portals, service integration with DPIs",
+    "__EMPTY_6": "DPI Use Cases Explorer, Ministry websites"
+  },
+  {
+    "__EMPTY_2": 1.4,
+    "__EMPTY_3": "DPI Ecosystem\n-DPI Adoption ",
+    "__EMPTY_4": "1.4.1",
+    "__EMPTY_5": "Digital ID - No. of people enrolled",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "90M+ (~80% population)"
+  },
+  {
+    "__EMPTY_4": "1.4.2",
+    "__EMPTY_5": "Digital Payments - No. of transaction per month ",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "767K annually"
+  },
+  {
+    "__EMPTY_4": "1.4.3",
+    "__EMPTY_5": "Data Exchange - No. of partners onboarded ",
+    "__EMPTY_6": "DPI Map, Secondary research ",
+    "__EMPTY_7": "All major Banks"
+  },
+  {
+    "__EMPTY_4": "1.4.4",
+    "__EMPTY_5": "Other DPI assets",
+    "__EMPTY_6": "Secondary research "
+  },
+  {
+    "__EMPTY_4": "1.4.5",
+    "__EMPTY_5": "Digital inclusion gaps (geographic - Urban Rural, demographic - Gender, socioeconomic)",
+    "__EMPTY_6": "National surveys, ITU dataset",
+    "__EMPTY_7": "Affordability is the primary reason of varied internet conectivity and spend across various geographies (from suvey of PSI, Philippine Statistics Authority)",
+    "__EMPTY_8": "As of early 2025, about 83.8% of Filipinos were internet users, meaning roughly 16% of the population remains offline.\n\nWith respect to household internet coonectivity urban regions like Metro Manila (~68.7%) far ahead of regions such as Zamboanga Peninsula (~21%) and BARMM (~27%). Affordability remains a key barrier, reinforcing geographic and socioeconomic digital divides.",
+    "__EMPTY_11": "1. https://datareportal.com/reports/digital-2026-philippines"
+  },
+  {
+    "__EMPTY_4": "1.4.6",
+    "__EMPTY_5": "User experience, satisfaction ",
+    "__EMPTY_6": "Newspaper articles, civic society organisation reports"
+  },
+  {
+    "__EMPTY": 2,
+    "__EMPTY_1": "Political Economy",
+    "__EMPTY_2": 2.1,
+    "__EMPTY_3": "Political Stability and Institutional Capacity ",
+    "__EMPTY_4": "2.1.1",
+    "__EMPTY_5": "National election cycle\nPrevious and Upcoming Month and Year",
+    "__EMPTY_6": "Election Commission websites",
+    "__EMPTY_7": "Six-year presidential terms; midterms every three years.",
+    "__EMPTY_8": "The Philippines held its National and Local Elections on May 12, 2025, which served as a midterm referendum for the Marcos Jr. administration. The next major transition will be the 2028 Presidential Election. The current period (2026) is marked by the start of \"lame-duck\" dynamics as the political focus shifts toward successor maneuvering."
+  },
+  {
+    "__EMPTY_4": "2.1.2",
+    "__EMPTY_5": "Governance structure - Centralised/Decentralised/Federal",
+    "__EMPTY_7": "Unitary state with significant decentralization.",
+    "__EMPTY_8": "Officially a Unitary Republic, the Philippines operates under the Local Government Code of 1991, which devolves power to Provinces, Cities, and Municipalities. A unique \"Federal-like\" exception is the Bangsamoro Autonomous Region (BARMM), which held its first regular parliamentary elections in October 2025."
+  },
+  {
+    "__EMPTY_4": "2.1.3",
+    "__EMPTY_5": "Political stability and continuity \n\nWorld bank map includes - Voice and accountability, polictical stability, government effectiveness, regulatory quality, rule of law, control of corruption ",
+    "__EMPTY_6": "Recent news articles, \nEconomist Intelligence Unit Political Stability Index, \nWorld Bank Governance Indicators ",
+    "__EMPTY_7": "Stable but prone to elite factionalism.\n\nMixed performance; moderate regulatory quality.",
+    "__EMPTY_8": "While the government remains constitutionally stable, 2026 is characterized by an widening rift between the \"Uniteam\" alliance (Marcos and Duterte factions). This creates risks for policy continuity if digital initiatives become politicized or if leadership focus is diverted by \"elite intramurals\" ahead of 2028.\n\nVoice & Accountability: Relatively high for the region but under pressure. \n\nPolitical Stability: Low scores (-0.77 in 2024) due to internal conflicts. \n\nGovt. Effectiveness: Improving through digitalization. \n\nRule of Law / Corruption: Persistent challenges with slow judicial processes and systemic graft."
+  },
+  {
+    "__EMPTY_4": "2.1.4",
+    "__EMPTY_5": "Government's digital transformation priority in the last 5 years and next decade",
+    "__EMPTY_6": "PM/President recent speech, National Development Plan, Budgets",
+    "__EMPTY_7": "High; shifting from access to \"Digital Economy.\"",
+    "__EMPTY_8": "(2021–2025) focused on connectivity and infrastructure (e.g., Common Tower Policy). (2026–2035) focuses on the Konektadong Pinoy Act and the e-Governance Act, aiming to raise the digital economy to 12% of GDP by 2026 through cloud-first policies and AI integration."
+  },
+  {
+    "__EMPTY_4": "2.1.5",
+    "__EMPTY_5": "Institutional capacity for policy implementation ",
+    "__EMPTY_6": "World Bank - Country Policy and Institutional Assessment ",
+    "__EMPTY_7": "Growing but uneven across agencies.",
+    "__EMPTY_8": "The E-Governance Act (RA 12254), signed in late 2025, mandates a unified digital framework. While central agencies (like DICT or the Central Bank) have high capacity, Local Government Units (LGUs) in rural areas often lack the technical staff and budget to implement these national mandates effectively."
+  },
+  {
+    "__EMPTY_4": "2.1.6",
+    "__EMPTY_5": "Leadership/ Digital transformation champions within the cabinet, PM",
+    "__EMPTY_7": "Led by the President and DICT Secretary.",
+    "__EMPTY_8": "President Ferdinand Marcos Jr. has positioned himself as the primary champion, frequently highlighting the Digital National ID (PhilSys). Secretary Henry Rhoel Aguda (appointed March 2025) is the lead \"champion\" at the cabinet level, bringing 35+ years of private sector tech expertise to the DICT."
+  },
+  {
+    "__EMPTY_4": "2.1.7",
+    "__EMPTY_5": "Key decision makers and influencers",
+    "__EMPTY_7": "DICT, NEDA, and the Office of the President.",
+    "__EMPTY_8": "Key influencers include the Department of Information and Communications Technology (DICT) as the lead implementer, the National Economic and Development Authority (NEDA) for funding, and the Anti-Red Tape Authority (ARTA) which enforces the automation of government services."
+  },
+  {
+    "__EMPTY_4": "2.1.8",
+    "__EMPTY_5": "Technical expertise/ Dedicated authority/staff for digital transformation projects\n\nDIgital readiness of civil service",
+    "__EMPTY_7": "Dedicated ICT agency with specialized units.",
+    "__EMPTY_8": "The DICT maintains a Central Office and 16 regional offices. Specialized units like the Cybersecurity Bureau and the e-Government Unified Project Management Office (eGov UPMO) lead specific technical rollouts. However, \"brain drain\" to the private sector remains a significant challenge for keeping top-tier technical staff."
+  },
+  {
+    "__EMPTY_4": "2.1.9",
+    "__EMPTY_5": "Civil society engagement levels",
+    "__EMPTY_7": "Vibrant but digitally polarized.",
+    "__EMPTY_8": "The Philippines has a very active civil society. However, engagement is often marred by disinformation and \"troll farms.\" While groups like Bayanihan participate in digital literacy programs, PWD and indigenous groups report being frequently left out of high-level digital policy consultations."
+  },
+  {
+    "__EMPTY_4": "2.1.10",
+    "__EMPTY_5": "Overall governance and administrative culture ",
+    "__EMPTY_6": "Subjective question - need KIIs",
+    "__EMPTY_7": "Bureaucratic; shifting toward \"Agile.\"",
+    "__EMPTY_8": "Traditionally characterized by \"red tape\" and paper-heavy workflows, the culture is slowly shifting toward \"Digital Bayanihan\" (cooperation). The Ease of Doing Business Act has forced a more results-oriented administrative culture, though \"slowly but surely\" remains the prevalent pace in many local bureaucracies."
+  },
+  {
+    "__EMPTY": 3,
+    "__EMPTY_1": "Mapping of Key Ecoosystem Actors and Initiatives",
+    "__EMPTY_2": 3.1,
+    "__EMPTY_3": "Government actors - National and Sub-national levels (Focus on National only)",
+    "__EMPTY_4": "3.1.1",
+    "__EMPTY_5": "Lead agency/ministry for digital transformation ",
+    "__EMPTY_6": "Govt. websites",
+    "__EMPTY_7": "DICT",
+    "__EMPTY_8": "The Department of Information and Communications Technology (DICT) is the primary body. Under the \"2026 Growth Agenda,\" DICT is tasked with increasing the digital economy to 12% of GDP."
+  },
+  {
+    "__EMPTY_4": "3.1.2",
+    "__EMPTY_5": "AI and DPI implementation agencies (for foundational DPIs such as digital id, payments etc)",
+    "__EMPTY_7": "PSA & BSP",
+    "__EMPTY_8": "The Philippine Statistics Authority (PSA) manages the National ID (PhilSys). The Bangko Sentral ng Pilipinas (BSP) oversees the digital payment backbone (InstaPay, PESONet)."
+  },
+  {
+    "__EMPTY_4": "3.1.3",
+    "__EMPTY_5": "Regulatory bodies and oversight agencies",
+    "__EMPTY_7": "NPC, NTC, & SEC",
+    "__EMPTY_8": "The National Privacy Commission (NPC) regulates AI data usage. The National Telecommunications Commission (NTC) handles connectivity, while the SEC modernizes capital markets for tech IPOs."
+  },
+  {
+    "__EMPTY_4": "3.1.4",
+    "__EMPTY_5": "Any innovation lab/ government accelerators ",
+    "__EMPTY_7": "DOST & Ateneo TRL",
+    "__EMPTY_8": "The Department of Science and Technology (DOST) runs AI R&D centers. The Technical Resource Lab (TRL) at Ateneo de Manila (launched Feb 2026) serves as a DPI testing hub."
+  },
+  {
+    "__EMPTY_4": "3.1.5",
+    "__EMPTY_5": "Parliamentary committe on digital transformation/technology/AI and DPI",
+    "__EMPTY_7": "House ICT Committee",
+    "__EMPTY_8": "The House Committee on ICT (led by Rep. Joey Salceda or similar tech-vocal members) and the Senate Science & Tech Committee drive the e-Governance Act and Konektadong Pinoy Act."
+  },
+  {
+    "__EMPTY_4": "3.1.6",
+    "__EMPTY_5": "Chief digital officer/Lead - Team - Details ",
+    "__EMPTY_7": "Usec. for e-Gov",
+    "__EMPTY_8": "David L. Almirol Jr. serves as Undersecretary for e-Government, leading the \"eGov PH\" super-app. Secretary Henry Rhoel Aguda provides the over-arching cabinet-level leadership."
+  },
+  {
+    "__EMPTY_2": 3.2,
+    "__EMPTY_3": "Private actors ",
+    "__EMPTY_4": "3.2.1",
+    "__EMPTY_5": "Major tech companies operating in the country ",
+    "__EMPTY_7": "Local Conglomerates & Big Tech",
+    "__EMPTY_8": "Aboitiz Data Innovation (ADI), Microsoft Philippines, and Google Cloud (significant 2026 expansion in data centers)."
+  },
+  {
+    "__EMPTY_4": "3.2.2",
+    "__EMPTY_5": "AI/ML Solution providers",
+    "__EMPTY_6": "Gartner/IDC market reports",
+    "__EMPTY_7": "Specialized Dev Firms",
+    "__EMPTY_8": "DianApps, Arcanys, and White Widget are top-rated 2026 firms for AI integration and custom ML solutions."
+  },
+  {
+    "__EMPTY_4": "3.2.3",
+    "__EMPTY_5": "DPI tech vendors",
+    "__EMPTY_7": "Identity & Platform Experts",
+    "__EMPTY_8": "Idemia (PhilSys partner), Multisys Technologies, and various blockchain providers for the 2026 \"hack-free\" national budget system."
+  },
+  {
+    "__EMPTY_4": "3.2.4",
+    "__EMPTY_5": "DPGs"
+  },
+  {
+    "__EMPTY_4": "3.2.5",
+    "__EMPTY_5": "Cloudeservice providers",
+    "__EMPTY_7": "Hybrid/Multi-cloud Focus",
+    "__EMPTY_8": "Microsoft Azure, AWS, and Alibaba Cloud are the primary providers for the government’s \"Cloud-First\" policy."
+  },
+  {
+    "__EMPTY_4": "3.2.6",
+    "__EMPTY_5": "Telecommunication operators ",
+    "__EMPTY_6": "Telecom regulatory authority data",
+    "__EMPTY_7": "The \"Big Three\"",
+    "__EMPTY_8": "PLDT/Smart, Globe Telecom, and DITO Telecommunity; Starlink is increasingly dominant in rural/maritime areas."
+  },
+  {
+    "__EMPTY_4": "3.2.7",
+    "__EMPTY_5": "Fintech and digital payment providers",
+    "__EMPTY_6": "Central bank lists",
+    "__EMPTY_7": "High-penetration wallets",
+    "__EMPTY_8": "GCash (94M+ users in 2026), Maya, and SeaMoney. Visa Direct (via RCBC) is a new 2026 leader in cross-border transfers."
+  },
+  {
+    "__EMPTY_2": 3.3,
+    "__EMPTY_3": "Development partners and multilaterals - Digital transformation/AI/DPI\nAlong with details of ongoing projects",
+    "__EMPTY_4": "3.3.1",
+    "__EMPTY_5": "UN Agencies",
+    "__EMPTY_6": "UNDP: Managing the Digital Development Compass and AI ethical frameworks. ITU: Partnering on the AI for Good global dialogue."
+  },
+  {
+    "__EMPTY_4": "3.3.2",
+    "__EMPTY_5": "World Bank ",
+    "__EMPTY_6": "Digital Transformation Project: A multi-year loan supporting the modernization of the Bureau of Internal Revenue (BIR) and customs systems."
+  },
+  {
+    "__EMPTY_4": "3.3.3",
+    "__EMPTY_5": "Asian Development Bank",
+    "__EMPTY_6": "ProSPER Project (2026): Integrating digital tools into agro-enterprises; Mindanao Road Project Phase 2 using digital logistics monitoring."
+  },
+  {
+    "__EMPTY_4": "3.3.4",
+    "__EMPTY_5": "Others - Bilateral development agencies, International NGOs and Foundations, Global Tech Partners",
+    "__EMPTY_6": "USAID: BEACON project for internet infrastructure. Bill & Melinda Gates Foundation: Funding for DPI and financial inclusion through the PSA."
+  },
+  {
+    "__EMPTY_2": 3.4,
+    "__EMPTY_3": "Academic and research institutions",
+    "__EMPTY_4": "3.4.1",
+    "__EMPTY_5": "Institutions (Universities, Think Tanks etc.) working in research on AI/DPI/Digital transformation ",
+    "__EMPTY_7": "Ateneo de Manila University: Hosts the Business Insights Laboratory for Development (BUILD) focusing on National ID analytics.\n\nUniversity of the Philippines (UP): Leading research in AI ethics and the Computational Intelligence Group.\n\nDe La Salle University (DLSU): Focuses on AI for social good and robotics.\n\nDepEd E-CAIR: The new Education Center for AI Research (launched 2025/26) to modernize K-12 pedagogy."
+  },
+  {
+    "__EMPTY_2": 3.5,
+    "__EMPTY_3": "Civil society ",
+    "__EMPTY_4": "3.5.1",
+    "__EMPTY_5": "Digital rights org, advocacy groups, grassroot innovation initiatives etc.",
+    "__EMPTY_7": "Foundation for Media Alternatives (FMA): The lead watchdog for digital rights, privacy, and the \"Digital Rights Round-up.\"\n\nDemocracy.Net.PH: Advocacy group focused on the \"Magna Carta for Philippine Internet Freedom.\"\n\nBayan Academy: Grassroots organization helping small businesses adopt digital payments and AI literacy."
+  },
+  {
+    "__EMPTY_2": 3.6,
+    "__EMPTY_3": "Mapping of Initiatives along with the implementation agency",
+    "__EMPTY_4": "3.6.1",
+    "__EMPTY_5": "National AI/DPI/Digital transformation strategy (National policy/Digital framework/E-governance blueprint/National cyber security policy/National AI policy etc.)",
+    "__EMPTY_7": "\n\n\n"
+  },
+  {
+    "__EMPTY_4": "3.6.2",
+    "__EMPTY_5": "Flagship AI and DPI projects",
+    "__EMPTY_7": "National AI Strategy 2.0 | Type: National policy and strategic framework | Lead: DTI / DICT | Status 2026: Active | Context: Mid cycle revision focusing on Generative AI and ethical guardrails\n\nKonektadong Pinoy Act | Type: Digital infrastructure reform | Lead: DICT / NTC | Status 2026: Implementation phase | Context: Removing ISP entry barriers to lower costs and improve connectivity\n\nPhilSys National ID | Type: Digital public infrastructure | Lead: PSA | Status 2026: Expansion | Context: Shift from registration to Identity Wallet use cases in banking and digital services\n\nProject AGAP.AI | Type: AI education and capacity building | Lead: DepEd | Status 2026: Flagship | Context: AI literacy training for 1.5 million students and teachers"
+  },
+  {
+    "__EMPTY_4": "3.6.3",
+    "__EMPTY_5": "Failed or stalled initiatives",
+    "__EMPTY_7": "Social Media Verification Policy | Type: Digital governance and platform regulation | Lead: DICT | Status 2026: Stalled | Context: Moved from mandatory to voluntary due to privacy concerns"
+  },
+  {
+    "__EMPTY": 4,
+    "__EMPTY_1": "Emerging opportunities, risks, and practical entry points",
+    "__EMPTY_2": 4.1,
+    "__EMPTY_3": "Opportunities",
+    "__EMPTY_4": "4.1.1",
+    "__EMPTY_5": "Upcoming projects, policy reforms, government mandates"
+  },
+  {
+    "__EMPTY_4": "4.1.2",
+    "__EMPTY_5": "Electoral transitions?"
+  },
+  {
+    "__EMPTY_4": "4.1.3",
+    "__EMPTY_5": "International commitments",
+    "__EMPTY_6": "WB, ADB, UNDP, 50-in-5 Websites",
+    "__EMPTY_7": "The Philippines is a key player in the 50-in-5 campaign to roll out DPIs. The World Bank's Second Digital Transformation DPL (2025–2026) provides $600M+ tied to specific milestones in digital government and internet competition."
+  },
+  {
+    "__EMPTY_4": "4.1.4",
+    "__EMPTY_5": "Sectoral opportunities (Health, education, agri, social protection, governance)",
+    "__EMPTY_6": "Need to conduct KIIs to get this information "
+  },
+  {
+    "__EMPTY_2": 4.2,
+    "__EMPTY_3": "Risks - Technical ",
+    "__EMPTY_4": "4.2.1",
+    "__EMPTY_5": "Infrastructure inadequacy or unreliability ",
+    "__EMPTY_6": "These represent potential or forecasted risks. For the initial version of the document, we can rely on historical data points and the country’s development trajectory to validate whether these constitute the relevant risks.",
+    "__EMPTY_7": "Cyber-resilience & Interoperability.",
+    "__EMPTY_8": "Infrastructure: Despite 5G growth, \"Dead Spots\" in rural Visayas/Mindanao persist. Security: The Philippines remains a top target for ransomware. Lock-in: High dependency on Western hyperscalers (AWS/Azure) for government cloud needs."
+  },
+  {
+    "__EMPTY_4": "4.2.2",
+    "__EMPTY_5": "Data availability and quality "
+  },
+  {
+    "__EMPTY_4": "4.2.3",
+    "__EMPTY_5": "System interoperability issues"
+  },
+  {
+    "__EMPTY_4": "4.2.4",
+    "__EMPTY_5": "Technology lock-in and vendor dependency "
+  },
+  {
+    "__EMPTY_4": "4.2.5",
+    "__EMPTY_5": "Limitations in scalability of the project"
+  },
+  {
+    "__EMPTY_4": "4.2.6",
+    "__EMPTY_5": "Issues in financial sustainability "
+  },
+  {
+    "__EMPTY_2": 4.3,
+    "__EMPTY_3": "Risks - Governance and Institutional ",
+    "__EMPTY_4": "4.3.1",
+    "__EMPTY_5": "Weak regulatory frameworks"
+  },
+  {
+    "__EMPTY_4": "4.3.2",
+    "__EMPTY_5": "Institutional fragmentation and silos",
+    "__EMPTY_7": "Institutional \"Silos\" ",
+    "__EMPTY_8": "Fragmentation: DICT vs. local LGUs remains a hurdle for unified DPI. Procurement: Outdated laws often favor \"lowest cost\" over \"highest tech,\" leading to sub-par digital tools. Capacity: Top IT talent continues to migrate to the private sector or overseas."
+  },
+  {
+    "__EMPTY_4": "4.3.3",
+    "__EMPTY_5": "Capacity constraints"
+  },
+  {
+    "__EMPTY_4": "4.3.4",
+    "__EMPTY_5": "Malpractices (Corruption), lack of accountability measures"
+  },
+  {
+    "__EMPTY_4": "4.3.5",
+    "__EMPTY_5": "Procurement processes"
+  },
+  {
+    "__EMPTY_2": 4.4,
+    "__EMPTY_3": "Risks - Social",
+    "__EMPTY_4": "4.4.1",
+    "__EMPTY_5": "Digital exclusion and inequality",
+    "__EMPTY_7": "Disinformation & The Digital Divide.",
+    "__EMPTY_8": "Exclusion: While urban centers are 2026-ready, the bottom 20% of the population still faces \"Device Poverty.\" Surveillance: Concerns over how the PhilSys Identity Wallet and biometric data are used for political monitoring."
+  },
+  {
+    "__EMPTY_4": "4.4.2",
+    "__EMPTY_5": "Privacy violations and surveillance concerns"
+  },
+  {
+    "__EMPTY_2": 4.5,
+    "__EMPTY_3": "Risks - Political Economy risks",
+    "__EMPTY_4": "4.5.1",
+    "__EMPTY_5": "Political instability or transitions",
+    "__EMPTY_7": "The Marcos-Duterte Rift.",
+    "__EMPTY_8": "The widening political divide between the two major factions (Marcos and Duterte) in 2026 threatens the continuity of ICT budgets if digital projects become associated with \"legacy\" politics."
+  },
+  {
+    "__EMPTY_4": "4.5.2",
+    "__EMPTY_5": "Lack of sustained commitment"
+  },
+  {
+    "__EMPTY_2": 4.6,
+    "__EMPTY_3": "Risks - Financial",
+    "__EMPTY_4": "4.6.1",
+    "__EMPTY_5": "Insufficient funding ",
+    "__EMPTY_7": "Sustainability & Debt.",
+    "__EMPTY_8": "Funding: Heavy reliance on external financing (WB/ADB) creates long-term debt pressure. Revenue: Challenges remain in monetizing e-government services to make them self-sustaining."
+  },
+  {
+    "__EMPTY_4": "4.6.2",
+    "__EMPTY_5": "Dependence on external financing"
+  },
+  {
+    "__EMPTY_4": "4.6.3",
+    "__EMPTY_5": "High operational costs"
+  },
+  {
+    "__EMPTY_4": "4.6.4",
+    "__EMPTY_5": "Challenges in revenue generation etc"
+  },
+  {
+    "__EMPTY_2": 4.7,
+    "__EMPTY_3": "Entry points for UNDP offices",
+    "__EMPTY_4": "4.7.1",
+    "__EMPTY_5": "Policy advisory",
+    "__EMPTY_6": "These will be determined by the data points collected from Sr. No. 1-4 and conversations with UNDP team and other country stakeholders \n\nThe entry points can be further divided into immediate, medium term and long term"
+  },
+  {
+    "__EMPTY_4": "4.7.2",
+    "__EMPTY_5": "Capacity building"
+  },
+  {
+    "__EMPTY_4": "4.7.3",
+    "__EMPTY_5": "Convening and facilitation roles, coalition building "
+  },
+  {
+    "__EMPTY_4": "4.7.4",
+    "__EMPTY_5": "Evidence generation and feasibility studies"
+  },
+  {
+    "__EMPTY_4": "4.7.5",
+    "__EMPTY_5": "AI/DPI use case development "
+  },
+  {
+    "__EMPTY_4": "4.7.6",
+    "__EMPTY_5": "Co-design of digital transformation programs"
+  },
+  {
+    "__EMPTY": 5,
+    "__EMPTY_1": "Funding landscape",
+    "__EMPTY_2": 5.1,
+    "__EMPTY_3": "Multilateral development banks",
+    "__EMPTY_4": "5.1.1",
+    "__EMPTY_5": "ADB, World Bank, Other MDBs:\n\n- Current DPI and AI projects\n- Approved and pipeline financing\n- Strategic priorities and focus area over the next 5 years/decade\n-Financing instruments and supporting guidelines"
+  },
+  {
+    "__EMPTY_2": 5.2,
+    "__EMPTY_3": "Bilateral development banks",
+    "__EMPTY_4": "5.2.1",
+    "__EMPTY_5": "Bilateral development partners:\n\n- Major donors active in the country \n- Geographic and Sectoral preferences\n- Digital development programs \n- Other modalities"
+  },
+  {
+    "__EMPTY_2": 5.3,
+    "__EMPTY_3": "Philanthropic and Private Foundations",
+    "__EMPTY_4": "5.3.1",
+    "__EMPTY_5": "-Foundations active in digital development in the country \n-Grant making priorities and cycles"
+  },
+  {
+    "__EMPTY_2": 5.4,
+    "__EMPTY_3": "Government budget allocation",
+    "__EMPTY_4": "5.4.1",
+    "__EMPTY_5": "-National digital transformation budget\n-Ministry/agency-specific allocations etc."
+  },
+  {
+    "__EMPTY": 6,
+    "__EMPTY_1": "Partnership and engagement opportunities for UNDP",
+    "__EMPTY_2": 6.1,
+    "__EMPTY_3": "Strategic opportunities",
+    "__EMPTY_4": "6.1.1",
+    "__EMPTY_5": "Government partnerships?"
+  },
+  {
+    "__EMPTY_5": "Coordination and partnership with other UN agencies?"
+  },
+  {
+    "__EMPTY_5": "Multi-stakeholder partnership? "
+  },
+  {
+    "__EMPTY_5": "University collaboration, joint research and evaluations?"
+  },
+  {
+    "__EMPTY_5": "Knowledge exchange platform/DPI stewardship ?"
+  },
+  {
+    "__EMPTY": 7,
+    "__EMPTY_1": "Synthesis and recommendation "
+  },
+  {
+    "__EMPTY": 7
+  }
+]

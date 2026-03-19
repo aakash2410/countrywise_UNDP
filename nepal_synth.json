@@ -1,0 +1,242 @@
+{
+  "countryName": "Nepal",
+  "dpiEcosystem": {
+    "digitalId": {
+      "title": "Digital ID",
+      "status": "Maturing",
+      "description": "",
+      "implementationAgency": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ],
+        "timeline": ""
+      }
+    },
+    "payments": {
+      "title": "Digital Payments",
+      "status": "Maturing",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ],
+        "timeline": ""
+      }
+    },
+    "dataExchange": {
+      "title": "Data Exchange",
+      "status": "Open to Adopt",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ],
+        "timeline": ""
+      }
+    }
+  },
+  "aiEcosystem": {
+    "policy": {
+      "title": "AI Strategy",
+      "status": "Early Success",
+      "description": "National AI Policy, 2025",
+      "modalDetails": {
+        "fullContext": "Vision\nTo build a human-Centered, ethical, and prosperous Nepal through Artificial Intelligence (AI) technology.\n\nMission\nTo maximize the use of Artificial Intelligence for the socio-economic development of the nation.\n\nGoals\n- Increase the contribution of the information technology sector to the Gross Domestic Product (GDP) by 1% through the optimal use of AI across all socio-economic sectors.\n- Improve Nepal’s position within the top 50 countries in the Global Government AI Readiness Index.\n- Produce at least five thousand skilled human resources in the field of AI within five years.\n- Establish AI Excellence Centres in all provinces within five years.\n- Achieve AI literacy for the entire population, including students at the basic education level.\n\nObjectives\n- Build a sustainable and reliable AI ecosystem.\n- Accelerate the economic growth rate through the optimal use of AI.\n- Enhance the effectiveness of public service delivery through AI applications.\n- Strengthen AI governance",
+        "keyMetrics": [
+          "National AI Policy, 2025"
+        ],
+        "timeline": ""
+      }
+    },
+    "governance": {
+      "title": "AI Governance",
+      "status": "Open to Adopt",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ],
+        "timeline": ""
+      }
+    },
+    "legislation": {
+      "title": "Data Protection",
+      "status": "Early Success",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ],
+        "timeline": ""
+      }
+    },
+    "initiatives": {
+      "title": "AI Initiatives",
+      "status": "Open to Adopt",
+      "description": "",
+      "modalDetails": {
+        "fullContext": "",
+        "keyMetrics": [
+          ""
+        ],
+        "timeline": ""
+      }
+    }
+  },
+  "sectionB": {
+    "fundingLandscape": "Development partners and domestic budget",
+    "electricityAccess": 0,
+    "internetPenetration": 0,
+    "politicalStability": "",
+    "electionCycles": "Previous cycle in 2022 next one in March, 2026",
+    "politicalModalDetails": {
+      "fullContext": "",
+      "keyMetrics": [
+        ""
+      ],
+      "timeline": ""
+    }
+  },
+  "sectionC": {
+    "actors": []
+  },
+  "sectionD": {
+    "takeaways": []
+  },
+  "parameterStages": {
+    "P1": {
+      "parameter": "AI Ecosystem Maturity",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "IMF AI Preparedness Index (AIPI)  (2023 dataset)",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "National AI Strategy / Policy Status",
+          "stage": "Early Success"
+        },
+        {
+          "name": "AI Governance and Regulatory Frameworks and Ethical AI Principles",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Data Protection and Privacy Legislation",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Government AI Initiatives and Projects",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P2": {
+      "parameter": "DPI Ecosystem Maturity",
+      "parameterStage": "Maturing",
+      "subParameters": [
+        {
+          "name": "National Digital Transformation Strategy",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital ID",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Digital Payments",
+          "stage": "Maturing"
+        },
+        {
+          "name": "Data Exchange",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Use Cases of DPI Assets",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P3": {
+      "parameter": "Digital-Physical Infrastructure",
+      "parameterStage": "Early Success",
+      "subParameters": [
+        {
+          "name": "Electricity Access and Reliability",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Internet Penetration",
+          "stage": "Greenfield"
+        },
+        {
+          "name": "Compute and Cloud Capacity",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Digital Inclusion",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P4": {
+      "parameter": "Political Stability and Governance",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "WB Worldwide Governance Indicators - Political Stability Score 2024",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Political stability and DT policy continuity (Requirement of KIIs)",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P5": {
+      "parameter": "Stakeholder Participation and Ecosystem Coordination",
+      "parameterStage": "Open to Adopt",
+      "subParameters": [
+        {
+          "name": "Lead Agency and Government Coordination",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Private Sector Engagement",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Development Partners and MDBs",
+          "stage": "Early Success"
+        },
+        {
+          "name": "Academic and Research Institutions",
+          "stage": "Open to Adopt"
+        },
+        {
+          "name": "Civil Society Engagement",
+          "stage": "Open to Adopt"
+        }
+      ]
+    },
+    "P6": {
+      "parameter": "Funding Landscape",
+      "parameterStage": "Greenfield",
+      "subParameters": [
+        {
+          "name": "Domestic Public Budget for AI/DPI",
+          "stage": "Early Success"
+        },
+        {
+          "name": "MDB and Multilateral/Bilateral Financing",
+          "stage": "Greenfield"
+        }
+      ]
+    }
+  }
+}

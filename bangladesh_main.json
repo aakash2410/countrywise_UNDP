@@ -1,0 +1,652 @@
+[
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 | Scoping Report for Bangladesh\nBaseline view of the AI and DPI ecosystem in Bangladesh": "#",
+    "__EMPTY": "Heading",
+    "__EMPTY_1": "##",
+    "__EMPTY_2": "Sub-Heading",
+    "__EMPTY_3": "###",
+    "__EMPTY_4": "Parameters",
+    "__EMPTY_5": "Potential Sources",
+    "__EMPTY_6": "Country-specific information \n(Summary)",
+    "__EMPTY_7": "Country-specific information \n(Description)",
+    "__EMPTY_8": "Sources",
+    "__EMPTY_9": "Remarks"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 | Scoping Report for Bangladesh\nBaseline view of the AI and DPI ecosystem in Bangladesh": 1,
+    "__EMPTY": "AI and DPI Ecosystem",
+    "__EMPTY_1": 1.1,
+    "__EMPTY_2": "National AI Ecosystem \n- Policy and strategy",
+    "__EMPTY_3": "1.1.1",
+    "__EMPTY_4": "National AI strategy/policy status (adopted, draft, absent)",
+    "__EMPTY_5": "Government AI Readiness Index 2025 - Oxford Insights\nDigital Development Compass UNDP",
+    "__EMPTY_6": " National Artificial Intelligence Policy 2026-30 \n(Drafts V1.1 and V2.0)\n\n\n",
+    "__EMPTY_7": "Vision\nTo develop an ethical and innovative environment for the use and development of AI to accelerate Bangladesh’s path towards a middle-income country, as outlined in the Vision 2041 master plan and aligned with the UN’s Sustainable Development Goals (SDGs). \n\nMission \nEstablishing Bangladesh as a pioneer in AI innovation and adoption, creating a ‘Smart Bangladesh’ that leverages AI technologies for the well-being of all citizens, economic prosperity, and sustainable development in accord with four pillars; Smart Government, Smart Society, Smart Economy and Smart Citizen.\n\nObjectives\n-Ethical and secure AI governance and compliance\n-Foster AI innovation for the public sector\n-Promoting economic growth\n-Strenghten AI readiness",
+    "__EMPTY_8": "National AI Policy Bangladesh 2026-2030 (DRAFT V1.1)\n\nNational AI Policy 2026-30 (Draft V2.0)\n\n\n"
+  },
+  {
+    "__EMPTY_3": "1.1.2",
+    "__EMPTY_4": "AI Governance frameworks and regulations",
+    "__EMPTY_5": "UNESCO - Artificial Intelligence Readiness Assessment Report\n\n\n",
+    "__EMPTY_6": "As in AI Policy",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_3": "1.1.3",
+    "__EMPTY_4": "Ethical AI principles and guidelines",
+    "__EMPTY_5": "UNESCO - Artificial Intelligence Readiness Assessment Report",
+    "__EMPTY_6": "As in AI Policy",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_3": "1.1.4",
+    "__EMPTY_4": "Data protection and privacy legislation ",
+    "__EMPTY_5": "DLA Piper\nUNDP Digital Development Compass",
+    "__EMPTY_6": "The Personal Data Protection Ordinance, 2025 \n\n",
+    "__EMPTY_7": "Vision\nMake provisions for processing personal data of a person for the purposes of legitimate use ensuring privacy, confidentiality and security and recognizing the personal data as personal right of a data-subject\n\nMission \nCreating a unified framework that aligns with international standards and ensures privacy, confidentiality, and security of personal data, recognizing it as a right of the data subject.\n\nObjectives \n-Citizen focused control\n-Consent based processes\n-Digital sovereignty \n-Grievance redressal\n-Responsible data fiduciary"
+  },
+  {
+    "__EMPTY_6": "The Cybersecurity Ordinance, 2025",
+    "__EMPTY_7": "Mission\nStrengthen security through improved and focused legal frameworks\n\nObjectives\n-Defining roles and responsibilities of national cybersecurity institutions\n-Establishing cyberemergency response protocols\n-Imposing penalties for cyber offences and non-compliance\n-Safeguarding Critical Information Infrastructure (CII)"
+  },
+  {
+    "__EMPTY_3": "1.1.5",
+    "__EMPTY_4": "Sector-specific AI regulations (health, finance, education etc)",
+    "__EMPTY_5": "Government websites, reports, news articles",
+    "__EMPTY_7": "Education:  The government plans on mandating the integration of AI education across secondary, tertiary, and technical institutions according to the Draft National Artificial Intelligence Policy 2026-30\n\nHealthcare: National initiatives such as the Digital Health Strategy 2021–2026 and the Aspire to Innovate (a2i) program have already piloted e-health services in rural clinics. Private sector platforms like Jeeon, Praava Health, and Doctorola are expanding access to online consultations, prescriptions, and appointment scheduling for underserved populations.\n\nGovernance: \nAlgorithmic Impact Assessments (AIAs) are implemented to monitor AI deployment to prevent biases and promote transparency in public administration.",
+    "__EMPTY_8": "National Strategy for Artificial Intelligence Bangladesh"
+  },
+  {
+    "__EMPTY_1": 1.2,
+    "__EMPTY_2": "National AI Ecosystem \n- Implementation and Adoption",
+    "__EMPTY_3": "1.2.1",
+    "__EMPTY_4": "Government AI initiatives and projects (ongoing, pipeline)",
+    "__EMPTY_5": "Government digital transformation portals, ministry annual reports, budget documents etc",
+    "__EMPTY_6": "MyGov\nKagoj AI\n",
+    "__EMPTY_7": "MyGov\n A one-stop service access point of Bangladesh for all govt. services by which citizens can avail of 172 digitsed services across 7 sectors by using their single identity. \n\nKagoj AI\n\nBangladesh's first Artificial Intelligence platform for the Bangla language; it supports AI driven language processing in Bangla and is useful in digitising existing written work using a new Julai font, that measures the compatability between English and Bangla.  Kagoj AI does not find itself limited to institutional and official use and can also be accessed and utilised by larger public audiences for content creation and digital writing\n\nEnhancement of Bangla Language in ICT through Research & Development (EBLICT)\nJoint initiative by the ICT division and Bangaldesh Computer Council to increase inclusion of Bengali for AI development",
+    "__EMPTY_8": "\nMyGov\n\nGovernment introduces Bangla-based AI platform and new font for official use"
+  },
+  {
+    "__EMPTY_3": "1.2.2",
+    "__EMPTY_4": "Public and private sector AI use cases by domain (Just an overview-preliminary understanding)",
+    "__EMPTY_5": "DPI Use Cases Explorer",
+    "__EMPTY_6": "bKash\nEkshop\nMyBL\nNidle\n ",
+    "__EMPTY_7": "Government:\n\nEkshop\n\nEkshop is a government platform that acts as an \" e-commerce infrastructure backbone\" for Bangladesh. A rural assisted e-commerce platform; it has brought together over 12 thousand rural artisans on one platform and provide a space for the sale of over 80 lakh products, as of 2023.\n\nPrivate:\n\nbKash\n\nFrom 2021, bKash, a leading Mobile Financial Service (MFS) platform has introduced digital loans among other digital and financial services. bKash also saw a 24% increase in transactions and a 9% rise in its customer base in 2023.\n\nMyBL\n\nCurrently accessed by over 7.8 million active users monthly, MyBL (Banglalink’s all-in-one mobile app) is a lifestyle platform offering services in multiple avenues including education, healthcare and finance  \n\nNidle\n\nUsing IoT, Nidle allows workers and managers to monitor individual processes and performances, offering insights to optimize productivity and scaling while also decreasing wastage and rework. After its installation, there has been a 10% increase in productivity",
+    "__EMPTY_8": "bKash\n\nEkshop\n\nMyBL App Ultimate \n\nNidle Smart Factory Solution - Intellier"
+  },
+  {
+    "__EMPTY_3": "1.2.3",
+    "__EMPTY_4": "Availability of AI Infrastructure (Connectivity, Compute, Cloud etc)",
+    "__EMPTY_5": "ICT Development Index , Cloud Infrastructure Map",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "\n36 datacenters in Bangladesh"
+  },
+  {
+    "__EMPTY_1": 1.3,
+    "__EMPTY_2": "DPI Ecosystem\n-DPI Stack Maturity",
+    "__EMPTY_3": "1.3.1",
+    "__EMPTY_4": "Digital ID: Availability of National ID systems, biometric coverage, authentication mechanisms, interoperability etc",
+    "__EMPTY_5": "DPI Map",
+    "__EMPTY_6": "Present: National ID (DPI like)",
+    "__EMPTY_7": "National ID (Ongoing)\n\nThe National ID is a smart ID card containing an embedded microchip and featuring a unique 10-digit identification number – the National Identification Number (NIN). It is used to access public and private services such as banking, mobile registration and voter registration among other purposes. From 2011-2018, the World Bank Identification for Enhanced Access to Services (IDEAS) Project provided technical assistance. Due to implementation and policy delays, only 90 million NID cards (half the desired goal) was achieved by 2018",
+    "__EMPTY_8": "Bangladesh NID Application System "
+  },
+  {
+    "__EMPTY_3": "1.3.2",
+    "__EMPTY_4": "Digital Payments : Availability, Interoperability, financial inclusion",
+    "__EMPTY_5": "DPI Map",
+    "__EMPTY_6": "Present: National Payment Switch (DPI like)",
+    "__EMPTY_7": "\n National Payment Switch (Ongoing)\n\nOperational since 2012, the National Payment Switch Bangladesh (NPSB) is a platform that allows for seamless movement of funds from customers to banks to Mobile Financial Services (MFS) providers. It   supports extensive bank-to-wallet and MFS-to-MFS transactions,  with an aim to replace existing banking platforms with a unified, secure system\n Bank-to-MFS transfers fees set at Tk 1.5 per Tk 1,000; MFS-to-bank transfers set at Tk 8.5 per Tk 1,000; 2025",
+    "__EMPTY_8": "\nNPSB: National Payment Switch Bangladesh  \nBank-to-MFS and MFS-to-MFS money transfers via NPSB to start from 1 Nov | The Business Standard"
+  },
+  {
+    "__EMPTY_3": "1.3.3",
+    "__EMPTY_4": "Data Exchange: Availability, data sharing frameworks, consent mechanisms, interoperability standards",
+    "__EMPTY_5": "DPI Map",
+    "__EMPTY_6": "Present: National E-Service Bus (DPI like)",
+    "__EMPTY_7": "\n \n\n\nNational E-Service Bus (Ongoing)\n\nAs of a document from August 2025, the National E-Service Bus was being used by around 15 government agencies including the NID agency, National Board of Revenue, BTRC, the Ministry of Agriculture, and the Office of the Registrar General. The platform still requires upgrades for scaling and broader adoption. The World Bank group is assisting with the software upgrading of the bus, along with standardized API specifications, operational processes, and technical capacity for government agencies to leverage the platform for service delivery\n",
+    "__EMPTY_8": "BNDA National e-Service Bus \n\nProject Information Document (PID) \n\n"
+  },
+  {
+    "__EMPTY_3": "1.3.4",
+    "__EMPTY_4": "Any other DPI assets ",
+    "__EMPTY_5": "DPI Use Cases Explorer",
+    "__EMPTY_6": "Integrated Digital Service Delivery Platform",
+    "__EMPTY_7": "Integrated Digital Service Delivery Platform\n\nA one-stop service delivery platform with all the digital services under the scope of the Ministry of Science and Technology (MoST) and all its affiliated organizations"
+  },
+  {
+    "__EMPTY_3": "1.3.5",
+    "__EMPTY_4": "Service delivery: Presence of government digital services, citizen portals, service integration with DPIs",
+    "__EMPTY_5": "DPI Use Cases Explorer, Ministry websites",
+    "__EMPTY_6": "Dikkha (Digital Interactive Knack for Knowledgeable Human Assets)\nDoptor\nKrishi Batayan; Agricultural Window\n",
+    "__EMPTY_7": "Dikkha (Digital Interactive Knack for Knowledgeable Human Assets)\n\nA digital capacity building platform that focuses on providing students and teachers with technological support such as interactive classroom learning and help them upskill in an advanced technology like AI.\n\nDoptor\n\nA digital portal that provides adequate data on the entirety of Bangladesh and also provides a range of servies to all Bangladeshis and also individuals from outside of Bangladesh, making it accessible to everyone. It also aims on aiding the government and making e-service more efficient. Currently, it offers 10+ services and 40+ applications to about 14k offices and 140k users\n\nKrishi Batayan; Agricultural Window\n\nUnder the department of Agricultural Extension of Bangladesh, Krishi Batayan; Agricultural Window is an integrated information and service portal that provides farmers with information on agricultural technology, crops, weather forecasts, insecticides and pesticides.",
+    "__EMPTY_8": "Dikkha\n\nDoptor\n\nAgricultural Window "
+  },
+  {
+    "__EMPTY_1": 1.4,
+    "__EMPTY_2": "DPI Ecosystem\n-DPI Adoption ",
+    "__EMPTY_3": "1.4.1",
+    "__EMPTY_4": "Digital ID - No. of people enrolled",
+    "__EMPTY_5": "DPI Map, Secondary research ",
+    "__EMPTY_6": "Over 120 million citizens",
+    "__EMPTY_7": "-Over 120 million citizens, out of which only about 88.7 million cards have been printed. Out of this 88.7 million cards,  83.59% of cards or 72.79 million cards have been distributed while roughly 14.29 million cards or 16% of cards remain undistributed \n-As of Feb 2026, the threshold to include citizens has been lowered to 16-17 years of age from 18, increasing the number of enrollment",
+    "__EMPTY_8": "Identity is Infrastructure: Why Bangladesh Must Get Digital ID Right\n\nNine years on, Smart NID yet to reach all Bangladeshis"
+  },
+  {
+    "__EMPTY_3": "1.4.2",
+    "__EMPTY_4": "Digital Payments - No. of transaction per month ",
+    "__EMPTY_5": "DPI Map, Secondary research ",
+    "__EMPTY_6": "Tk 76,340 crore, as of Dec 2024",
+    "__EMPTY_7": "- Platforms like bKash, Nagad, the Real-Time Gross Settlement (RTGS) system, and the National Payment Switch Bangladesh facilitate more than 14 million transactions daily\n-The number of digital transactions rose from 36.67 crore in December 2023 to 40.31 crore in December 2024. Despite this, digital transactions only account for a small number of overall transactios, from 51% to 47%\n-The total value of digital transactions increased slightly, from Tk 75,140 crore to Tk 76,340 crore",
+    "__EMPTY_8": "Digital payments lose ground to cash despite growth in volume: BB | The Daily Star\n\nDigital Public Infrastructure: Landscape and Opportunities in South Asia"
+  },
+  {
+    "__EMPTY_3": "1.4.3",
+    "__EMPTY_4": "Data Exchange - No. of partners onboarded ",
+    "__EMPTY_5": "DPI Map, Secondary research ",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "-The e-service bus is being used by over 15 government agencies\n-Over 18+ private companies act as financial partners ",
+    "__EMPTY_8": "Digital Transformation in Bangladesh: Building an Integrated DPI"
+  },
+  {
+    "__EMPTY_3": "1.4.4",
+    "__EMPTY_4": "Other DPI assets",
+    "__EMPTY_5": "Secondary research ",
+    "__EMPTY_6": "Mentioned above"
+  },
+  {
+    "__EMPTY_3": "1.4.5",
+    "__EMPTY_4": "Digital inclusion gaps (geographic - Urban Rural, demographic - Gender, socioeconomic)",
+    "__EMPTY_5": "National surveys, ITU dataset",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "As of 2023, Only 44.5% of the population has access to the internet while 57.8 % of the population has an active mobile-broadband subscription. There exists a  gender gap of 13.2 % in internet access and 18.6 % in mobile phone access in 2022 as per Economist Impact\n\nPayment infrastructure, although improved through mobile money services, still suffers from slow interbank settlements and inconsistent connectivity, especially in rural regions. Cyberattacks on financial institutions remain a major concern, with 52% of banks classified as high-risk in 2022 and an estimated 630 attempted intrusions through phishing scams and ponzi schemes daily.\n\n",
+    "__EMPTY_8": "Bangladesh Artificial Intelligence Readiness Assessment Report"
+  },
+  {
+    "__EMPTY_3": "1.4.6",
+    "__EMPTY_4": "User experience, satisfaction ",
+    "__EMPTY_5": "Newspaper articles, civic society organisation reports",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "E-Government Development Index (composite measure of three important dimensions of e-government, namely: provision of online services, telecommunication connectivity and human capacity)\nScore - 0.657\nRank - 100 of 193\n\nOnline Service Index (OSI) is a component of the E-Government Development Index that assesses how well governments use technology to deliver public services at the national level\nBangaldesh ranks at 67th position with a score of 68.41",
+    "__EMPTY_8": "https://www.wipo.int/gii-ranking/en/indicators/313"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 | Scoping Report for Bangladesh\nBaseline view of the AI and DPI ecosystem in Bangladesh": 2,
+    "__EMPTY": "Political Economy",
+    "__EMPTY_1": 2.1,
+    "__EMPTY_2": "Political Stability and Institutional Capacity ",
+    "__EMPTY_3": "2.1.1",
+    "__EMPTY_4": "National election cycle\nPrevious and Upcoming Month and Year",
+    "__EMPTY_5": "Election Commission websites",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "Elections recently concluded"
+  },
+  {
+    "__EMPTY_3": "2.1.2",
+    "__EMPTY_4": "Governance structure - Centralised/Decentralised/Federal",
+    "__EMPTY_6": "Centralised",
+    "__EMPTY_7": "-Bangladesh is a democratic republic with a unicameral parliament called the Jatiya Sangsad\n-The president heads the state, currently President Abdul Hamid who is indirectly by the members of the parliament\n- Out of the 300 members of parliament, 50 seats are reserved for women\nThe president appoints the head of the winning party as prime minister, currently Prime Minister Sheikh Hasina \n- The prime minister, advised by the president appoint members of the cabinet; currently 45 members",
+    "__EMPTY_8": "Intergovernmental Profile: Bangladesh – Decentralization Net\n\nBangladesh"
+  },
+  {
+    "__EMPTY_3": "2.1.3",
+    "__EMPTY_4": "Political stability and continuity \n\nWorld bank map includes - Voice and accountability, political stability, government effectiveness, regulatory quality, rule of law, control of corruption ",
+    "__EMPTY_5": "Recent news articles, \nEconomist Intelligence Unit Political Stability Index, \nWorld Bank Governance Indicators ",
+    "__EMPTY_6": "Poor 'D' ranking, with major challenges in corrupution",
+    "__EMPTY_7": "The Worldwide Governance Indicators analyse 6 areas of governance by relying on surveys and expert knowledge to assess the quality of governments with their potential to implement policy and also taking into consideration, the perception of citizens towards the performance of the state and existing institutions. The aggregates are statistically determined on an absolute 1-100 scale. They can be classified as follows:\n-Voice and Accountability (The extent to which citizens can participate in the selection of government, their freedom of expression and holding officials accountable) : 36.53\n-Political Stability (Measures political motivated violance and/or terrorism) : 40.90\n-Government Effectiveness (Quality of public services) : 39.31\n-Regulatory Quality (Ability to implement sound policy and laws) : 39.88\n- Rule of Law (Quality of law enforcement) : 40.44 \n-Control of Corruption (Captures perceptions of extent to which public power could be misused for private gain) : 25.55 \n",
+    "__EMPTY_8": "World Bank Governance Indicators "
+  },
+  {
+    "__EMPTY_3": "2.1.4",
+    "__EMPTY_4": "Government's digital transformation priority in the last 5 years and next decade",
+    "__EMPTY_5": "PM/President recent speech, National Development Plan, Budgets",
+    "__EMPTY_6": "-Has transitioned from Digital Bangladesh (2009-2021) to Smart Bangladesh 2041, the priorities having shifted from foundational connectivity to a secure AI driven digital ecosystem\n- Aiming to train 20,000 cybersecurity experts by 2027 and 50,000 by 2030",
+    "__EMPTY_7": "The ICT Division Roadmap spans over 3 phases; Phase 1, Phase 2 and Phase 3\nPhase 1 (2025-26) : Prioritising immediate technological requirements\nPhase 2 (2027-28) : Scaling and optimisation\nPhase 3 (2029-30) : Achieving a digital economy",
+    "__EMPTY_8": "Bangladesh’s digital transformation roadmap draft: Key takeaways | The Daily Star\n\nBangladesh’s “phygital public infrastructure” bridges DPI theory and practice"
+  },
+  {
+    "__EMPTY_3": "2.1.5",
+    "__EMPTY_4": "Institutional capacity for policy implementation ",
+    "__EMPTY_5": "World Bank - Country Policy and Institutional Assessment ",
+    "__EMPTY_6": "CPIA Macroeconomic management rating (1 being the lowest to 6 being the highest) assesses the quality of policy implementation and institutional framework of a country with regards to reducing poverty and supporting sustainable growth",
+    "__EMPTY_7": "3 out of 6, as of 2024",
+    "__EMPTY_8": "World Bank - Country Policy and Institutional Assessment "
+  },
+  {
+    "__EMPTY_3": "2.1.6",
+    "__EMPTY_4": "Leadership/ Digital transformation champions within the cabinet, PM",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "-The Government of Bangladesh signed a strategic partnership with the e-Governance Academy (eGA) and the British Council to advance digital government\n-The MoU was signed by Dr Md. Taibur Rahman (on behalf of the ICT Division), by Md. Jalal Habibur Rahman (on behalf of the Cabinet Division), by Piret Kuhlbars (on behalf of eGA), and by Arsen Stepp (on behalf of the British Council)\n",
+    "__EMPTY_8": "The Government of Bangladesh signed a strategic partnership to advance digital government"
+  },
+  {
+    "__EMPTY_3": "2.1.7",
+    "__EMPTY_4": "Key decision makers and influencers",
+    "__EMPTY_6": "Government and Regulatory",
+    "__EMPTY_7": "a2i (Aspire to Innovate), Bangladesh Bank, ICT Division of the Ministry of Posts, Telecommunications and Information Technology",
+    "__EMPTY_8": "Digital Transformation in Bangladesh: Building an Integrated DPI"
+  },
+  {
+    "__EMPTY_3": "2.1.8",
+    "__EMPTY_4": "Technical expertise/ Dedicated authority/staff for digital transformation projects\n\nDIgital readiness of civil service",
+    "__EMPTY_6": "BGD e-GOV CIRT\nDigital Service Design Lab\nICT Division",
+    "__EMPTY_7": "-BGD e-GOV CIRT: Specialised authority for training civil servants\n\n-Digital Service Design Lab (DSDL): Collaborates with academia and ICT division to create transformation plans\n\n-ICT Division: Driving the reform roadmap for 2025-30\n\nCapacity building training programs for civil service officials, students and teachers "
+  },
+  {
+    "__EMPTY_3": "2.1.9",
+    "__EMPTY_4": "Civil society engagement levels",
+    "__EMPTY_6": "BRAC\nCRI \nDigital Rights Foundation Bangladesh,\nDnet\nManusher Jonno Foundation",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_3": "2.1.10",
+    "__EMPTY_4": "Overall governance and administrative culture ",
+    "__EMPTY_5": "Subjective question - need KIIs"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 | Scoping Report for Bangladesh\nBaseline view of the AI and DPI ecosystem in Bangladesh": 3,
+    "__EMPTY": "Mapping of Key Ecoosystem Actors and Initiatives",
+    "__EMPTY_1": 3.1,
+    "__EMPTY_2": "Government actors - National and Sub-national levels (Focus on National only)",
+    "__EMPTY_3": "3.1.1",
+    "__EMPTY_4": "Lead agency/ministry for digital transformation ",
+    "__EMPTY_5": "Govt. websites",
+    "__EMPTY_6": "Ministry of Posts, Telecommunications and Information Technology",
+    "__EMPTY_7": "Ministry of Posts, Telecommunications and Information Technology",
+    "__EMPTY_8": "Ministry of Posts, Telecommunications and Information Technology"
+  },
+  {
+    "__EMPTY_3": "3.1.2",
+    "__EMPTY_4": "AI and DPI implementation agencies (for foundational DPIs such as digital id, payments etc)",
+    "__EMPTY_6": "Bangladesh Bank\nElection Commision\nMinistry of ICT\nPorichoy",
+    "__EMPTY_7": "Bangladesh Bank: Regulates digital payment platform \n\nElection Commision: Manages National ID service\n\nMinistry of ICT: Digital policy and Smart Bangladesh 2041 planning\n\nPorichoy: Digital identity verification service",
+    "__EMPTY_8": "Bangladesh’s “phygital public infrastructure” bridges DPI theory and practice"
+  },
+  {
+    "__EMPTY_3": "3.1.3",
+    "__EMPTY_4": "Regulatory bodies and oversight agencies",
+    "__EMPTY_6": "Bangladesh Securities and Exchange Commission (BSEC)\nDirectorate General of Forces Intelligence (DGFI)\nDigital Security Agency (DSA)\nMicrocredit Regulatory Authority (MRA)\nNational Telecommunication Monitoring Center (NTMC)\n\n",
+    "__EMPTY_7": "Bangladesh Securities and Exchange Commission (BSEC): Responsible for regulating markets and financial services.\n\nDirectorate General of Forces Intelligence (DGFI): Focuses on network monitoring and content restriction.\n\nDigital Security Agency (DSA): Tasked with cybersecurity and overseeing data protection\n\nMicrocredit Regulatory Authority (MRA): Assigned with microfinance institutions to ensure compliance with financial regulations and consumer protection standards.\n\nNational Telecommunication Monitoring Center (NTMC): An agency under the Ministry of Home Affairs responsible for content blocking filtering and technical surveillance",
+    "__EMPTY_8": "Digital Transformation in Bangladesh: Building an Integrated DPI"
+  },
+  {
+    "__EMPTY_3": "3.1.4",
+    "__EMPTY_4": "Any innovation lab/ government accelerators ",
+    "__EMPTY_6": "Bangladesh Hi-Tech Park Authority (BHTPA)\nDEPP Innovation Labs (Safer Communities)\nDigital Entrepreneurship & Innovation Ecosystem Development (DEIED) Project\nInnovation Design and Entrepreneurship Academy (iDEA)\nStartup Bangladesh Limited",
+    "__EMPTY_7": "Bangladesh Hi-Tech Park Authority (BHTPA): Manages infrastructures like Bangabandhu Hi-Tech City and executes initiatives for 4IR technologies and IT skill development, supporting the hardware and software needs of DPI.\n\nDEPP Innovation Labs (Safer Communities): An initiative working in Bangladesh that builds local-level innovations for disaster preparedness and resilience, utilizing community-centered, user-focused design.\n\nDigital Entrepreneurship & Innovation Ecosystem Development (DEIED) Project: A project which focuses on scaling high-potential, homegrown digital ventures and stengthen startup ecosystems\n\nInnovation Design and Entrepreneurship Academy (iDEA): Provides mentorship and grants to early-stage tech entrepreneurs, fostering homegrown innovations that contribute to the digital ecosystem.\n\nStartup Bangladesh Limited: A flagship venture capital fund of the ICT Division that supports startups building innovative digital solutions",
+    "__EMPTY_8": "Digital Transformation in Bangladesh: Building an Integrated DPI"
+  },
+  {
+    "__EMPTY_3": "3.1.5",
+    "__EMPTY_4": "Parliamentary committee on digital transformation/technology/AI and DPI",
+    "__EMPTY_6": "a2i (Aspire to innovate)\nMinistry of ICT\nMinistry of Planning",
+    "__EMPTY_7": "a2i (Aspire to Innovate)\nA program for digital transformation in Bangladesh part of the ICT and Cabinet division launched in 2007 and funded by the UNDP, the Gates Foundation and the Government of Bangladesh.\n\nCentral catalyst for digital transformation and inclusve digitisation of public services, carrying out projects like Porichoy, G2P and NDX. a2i has successfully streamlined public service delivery in Bangladesh for many years through digital transformation and innovation",
+    "__EMPTY_8": "Digital Transformation in Bangladesh: Building an Integrated DPI\n\na2i (Aspire to Innovate)  "
+  },
+  {
+    "__EMPTY_3": "3.1.6",
+    "__EMPTY_4": "Chief digital officer/Lead - Team - Details ",
+    "__EMPTY_7": "\n"
+  },
+  {
+    "__EMPTY_1": 3.2,
+    "__EMPTY_2": "Private actors ",
+    "__EMPTY_3": "3.2.1",
+    "__EMPTY_4": "Major tech companies operating in the country ",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "BJIT Limited: A global IT firm that focuses on software development and outsourcing\n\nBrain Station 23 PLC: A software company that specialize in AI, fintech and e-commerce\n\nEnosis Solutions: A  software development team that assists owners and decision makers to implement digital initiatives ",
+    "__EMPTY_8": "BJIT\n\nBrain Station 23\n\nEnosis Solutions"
+  },
+  {
+    "__EMPTY_3": "3.2.2",
+    "__EMPTY_4": "AI/ML Solution providers",
+    "__EMPTY_5": "Gartner/IDC market reports",
+    "__EMPTY_6": "Acme AI\nRed.Digital Limited\n ",
+    "__EMPTY_7": "Acme AI : An outfit focusing on computer vision-based machine learning, fine tuning and image annotation services for training datasets.\n\nRed.Digital Limited: Specializes in AI/ML software development, offers IT and digital solutions",
+    "__EMPTY_8": "Acme AI \n\nRed.Digital Limited  "
+  },
+  {
+    "__EMPTY_3": "3.2.3",
+    "__EMPTY_4": "DPI tech vendors",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_3": "3.2.4",
+    "__EMPTY_4": "DPGs"
+  },
+  {
+    "__EMPTY_3": "3.2.5",
+    "__EMPTY_4": "Cloudeservice providers",
+    "__EMPTY_6": "CoLoCity Limited\nDhakacolo\nTirzok Cloud",
+    "__EMPTY_7": "CoLoCity Limited: Provides hybrid/private cloud services \n\nDhakacolo: Manages private cloud server solutions and provides a platform to build hybrid clouds\n\nTirzok Cloud: Specializes in private cloud infrastructure and customized networking solutions",
+    "__EMPTY_8": "CoLoCity Limited\n\nDhakacolo \n\nTirzok Cloud "
+  },
+  {
+    "__EMPTY_3": "3.2.6",
+    "__EMPTY_4": "Telecommunication operators ",
+    "__EMPTY_5": "Telecom regulatory authority data",
+    "__EMPTY_7": "GrameenPhone (Public): Largest mobile telecommunications operator in Bangladesh. Grameenphone Ltd. reported a total revenue of BDT 3,858 crore for the fourth quarter of 2025, registering a growth of 3.3% from the same period in 2024. It currently holds about 45% of the telecom market share\n\nRobi (Public): Second largest mobile network operator in Bangladesh; Robi’s total revenue for 2025 reached Tk 9,992.2 crore, which was 0.4 percent higher than 2024. It currently holds about 30% of the telecom market share\n\nBanglalink (Private): Third largest mobile network operator in Bangladesh; it holds about 20% of the telecom market share",
+    "__EMPTY_8": "Banglalink \n\nGrameenPhone\n\nFourth Quarter 2025\n\nRobi\n\nRobi posts record Tk 937 crore profit in 2025 \n\nTelecom Market share in Bangladesh"
+  },
+  {
+    "__EMPTY_3": "3.2.7",
+    "__EMPTY_4": "Fintech and digital payment providers",
+    "__EMPTY_5": "Central bank lists",
+    "__EMPTY_6": "Bkash \nNagad\nRocket",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_1": 3.3,
+    "__EMPTY_2": "Development partners and multilaterals - Digital transformation/AI/DPI\nAlong with details of ongoing projects",
+    "__EMPTY_3": "3.3.1",
+    "__EMPTY_4": "UN Agencies",
+    "__EMPTY_6": "\nUNDP\nUNESCO",
+    "__EMPTY_7": "-a2i (Access to information) is a flagship digitising programme that has been heavily supported by the UNDP\n-It recieved a budget of $100,000\n",
+    "__EMPTY_8": "Bangladesh advances responsible AI agenda through multi-partner cooperation\n\nMid-Term Evaluation: Aspire to Innovate (a2i) Programme"
+  },
+  {
+    "__EMPTY_3": "3.3.2",
+    "__EMPTY_4": "World Bank ",
+    "__EMPTY_6": "Bangladesh: Digital Service Transformation for Access and Resilience\n\nEnhancing Digital Government & Economy Project (EDGE)\n\n",
+    "__EMPTY_7": "Bangladesh: Digital Service Transformation for Access and Resilience:\n\nObjectives\n- Ensuring affordable, and quality broadband \n- Enabling Digital Services through DPI\n-  Providing digital skills and empowerment\n- Managing projects and implementing support \n- Contingent Emergency Response Component (CERC)\n\nEnhancing Digital Government & Economy Project (EDGE):\n\nObjective: To improve the efficiency and cybersecurity of digital government, increase digitally enabled employment and raise revenues of IT industry firms",
+    "__EMPTY_8": "Bangladesh: Digital Service Transformation for Access and Resilience \n\nEnhancing Digital Government & Economy Project  \n\n"
+  },
+  {
+    "__EMPTY_3": "3.3.3",
+    "__EMPTY_4": "Asian Development Bank",
+    "__EMPTY_5": "As of 2026",
+    "__EMPTY_6": "\n\nPromoting Artificial Intelligence-Enhanced Distribution Grids for Sustainability and Resilience\n\n\n\n\n\n",
+    "__EMPTY_7": "\n\nPromoting Artificial Intelligence-Enhanced Distribution Grids for Sustainability and Resilience\n\nProvide technical assistance in using AI in power infrastructure to yield better results and achieve climate sustainability and resilience\n\n\n",
+    "__EMPTY_8": "\nBangladesh and ADB \n\nPromoting Artificial Intelligence-Enhanced Distribution Grids for Sustainability and Resilience  \n"
+  },
+  {
+    "__EMPTY_3": "3.3.4",
+    "__EMPTY_4": "Others - Bilateral development agencies, International NGOs and Foundations, Global Tech Partners",
+    "__EMPTY_6": "Amazon\nJICA\nMicroSave Consulting",
+    "__EMPTY_7": "-Initiatives like Amazon Karigar and Amazon Saheli continues to support female artisans and entrepreneurs in Bangladesh by providing them a platform to sell their products and grow their businesses.\n\n-JICA has supported Bangladesh through a series of projects from the years 2019-24, and while some major projects have been executed, it continues to carry out other projects over a phased manner, as of 2025-26\n\n-MicroSave Consulting assisted with the end to end transformation of BURO, one of Bangladesh's leading MFIs by helping them adopt digital tecchnologies and having their workforce upskill to understand and provide efficient services to consumers",
+    "__EMPTY_8": "Harnessing Digital Transformation for Good: Asian Development Policy Report 2025\n\nRolling Plan for the People's Republic of Bangladesh \n\nThe Journey of Mobile Financial Services at BURO Bangladesh: A Lesson For The Microfinance Sector in Bangladesh"
+  },
+  {
+    "__EMPTY_1": 3.4,
+    "__EMPTY_2": "Academic and research institutions",
+    "__EMPTY_3": "3.4.1",
+    "__EMPTY_4": "Institutions (Universities, Think Tanks etc.) working in research on AI/DPI/Digital transformation ",
+    "__EMPTY_6": "\nAI Forum Bangladesh\n\nBRAC Institute of Governance and Development (BIGD)\n\nCentre for Policy Dialogue (CPD)\n\n",
+    "__EMPTY_7": "\nAI Forum Bangladesh\n\nAI Forum Bangladesh is an initiative aiming on proving mentorship and AI training to students and professionals while also promoting responsible AI for everyone\n\nBRAC Institute of Governance and Development (BIGD) \n\nBRAC Institute of Governance and Development (BIGD) has conducted rigorous research on digital innovation and solutions\n\nCentre for Policy Dialogue\n\nTthe Centre for Policy Dialogue (CPD) has hosted an expert group meeting under the programme titled “Achieving a Peaceful, Just, and Inclusive Society through Enhanced Engagement of Civil Society and Citizens in Bangladesh” to present an upcoming CPD study that explores how e-governance at the upazila level can strengthen institutional effectiveness, citizen trust, and public service delivery.",
+    "__EMPTY_8": "\n\nDigidev Initiative \n\nCPD Advances Local E-Governance with Focus on Inclusion\n\nAI Forum Bangladesh"
+  },
+  {
+    "__EMPTY_1": 3.5,
+    "__EMPTY_2": "Civil society ",
+    "__EMPTY_3": "3.5.1",
+    "__EMPTY_4": "Digital rights org, advocacy groups, grassroot innovation initiatives etc.",
+    "__EMPTY_6": "\n\nBangladesh NGOs Network for Radio and Communication (BNNRC)\n\nDigitally Right",
+    "__EMPTY_7": "\nBangladesh NGOs Network for Radio and Communication (BNNRC)\n\nSince the early 2000s, the Bangladesh NGOs Network for Radio and Communication (BNNRC) has been working with a focus on media development, building the capacity of CSOs on digital transformation and leveraging media and ICT. \n\nDigitally Right\n\nDigitally Right is a Bangladesh-based initiative working at the intersection of technology and society,  bridging local experiences to regional and global conversations and bringing global frameworks as actionable strategies for communities on ground.",
+    "__EMPTY_8": "\n\nBangladesh NGOs Network for Radio and Communication (BNNRC)\n\nDigitally Right"
+  },
+  {
+    "__EMPTY_1": 3.6,
+    "__EMPTY_2": "Mapping of Initiatives along with the implementation agency",
+    "__EMPTY_3": "3.6.1",
+    "__EMPTY_4": "National AI/DPI/Digital transformation strategy (National policy/Digital framework/E-governance blueprint/National cyber security policy/National AI policy etc.)",
+    "__EMPTY_6": "Draft National Digital Transformation Strategy and ICT Reform Roadmap 2025 \nNational Data Governance Ordinance, 2025",
+    "__EMPTY_7": "Draft National Digital Transformation Strategy and ICT Reform Roadmap 2025 \nVIsion\nTransforming Bangladesh into a digitally empowered, innovative, and inclusive society through ICT-driven sustainable growth.\n\nMission\nDrive digital transformation by strengthening governance, improving service delivery, and fostering economic development through strategic ICT initiatives\n\nObjectives\n-Empowering citizens\n-Independent data and AI authority\n-Massive AI driven upskilling and workforce transformation\n-Strengthening cybersecurity and data governance frameworks\n\nNational Data Governance Ordinance, 2025\nVision\nTo set up a national data management authority to define policies, oversee compliance, address complaints, and maintain a National Source Code Repository, preventing vendor lock-in and ensuring accountability across data processors and custodians.\n\nObjectives\n-Establish data sovereignty\n-Regulate data flow, especially cross border  \n-Enforcing accountability and strict data rules"
+  },
+  {
+    "__EMPTY_3": "3.6.2",
+    "__EMPTY_4": "Flagship AI and DPI projects",
+    "__EMPTY_6": "Mentioned above ",
+    "__EMPTY_7": "There is a rapid interest in building a phygital ecosystem but intiatives generally find themselves fragmented in nature due to the early stages of development "
+  },
+  {
+    "__EMPTY_3": "3.6.3",
+    "__EMPTY_4": "Failed or stalled initiatives",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "The AI policies and frameworks that could provide substantial grounding to many initiatives for the AI and DPI ecosystem still find themselves in draft stages, with data systems being siloed. This fragmentation further makes it difficult to effectively launch initiatives and/or sustain them long term"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 | Scoping Report for Bangladesh\nBaseline view of the AI and DPI ecosystem in Bangladesh": 4,
+    "__EMPTY": "Emerging opportunities, risks, and practical entry points",
+    "__EMPTY_1": 4.1,
+    "__EMPTY_2": "Opportunities",
+    "__EMPTY_3": "4.1.1",
+    "__EMPTY_4": "Upcoming projects, policy reforms, government mandates",
+    "__EMPTY_6": "Interbank Payment System (DPI like)",
+    "__EMPTY_7": "Unified Instant Payment System (Pipeline)\n\nFrom September 2025, the Bangladesh bank aims to develop an interoperable payment system with the Gates foundation to allow for instant transfers  from mobile wallets, bank accounts, non-bank accounts, or institutional accounts directly to any other account. The Bank aims to establish a fully interoperable payment system by July 2027. The system will will be built on a Mojaloop-based IIPS and aim to link banks, mobile financial systems, insurance firms and other financial institutions.",
+    "__EMPTY_8": "Bangladesh Bank to Build Mojaloop-Based IIPS  "
+  },
+  {
+    "__EMPTY_3": "4.1.2",
+    "__EMPTY_4": "Electoral transitions?",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "Elections recently concluded",
+    "__EMPTY_8": "Bangladesh Elections: Democratic Transition or Ideological Shift? - South Asia @ LSE"
+  },
+  {
+    "__EMPTY_3": "4.1.3",
+    "__EMPTY_4": "International commitments",
+    "__EMPTY_5": "WB, ADB, UNDP, 50-in-5 Websites",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "According to the 50 in 5 website, as a 'first mover' country, Bangladesh's DPI efforts have helped save 20.5 Billion USD and has helped reduce visits to public services by citizens down to 82%\n- It has enlisted three solutions in the DPG Registry, signifying a significant achievement in the commitment to digital public goods. These solutions include ekShop Marketplace, Grievance Redress System (GRS) & NISE Skills and Certification.",
+    "__EMPTY_8": "Bangladesh"
+  },
+  {
+    "__EMPTY_3": "4.1.4",
+    "__EMPTY_4": "Sectoral opportunities (Health, education, agri, social protection, governance)",
+    "__EMPTY_5": "Need to conduct KIIs to get this information "
+  },
+  {
+    "__EMPTY_1": 4.2,
+    "__EMPTY_2": "Risks - Technical ",
+    "__EMPTY_3": "4.2.1",
+    "__EMPTY_4": "Infrastructure inadequacy or unreliability ",
+    "__EMPTY_5": "These represent potential or forecasted risks. For the initial version of the document, we can rely on historical data points and the country’s development trajectory to validate whether these constitute the relevant risks.",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "Fragmented responsibility and lack of existing released guidelines "
+  },
+  {
+    "__EMPTY_3": "4.2.2",
+    "__EMPTY_4": "Data availability and quality ",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "Siloed "
+  },
+  {
+    "__EMPTY_3": "4.2.3",
+    "__EMPTY_4": "System interoperability issues",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "^"
+  },
+  {
+    "__EMPTY_3": "4.2.4",
+    "__EMPTY_4": "Technology lock-in and vendor dependency "
+  },
+  {
+    "__EMPTY_3": "4.2.5",
+    "__EMPTY_4": "Limitations in scalability of the project",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "Inadequate infrastructure, resource restrictions and political instability are prevalent project management issues in Bangladesh, according to research conducted by BRAC",
+    "__EMPTY_8": "Thesis on Evaluating Challenges in Project Management and Implementing Effective Solutions in Bangladesh"
+  },
+  {
+    "__EMPTY_3": "4.2.6",
+    "__EMPTY_4": "Issues in financial sustainability "
+  },
+  {
+    "__EMPTY_1": 4.3,
+    "__EMPTY_2": "Risks - Governance and Institutional ",
+    "__EMPTY_3": "4.3.1",
+    "__EMPTY_4": "Weak regulatory frameworks",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_3": "4.3.2",
+    "__EMPTY_4": "Institutional fragmentation and silos",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_3": "4.3.3",
+    "__EMPTY_4": "Capacity constraints",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_3": "4.3.4",
+    "__EMPTY_4": "Malpractices (Corruption), lack of accountability measures",
+    "__EMPTY_7": "A lack of synchronization among academic researchers, businessmen, politicians and policymakers as well as the users themselves makes it difficult to implement AI regulation in Bangladesh.",
+    "__EMPTY_8": "AI4Bangladesh: AI Ethics for Bangladesh - Challenges, Risks, Principles, and Suggestions | Proceedings of the 13th International Conference on Information & Communication Technologies and Development"
+  },
+  {
+    "__EMPTY_3": "4.3.5",
+    "__EMPTY_4": "Procurement processes"
+  },
+  {
+    "__EMPTY_1": 4.4,
+    "__EMPTY_2": "Risks - Social",
+    "__EMPTY_3": "4.4.1",
+    "__EMPTY_4": "Digital exclusion and inequality",
+    "__EMPTY_6": "-",
+    "__EMPTY_7": "-As of June 2024, the gender gap in internet use in Bangladesh stood at 0.767.\n- 66.8 % of the urban population uses the internet versus only 29.7 % of the rural population. In urban areas, 71.3 % of men and 62.4 % of women use the internet, while in rural areas, 36.6 % of men and 23 % of women are reported users\n-Internet usage in Bangladesh has reached about 47.4 per cent of the population but only 16 per cent of households have access to high-speed broadband internet\n- According to the Bangladesh Bureau of Statistics ICT Usage Survey 2025, only 3.7 per cent of rural residents use a computer or laptop, compared to 20.7 per cent in urban areas. \n- While 50% or more of the population is covered by mobile network, many have not subscribed to services due to various socioeconomic barriers\n- Senior citizens account for around 8 per cent of Bangladesh's population; many still struggle with digital interfaces in availing of banking, healthcare, and government services.",
+    "__EMPTY_8": "\nAI challenges Bangladesh's promise of inclusion  \n\nBangladesh Bureau of Statistics ICT Usage Survey 2025\n\nHarnessing Digital Transformation for Good: Asian Development Policy Report 2025  "
+  },
+  {
+    "__EMPTY_3": "4.4.2",
+    "__EMPTY_4": "Privacy violations and surveillance concerns"
+  },
+  {
+    "__EMPTY_1": 4.5,
+    "__EMPTY_2": "Risks - Political Economy risks",
+    "__EMPTY_3": "4.5.1",
+    "__EMPTY_4": "Political instability or transitions",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "-"
+  },
+  {
+    "__EMPTY_3": "4.5.2",
+    "__EMPTY_4": "Lack of sustained commitment",
+    "__EMPTY_6": "Mentioned above",
+    "__EMPTY_7": "Fragmented data and draft policies "
+  },
+  {
+    "__EMPTY_1": 4.6,
+    "__EMPTY_2": "Risks - Financial",
+    "__EMPTY_3": "4.6.1",
+    "__EMPTY_4": "Insufficient funding "
+  },
+  {
+    "__EMPTY_3": "4.6.2",
+    "__EMPTY_4": "Dependence on external financing",
+    "__EMPTY_7": "Could have an over reliance on donor funding; heavy reliance on foreign AI platforms raises questions of data sovereignty and national security. Findings from the  FY2025-26 national budget of Bangladesh reveal that 3.8% of total budget (BDT 30,020 crore) were explicitly allocated to AI literacy, digital infrastructure and 5G rollout",
+    "__EMPTY_8": "AI challenges Bangladesh's promise of inclusion  "
+  },
+  {
+    "__EMPTY_3": "4.6.3",
+    "__EMPTY_4": "High operational costs",
+    "__EMPTY_7": "The government has started aggressively pursuing AI and DPI development, building centres that  consume hundreds of megawatts of power daily, using millions of liters of groundwater and affecting Bangladesh, both economically and environmentally",
+    "__EMPTY_8": "Digital Dreams, Parched Reality: The Hidden Cost of Bangladesh’s Data Industry Gold Rush | Earth Journalism Network"
+  },
+  {
+    "__EMPTY_3": "4.6.4",
+    "__EMPTY_4": "Challenges in revenue generation etc",
+    "__EMPTY_6": "Mentioned above"
+  },
+  {
+    "__EMPTY_1": 4.7,
+    "__EMPTY_2": "Entry points for UNDP offices",
+    "__EMPTY_3": "4.7.1",
+    "__EMPTY_4": "Policy advisory",
+    "__EMPTY_5": "These will be determined by the data points collected from Sr. No. 1-4 and conversations with UNDP team and other country stakeholders \n\nThe entry points can be further divided into immediate, medium term and long term"
+  },
+  {
+    "__EMPTY_3": "4.7.2",
+    "__EMPTY_4": "Capacity building"
+  },
+  {
+    "__EMPTY_3": "4.7.3",
+    "__EMPTY_4": "Convening and facilitation roles, coalition building "
+  },
+  {
+    "__EMPTY_3": "4.7.4",
+    "__EMPTY_4": "Evidence generation and feasibility studies"
+  },
+  {
+    "__EMPTY_3": "4.7.5",
+    "__EMPTY_4": "AI/DPI use case development "
+  },
+  {
+    "__EMPTY_3": "4.7.6",
+    "__EMPTY_4": "Co-design of digital transformation programs"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 | Scoping Report for Bangladesh\nBaseline view of the AI and DPI ecosystem in Bangladesh": 5,
+    "__EMPTY": "Funding landscape",
+    "__EMPTY_1": 5.1,
+    "__EMPTY_2": "Multilateral development banks",
+    "__EMPTY_3": "5.1.1",
+    "__EMPTY_4": "ADB, World Bank, Other MDBs:\n\n- Current DPI and AI projects\n- Approved and pipeline financing\n- Strategic priorities and focus area over the next 5 years/decade\n-Financing instruments and supporting guidelines",
+    "__EMPTY_6": "Bangladesh: Digital Service Transformation for Access and Resilience\n\nEnhancing Digital Government & Economy Project (EDGE)\n\nPromoting Artificial Intelligence-Enhanced Distribution Grids for Sustainability and Resilience\n\n\n",
+    "__EMPTY_7": "\nWorld Bank - \n\n- Bangladesh: Digital Service Transformation for Access and Resilience\nFocus Area: Digital Development\nFinancing Instrument: Investment Project Financing (IPF)\nWorld Bank Group Financing : $300 million out of the $400 million required of the total operation cost. The additional $100 million comes from the Asian Infrastructure Investment Bank \n\n- Bangladesh: Enhancing Digital Government & Economy Project\nFocus Area: Digital Economy\nFinancing Instrument: Investment Project Financing (IPF)\nTotal Commitment : $295 million\n\nAsian Development Bank-\n\n-Promoting Artificial Intelligence-Enhanced Distribution Grids for Sustainability and Resilience\nFocus Area: Digital Development\nFinancing Instrument: Smart Energy Innovation Fund\nExternal Funds: $1 milion\n",
+    "__EMPTY_8": "Bangladesh: Digital Service Transformation for Access and Resilience \n\nEnhancing Digital Government & Economy Project \n\nPromoting Artificial Intelligence-Enhanced Distribution Grids for Sustainability and Resilience   \n\n\n\n"
+  },
+  {
+    "__EMPTY_1": 5.2,
+    "__EMPTY_2": "Bilateral development banks",
+    "__EMPTY_3": "5.2.1",
+    "__EMPTY_4": "Bilateral development partners:\n\n- Major donors active in the country \n- Geographic and Sectoral preferences\n- Digital development programs \n- Other modalities"
+  },
+  {
+    "__EMPTY_1": 5.3,
+    "__EMPTY_2": "Fostering Smart & Eco-Friendly Ship Recycling Experts through Physical AI in Bangladesh\nFunding: 13 million\n\nEstablishment of Bangladesh National Intelligent Cybersecurity Center and AI-Integrated Security Capacity Building\nFocus Area: Digital Development",
+    "__EMPTY_3": "5.3.1",
+    "__EMPTY_4": "-Foundations active in digital development in the country \n-Grant making priorities and cycles",
+    "__EMPTY_5": "Korea International Cooperation Agency (KOICA)",
+    "__EMPTY_6": "Fostering Smart & Eco-Friendly Ship Recycling Experts through Physical AI in Bangladesh\n\nEstablishment of Bangladesh National Intelligent Cybersecurity Center and AI-Integrated Security Capacity Building",
+    "__EMPTY_7": "Establishment of Bangladesh National Intelligent Cybersecurity Center and AI-Integrated Security Capacity Building\nFunding: $13 million\n\nFostering Innovative Technology Experts with a Focus on AI in Bangladesh\nFunding: $13 million\n\nFostering Smart & Eco-Friendly Ship Recycling Experts through Physical AI in Bangladesh\nFunding: $30 million",
+    "__EMPTY_8": "Koica grants $96m to boost Bangladesh's future in advanced tech, AI, and sustainable development | The Business Standard"
+  },
+  {
+    "__EMPTY_1": 5.4,
+    "__EMPTY_2": "Private Organisations",
+    "__EMPTY_3": "5.4.1",
+    "__EMPTY_4": "Private orgs"
+  },
+  {
+    "__EMPTY_1": 5.5,
+    "__EMPTY_2": "Government budget allocation",
+    "__EMPTY_3": "5.5.1",
+    "__EMPTY_4": "-National digital transformation budget\n-Ministry/agency-specific allocations etc.",
+    "__EMPTY_6": " ~$200 million to the ICT Division and $11 million to support digital entrepreneurship",
+    "__EMPTY_7": "The government has prioritized digitalization, allocating ~$200 million to the ICT Division and $11 million to support digital entrepreneurship in fiscal year (FY) 2024/25",
+    "__EMPTY_8": "Digital Public Infrastructure: Landscape and Opportunities in South Asia"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 | Scoping Report for Bangladesh\nBaseline view of the AI and DPI ecosystem in Bangladesh": 6,
+    "__EMPTY": "Partnership and engagement opportunities for UNDP",
+    "__EMPTY_1": 6.1,
+    "__EMPTY_2": "Strategic opportunities",
+    "__EMPTY_3": "6.1.1",
+    "__EMPTY_4": "Government partnerships?"
+  },
+  {
+    "__EMPTY_4": "Coordination and partnership with other UN agencies?"
+  },
+  {
+    "__EMPTY_4": "Multi-stakeholder partnership? ",
+    "__EMPTY_7": "Medium, at the national level",
+    "__EMPTY_8": "Bangladesh: Artificial Intelligence Readiness Assessment Report"
+  },
+  {
+    "__EMPTY_4": "University collaboration, joint research and evaluations?",
+    "__EMPTY_7": "Medium",
+    "__EMPTY_8": "Bangladesh: Artificial Intelligence Readiness Assessment Report"
+  },
+  {
+    "__EMPTY_4": "Knowledge exchange platform/DPI stewardship ?"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 | Scoping Report for Bangladesh\nBaseline view of the AI and DPI ecosystem in Bangladesh": 7,
+    "__EMPTY": "Synthesis and recommendation "
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 I  Scoping Report for Nepal\nBaseline view of the AI and DPI ecosystem in Nepal": "#",
+    "__EMPTY": "Heading",
+    "__EMPTY_1": "##",
+    "__EMPTY_2": "Sub-Heading",
+    "__EMPTY_3": "###",
+    "__EMPTY_4": "Parameters",
+    "__EMPTY_5": "Potential Sources",
+    "__EMPTY_6": "Country-specific information \n(Summary)",
+    "__EMPTY_7": "Country-specific information \n(Description)",
+    "__EMPTY_8": "Sources"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 I  Scoping Report for Nepal\nBaseline view of the AI and DPI ecosystem in Nepal": 1,
+    "__EMPTY": "AI and DPI Ecosystem",
+    "__EMPTY_1": 1.1,
+    "__EMPTY_2": "National AI Ecosystem \n- Policy and strategy",
+    "__EMPTY_3": "1.1.1",
+    "__EMPTY_4": "National AI strategy/policy status (adopted, draft, absent)",
+    "__EMPTY_5": "Government AI Readiness Index 2025 - Oxford Insights\nDigital Development Compass UNDP",
+    "__EMPTY_6": "National AI Policy, 2025",
+    "__EMPTY_7": "Vision\nTo build a human-Centered, ethical, and prosperous Nepal through Artificial Intelligence (AI) technology.\n\nMission\nTo maximize the use of Artificial Intelligence for the socio-economic development of the nation.\n\nGoals\n- Increase the contribution of the information technology sector to the Gross Domestic Product (GDP) by 1% through the optimal use of AI across all socio-economic sectors.\n- Improve Nepal’s position within the top 50 countries in the Global Government AI Readiness Index.\n- Produce at least five thousand skilled human resources in the field of AI within five years.\n- Establish AI Excellence Centres in all provinces within five years.\n- Achieve AI literacy for the entire population, including students at the basic education level.\n\nObjectives\n- Build a sustainable and reliable AI ecosystem.\n- Accelerate the economic growth rate through the optimal use of AI.\n- Enhance the effectiveness of public service delivery through AI applications.\n- Strengthen AI governance",
+    "__EMPTY_8": "National Artificial Intelligence (A.I.) Policy, 2025"
+  },
+  {
+    "__EMPTY_3": "1.1.2",
+    "__EMPTY_4": "AI Governance frameworks and regulations",
+    "__EMPTY_6": "As in AI policy"
+  },
+  {
+    "__EMPTY_3": "1.1.3",
+    "__EMPTY_4": "Ethical AI principles and guidelines",
+    "__EMPTY_5": "Digital Development Compass UNDP",
+    "__EMPTY_6": "As in AI policy"
+  },
+  {
+    "__EMPTY_3": "1.1.4",
+    "__EMPTY_4": "Data protection and privacy legislation ",
+    "__EMPTY_5": "Digital Development Compass UNDP",
+    "__EMPTY_6": "National Cyber Security Policy, 2023",
+    "__EMPTY_7": "Building a secure as well as Resilient Cyber Space.\n\nMission\nTo ensure information and data security and protection of information technology systems through a combination of people, process and technology by developing legal and institutional structure, enhancing public awareness and developing capacity.\n\nObjectives\n-Establish legal and institutional frameworks to build a secure cyber space.\n-Protect critical national infrastructure while reducing the risk of cyberattacks.\n-Enhance cyber security research, human resource development and enhancing capacity of existing workforce, to ensure a robust and strong cyber space.\n-Improve the reliability and security of digital technology-based services.\n-Exchange bilateral, regional and international coordination, knowledge sharing, and assistance to reduce cyber security related risks.\n\nGoal\nTo increase Nepal's Global Cyber Security Index (GCI) score from the current 44.99% to 60% within the next 5 years, 70% within 10 years, and 80% in the 15 years."
+  },
+  {
+    "__EMPTY_3": "1.1.5",
+    "__EMPTY_4": "Sector-specific AI regulations (health, finance, education etc)",
+    "__EMPTY_5": "Government websites, reports, news articles"
+  },
+  {
+    "__EMPTY_1": 1.2,
+    "__EMPTY_2": "National AI Ecosystem \n- Implementation and Adoption",
+    "__EMPTY_3": "1.2.1",
+    "__EMPTY_4": "Government AI initiatives and projects (ongoing, pipeline)",
+    "__EMPTY_5": "Government digital transformation portals, ministry annual reports, budget documents etc",
+    "__EMPTY_7": "Lalitpur Metropolitan City (LMC) has successfully deployed a pioneering AI-based intelligent traffic light system in certain major junctions in the city to manage the traffic situation more efficiently. This system uses real-time data to adjust timings at traffic signals automatically.\n\nSITA - Developed by UNFPA, in collaboration with the Ministry of Health and Population, UNFPA HQ’s IT Services Office, Google, and with support from the British Embassy Kathmandu, SITA is an AI platform to  rapidly analyze national datasets and generate detailed insights.\nIt scans thousands of variables in massive datasets like the Nepal Demographic and Health Survey (NDHS), runs the analysis, and outputs polished charts, tables, and even written narratives that match human quality. This helps in making real time decisions at national level.",
+    "__EMPTY_8": " https://nepaleconomicforum.org/a-view-on-the-national-ai-policy/\n\nhttps://asiapacific.unfpa.org/en/news/sita-nepals-new-ai-tool-could-change-how-country-uses-data"
+  },
+  {
+    "__EMPTY_3": "1.2.2",
+    "__EMPTY_4": "Public and private sector AI use cases by domain (Just an overview-preliminary understanding)",
+    "__EMPTY_5": "\nOECD - Digital Government Review ",
+    "__EMPTY_7": "Agriculture\nPlantsat Nepal is helping farmers manage their crops more efficiently through the use of their satellite monitoring data. They are also working to digitize crop and livestock insurance in Nepal, aiding insurance companies to optimize operational efficiency. Geokrishi has developed an ‘intelligent digital agriculture platform’ with the aim to help commercial as well as small-scale farmers overcome their challenges through a more data-driven approach.\n\nEducation\nCognify has developed a cognitive learning app that caters to the individual needs of each student through custom-made learning exercises. One of their major goals is to reduce the drop-out rates in schools by making learning personal and accessible for everyone",
+    "__EMPTY_8": " https://nepaleconomicforum.org/a-view-on-the-national-ai-policy/"
+  },
+  {
+    "__EMPTY_3": "1.2.3",
+    "__EMPTY_4": "Availability of AI Infrastructure (Connectivity, Compute, Cloud etc)",
+    "__EMPTY_5": "ICT Development Index , Cloud Infrastructure Map",
+    "__EMPTY_7": "10 datacenters in Nepal",
+    "__EMPTY_8": "https://www.datacentermap.com/nepal/"
+  },
+  {
+    "__EMPTY_1": 1.3,
+    "__EMPTY_2": "DPI Ecosystem\n-DPI Stack Maturity",
+    "__EMPTY_3": "1.3.1",
+    "__EMPTY_4": "National Digital Transformation Strategy / Policy",
+    "__EMPTY_5": "Digital Development Compass UNDP",
+    "__EMPTY_6": "Digital Nepal Framework, 2019",
+    "__EMPTY_7": "Digital based Social economic prosperity\n\nMission\nTo harness digital technologies as a catalyst to positively transform government, society and economy.\n\nObjectives\n-To strengthen the foundation for a knowledge-based society and digital economy.\n-To provide a framework for action aimed at leveraging digital technologies to achieve Sustainable Development Goals (SDGs).\n\n\nUnder the Digital Nepal framework, eight sectors – digital foundation, agriculture, health, education, energy, tourism, finance and urban infrastructure – and eighty initiatives have been identified to propel socioeconomic growth by unlocking their potential.",
+    "__EMPTY_8": "2019 DIGITAL NEPAL FRAMEWORK"
+  },
+  {
+    "__EMPTY_3": "1.3.2",
+    "__EMPTY_4": "Digital ID: Availability of National ID systems, biometric coverage, authentication mechanisms, interoperability etc",
+    "__EMPTY_5": "DPI Map",
+    "__EMPTY_6": "Rastriya Parichaya Patra; National Identity",
+    "__EMPTY_7": "\nRastriya Parichaya Patra; National Identity\n\nAs of 2025, over 17 million people have been registered which is about 57% of the population and approximately 6 million cards have been printed. Over 97% of local government units have switched to online civil registration of vital events like births and deaths, forming a foundational database. The government has also started making the card mandatory for certain services, such as banking, social security fund access, and real estate transactions. \n\nThe ID system is integrated with the Nagarik App and is mandated (in 28 districts) for accessing services like pensions and health insurance. It aims to unify credentials like voter ID, citizenship cards, and driving licenses. However, there is no operational authentication infrastructure i.e. KYC and most agencies still require physical documents",
+    "__EMPTY_8": "Digitization of Identity in Nepal: Efforts, Experiences and Effects"
+  },
+  {
+    "__EMPTY_3": "1.3.3",
+    "__EMPTY_4": "Digital Payments : Availability, Interoperability, financial inclusion",
+    "__EMPTY_5": "DPI Map",
+    "__EMPTY_6": "National Payments Interface (NPI)",
+    "__EMPTY_7": "National Payments Interface (NPI) (Ongoing)\n\nNational Payments Interface (NPI) is the consolidated set of APIs of multiple payment systems hosted by NCHL or any other institutions built in an Open API platform concept. It currently provides access to the Nepal Clearing House Limited- Interbank Payment System (NCHL-IPS) and Retail Payment System (RPS); underlying payment systems with the overlaying services built on top of the platform. \n\nNepal Clearing House Limited (NCHL), a public limited company, serves as the core operator of the country’s clearing, settlement, and switching infrastructure and functions as the backbone of the National Payment Switch, enabling interoperability across systems. \n\nIt has also implemented initiatives such as NepalPay QR and NepalPay Instant for real-time payments. QR payments are accepted by over 2 million merchants, with volumes growing 117% in a year. In 2024/25, NCHL processed 186 million transactions, covering 17% of total market volume but 77% of value. Also ~90% of government expenses are digital transactions.",
+    "__EMPTY_8": "National Payments Interface (NPI) - Nepal Clearing House Limited"
+  },
+  {
+    "__EMPTY_3": "1.3.4",
+    "__EMPTY_4": "Data Exchange: Availability, data sharing frameworks, consent mechanisms, interoperability standards",
+    "__EMPTY_5": "DPI Map",
+    "__EMPTY_6": "\n\nGovernment Cloud\n",
+    "__EMPTY_7": "Government Cloud (Pipeline)\n\nThe government of Nepal has partnered with various cloud service providers to build its cloud infrastructure and improve the delivery of e-governance services.\n\n Government Integrated Data Center (GIDC) is operational under the MoCIT",
+    "__EMPTY_8": "Government Cloud"
+  },
+  {
+    "__EMPTY_3": "1.3.5",
+    "__EMPTY_4": "Any other DPI assets ",
+    "__EMPTY_5": "DPI Use Cases Explorer"
+  },
+  {
+    "__EMPTY_3": "1.3.6",
+    "__EMPTY_4": "Service delivery: Presence of government digital services, citizen portals, service integration with DPIs",
+    "__EMPTY_5": "DPI Use Cases Explorer, Ministry websites",
+    "__EMPTY_7": "The ‘Nagarik App’ was launched on January 15, 2021 to deliver online services through a single online e-governance platform. It currently offers access to 61 public services. Howerver uptake remains low at around 800,000 users.\n\nSUSASAN has developed digital tools that have been adopted by multiple municipalities in Nepal. These include a data portal, citizen charter, grievance redressal and a municipality mobile app that provides municipality news, notices, services, policies and enables citizens to give feedback to local government",
+    "__EMPTY_8": "https://nagarikapp.gov.np/\n\nhttps://www.nepjol.info/index.php/njes2/article/view/82964/63413\n\nhttps://susasan.org/tools"
+  },
+  {
+    "__EMPTY_1": 1.4,
+    "__EMPTY_2": "DPI Ecosystem\n-DPI Adoption ",
+    "__EMPTY_3": "1.4.1",
+    "__EMPTY_4": "Digital ID - No. of people enrolled",
+    "__EMPTY_5": "DPI Map, Secondary research ",
+    "__EMPTY_6": "over 20 million ",
+    "__EMPTY_7": "As of 2026, over 20 million citizens have registered, but only half of the cards have been issued",
+    "__EMPTY_8": "https://www.myrepublica.nagariknetwork.com/amp/news/national-id-backlog-details-of-20m-collected-only-75m-cards-printed-19-46.html#:~:text=Listen,Related%20story"
+  },
+  {
+    "__EMPTY_3": "1.4.2",
+    "__EMPTY_4": "Digital Payments - No. of transaction per month ",
+    "__EMPTY_5": "DPI Map, Secondary research ",
+    "__EMPTY_6": "As of FY 2024/25",
+    "__EMPTY_7": "Nepal’s digital transactions hit Rs 98.43 trillion  ",
+    "__EMPTY_8": "https://english.nepalnews.com/s/business/nepals-digital-transactions-hit-rs-98-43-trillion-in-fy-2024-25/"
+  },
+  {
+    "__EMPTY_3": "1.4.3",
+    "__EMPTY_4": "Data Exchange - No. of partners onboarded ",
+    "__EMPTY_5": "DPI Map, Secondary research ",
+    "__EMPTY_6": "As of 2026",
+    "__EMPTY_7": "-The Nepal National Single Window (NNSW) acts as a central hub, integrating several Other Government Agencies (OGAs) with Customs.\n-This includes the Nagarik App that is used by about 48 government agencies"
+  },
+  {
+    "__EMPTY_3": "1.4.4",
+    "__EMPTY_4": "Other DPI assets",
+    "__EMPTY_5": "Secondary research "
+  },
+  {
+    "__EMPTY_3": "1.4.5",
+    "__EMPTY_4": "Digital inclusion gaps (geographic - Urban Rural, demographic - Gender, socioeconomic)",
+    "__EMPTY_5": "National surveys, ITU dataset",
+    "__EMPTY_7": "As of 2024, Nepal had 15.40 million users, representing 49.6% of the total population. Urban areas have much higher internet access rates (65%) compared to rural regions (22%)\n\nOnly 53% have 4G coverage, 5% have fixed broadband and just 56% have used the internet recently",
+    "__EMPTY_8": "https://nasc.org.np/sites/default/files/IT%20Infrastructure%20report.pdf"
+  },
+  {
+    "__EMPTY_3": "1.4.6",
+    "__EMPTY_4": "User experience, satisfaction ",
+    "__EMPTY_5": "Newspaper articles, civic society organisation reports",
+    "__EMPTY_7": "E-Government Development Index (composite measure of three important dimensions of e-government, namely: provision of online services, telecommunication connectivity and human capacity)\nScore - 0.578\nRank - 119 of 193\n\nOnline Service Index (OSI) is a component of the E-Government Development Index that assesses how well governments use technology to deliver public services at the national level\nBangaldesh ranks at 117th position with a score of 33.6",
+    "__EMPTY_8": "https://www.wipo.int/gii-ranking/en/indicators/313"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 I  Scoping Report for Nepal\nBaseline view of the AI and DPI ecosystem in Nepal": 2,
+    "__EMPTY": "Political Economy",
+    "__EMPTY_1": 2.1,
+    "__EMPTY_2": "Political Stability and Institutional Capacity ",
+    "__EMPTY_3": "2.1.1",
+    "__EMPTY_4": "National election cycle\nPrevious and Upcoming Month and Year",
+    "__EMPTY_5": "Election Commission websites",
+    "__EMPTY_6": "Previous cycle in 2022 next one in March, 2026",
+    "__EMPTY_7": "5 year election cycle. Mass and violent protests by youth against (popularily referred to as Gen Z protests) took place in September 2025 forcing the resignation of the Prime Minister Khadga Prasad Sharma Oli and desolution of the house of representatives. An interim government headed by former chief justice Sushila Karki has been appointed."
+  },
+  {
+    "__EMPTY_3": "2.1.2",
+    "__EMPTY_4": "Governance structure - Centralised/Decentralised/Federal",
+    "__EMPTY_6": "Federal",
+    "__EMPTY_7": "The Federal Democratic Republic of Nepal converted from a monarchy to a democratic republic in 2008, following a Maoist insurgency and eventually adopted a Federal governance structure in 2015.\nNepal introduced federalism in 2015 with the aim of addressing three challenges: \n- to devolve from a Kathmandu-based Hindu/Bramhin/Kshetri-centred centralised system of government\n- ensure that development is unilateral across all geographical terrain\n- increase citizen participation at all levels of the government\nThe governance structure currently established consists of seven administrative regions and a bicameral legislature. \n- There exists a president as the ceremonial head of the state, and a council of ministers, under the Prime Minister who becomes the head of government.\n- Ram Chandra Paudel currently serves as the President of Nepal, while Sushila Karki has been serving as an interim Prime Minister, following the resignation of the previous Prime Minister, K.P. Sharma Oli after the Genz Protests",
+    "__EMPTY_8": "Long Read: Nepal’s federalist ambiguities - South Asia @ LSE\n\nNepal\n"
+  },
+  {
+    "__EMPTY_3": "2.1.3",
+    "__EMPTY_4": "Political stability and continuity \n\nWorld bank map includes - Voice and accountability, polictical stability, government effectiveness, regulatory quality, rule of law, control of corruption ",
+    "__EMPTY_5": "Recent news articles, \nEconomist Intelligence Unit Political Stability Index, \nWorld Bank Governance Indicators ",
+    "__EMPTY_6": "Unstable. Since transition to democracy in 1990 Nepal has had 27 Prime Ministers. The country has also witnessed two mass protests in 2006 against the Monarchy and in 2025 against government corruption,  discontent with the economy and state of unemployment.\n\n1990- Transition to constitutional monarchy \n2008 - Democratic republic",
+    "__EMPTY_7": "The Worldwide Governance Indicators analyse 6 areas of governance by relying on surveys and expert knowledge to assess the quality of governments with their potential to implement policy and also taking into consideration, the perception of citizens towards the performance of the state and existing institutions. The aggregates are statistically determined on an absolute 1-100 scale. They can be classified as follows:\n-Voice and Accountability (The extent to which citizens can participate in the selection of government, their freedom of expression and holding officials accountable) : 55.80\n-Political Stability (Measures political motivated violance and/or terrorism) : 58.81\n-Government Effectiveness (Quality of public services) : 34.14\n-Regulatory Quality (Ability to implement sound policy and laws) : 46.15\n- Rule of Law (Quality of law enforcement) : 51.74 (Ranked 72 out of 143, as of 2025)\n-Control of Corruption (Captures perceptions of extent to which public power could be misused for private gain) : 35.05 (Ranked 107 out of 143, as of 2025)\n",
+    "__EMPTY_8": "World Bank Governance Indicators \n\nhttps://carnegieendowment.org/russia-eurasia/research/2025/09/nepal-gen-z-topple-government"
+  },
+  {
+    "__EMPTY_3": "2.1.4",
+    "__EMPTY_4": "Government's digital transformation priority in the last 5 years and next decade",
+    "__EMPTY_5": "PM/President recent speech, National Development Plan, Budgets",
+    "__EMPTY_6": "As in Digital Nepal Framework"
+  },
+  {
+    "__EMPTY_3": "2.1.5",
+    "__EMPTY_4": "Institutional capacity for policy implementation ",
+    "__EMPTY_5": "World Bank - Country Policy and Institutional Assessment ",
+    "__EMPTY_6": "CPIA Macroeconomic management rating (1 being the lowest to 6 being the highest) assesses the quality of policy implementation and institutional framework of a country with regards to reducing poverty and supporting sustainable growth",
+    "__EMPTY_7": " 3 out of 6, as of 2024",
+    "__EMPTY_8": "World Bank - Country Policy and Institutional Assessment "
+  },
+  {
+    "__EMPTY_3": "2.1.6",
+    "__EMPTY_4": "Leadership/ Digital transformation champions within the cabinet, PM",
+    "__EMPTY_7": "Prime Minister KP Sharma Oli in his previous tenure, had endorsed the Digital Nepal Framework 2019.\nHe has highlighted the need to accelerate good governance, development, and prosperity through the use of ICT. The National AI policy received cabinet approval during his tenure. ",
+    "__EMPTY_8": "https://risingnepaldaily.com/news/66941"
+  },
+  {
+    "__EMPTY_3": "2.1.7",
+    "__EMPTY_4": "Key decision makers and influencers"
+  },
+  {
+    "__EMPTY_3": "2.1.8",
+    "__EMPTY_4": "Technical expertise/ Dedicated authority/staff for digital transformation projects\n\nDIgital readiness of civil service",
+    "__EMPTY_7": "Nepal scores 0.439 on the GovTech Index reflecting weak systems and skills across government"
+  },
+  {
+    "__EMPTY_3": "2.1.9",
+    "__EMPTY_4": "Civil society engagement levels",
+    "__EMPTY_7": "Active civil society groups that have played a a significant role in the country's political and economic transformation during the past three decades.\nAs of 2019, there were 49,739 NGOs registered with the Social Welfare Council, 19,396 forest user groups, more than 33,000 community organizations registered with the Poverty Alleviation Fund.\nThink tanks that engage in technology policy also present such as Digital Rights Nepal, Federation of Computer Association Nepal etc ",
+    "__EMPTY_8": "https://www.britishcouncil.org.np/sites/default/files/nepal_cso_landsape_study_final_report.pdf"
+  },
+  {
+    "__EMPTY_3": "2.1.10",
+    "__EMPTY_4": "Overall governance and administrative culture ",
+    "__EMPTY_5": "Subjective question - need KIIs"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 I  Scoping Report for Nepal\nBaseline view of the AI and DPI ecosystem in Nepal": 3,
+    "__EMPTY": "Mapping of Key Ecoosystem Actors and Initiatives",
+    "__EMPTY_1": 3.1,
+    "__EMPTY_2": "Government actors - National and Sub-national levels (Focus on National only)",
+    "__EMPTY_3": "3.1.1",
+    "__EMPTY_4": "Lead agency/ministry for digital transformation ",
+    "__EMPTY_5": "Govt. websites",
+    "__EMPTY_7": "- Ministry of Communication and Information Technology\n- Nepal e-governance board (part of office of Prime Minsiter and Council of Ministers)"
+  },
+  {
+    "__EMPTY_3": "3.1.2",
+    "__EMPTY_4": "AI and DPI implementation agencies (for foundational DPIs such as digital id, payments etc)",
+    "__EMPTY_7": "Fonepay Payment service Ltd is Nepal's largest interoperable digitital payment network facilitating instant P2P and P2M payments. It is licensed as a payment system operator by Nepal Rastra Bank, the country's central bank.\nIt collaborated with NPCI to facilitate UPI payments in Nepal"
+  },
+  {
+    "__EMPTY_3": "3.1.3",
+    "__EMPTY_4": "Regulatory bodies and oversight agencies",
+    "__EMPTY_7": "Nepal Telecommunication Authority -  Telecom and internet services \nOffice of the Controller of Certification -  Overseeing the implementation of digital signatures and Public Key Infrastructure\nPress Council Nepal - statutary body for regulating online and traditional media",
+    "__EMPTY_8": "https://nexus.ingroupe.com/nepals-national-pki-relies-on-nexus\n\nhttps://digitalrightsnepal.org/wp-content/uploads/2025/05/Final-2022_organized.pdf"
+  },
+  {
+    "__EMPTY_3": "3.1.4",
+    "__EMPTY_4": "Any innovation lab/ government accelerators ",
+    "__EMPTY_7": "-  Digital Finance Innovation Hub lauched by Nepal Rastra Bank as a regulatory sandbox to test fintech pilots\n- National Innocation Centre and Nepal Technology Innovation Centre (both non-profits established in Kathmandu University)"
+  },
+  {
+    "__EMPTY_3": "3.1.5",
+    "__EMPTY_4": "Parliamentary committre on digital transformation/technology/AI and DPI",
+    "__EMPTY_7": "E-Governance board established vide e-Governance Commission ( Establishment and Operation ) Order 2079 to promote the use of electronic systems in public service delivery and government operations"
+  },
+  {
+    "__EMPTY_3": "3.1.6",
+    "__EMPTY_4": "Chief digital officer/Lead - Team - Details ",
+    "__EMPTY_7": "Dipesh Bista, Chief Executive Officer and Member Secretary, e-Governance Commission"
+  },
+  {
+    "__EMPTY_1": 3.2,
+    "__EMPTY_2": "Private actors ",
+    "__EMPTY_3": "3.2.1",
+    "__EMPTY_4": "Major tech companies operating in the country ",
+    "__EMPTY_7": "Domestic IT firms \n- Leapfrog : Cloud and AI solutions\n- F1Soft International : Fintech\n- Verisk Nepal (subsidiary of Verisk analytics) Software development and IT services\n- Fusemachines Nepal : AI solutions provider\n- CloudFactory Nepal: AI consutling\n- AI Automation Nepal :"
+  },
+  {
+    "__EMPTY_3": "3.2.2",
+    "__EMPTY_4": "AI/ML Solution providers",
+    "__EMPTY_5": "Gartner/IDC market reports",
+    "__EMPTY_7": "as above"
+  },
+  {
+    "__EMPTY_3": "3.2.3",
+    "__EMPTY_4": "DPI tech vendors"
+  },
+  {
+    "__EMPTY_3": "3.2.4",
+    "__EMPTY_4": "DPGs",
+    "__EMPTY_7": "Rumsan Associates has developed Rahat, a collection of open-source blockchain-based digital relief distribution management projects. This is a recognised DPG that can be used by humanitarian agencies to support marginalized communities",
+    "__EMPTY_8": "https://www.digitalpublicgoods.net/r/rahat"
+  },
+  {
+    "__EMPTY_3": "3.2.5",
+    "__EMPTY_4": "Cloudeservice providers",
+    "__EMPTY_7": "- DataHub Nepal \n- Kailash Cloud (GCP)\n- Cloudlaya (AWS, Alibaba cloud, GCP and Digital Ocean)"
+  },
+  {
+    "__EMPTY_3": "3.2.6",
+    "__EMPTY_4": "Telecommunication operators ",
+    "__EMPTY_5": "Telecom regulatory authority data",
+    "__EMPTY_7": "- Nepal Telecom (State-owned, 57% market share)\n- Ncell Axiata (Private, 36% market share)\n- Smart Telecom (Private, 6% market share)",
+    "__EMPTY_8": "https://nta.gov.np/uploads/contents/MIS%202079%20Magh.pdf"
+  },
+  {
+    "__EMPTY_3": "3.2.7",
+    "__EMPTY_4": "Fintech and digital payment providers",
+    "__EMPTY_5": "Central bank lists",
+    "__EMPTY_7": "\n\neSewa and Khalti - Digital wallet and online payment services (private)"
+  },
+  {
+    "__EMPTY_1": 3.3,
+    "__EMPTY_2": "Development partners and multilaterals - Digital transformation/AI/DPI\nAlong with details of ongoing projects",
+    "__EMPTY_3": "3.3.1",
+    "__EMPTY_4": "UN Agencies",
+    "__EMPTY_7": "UDNP - In 2021, UNDP Nepal implemented development programmes across Nepal with a total expenditure of $20.4 million, of which 49 percent was resources from UNDP core funding. The remaining 51 percent was mobilized from bilateral and multilateral donors and agencies, Global Environment Facility, Global Climate Fund, and other sources",
+    "__EMPTY_8": "https://www.undp.org/nepal/funding-delivery"
+  },
+  {
+    "__EMPTY_3": "3.3.2",
+    "__EMPTY_4": "World Bank ",
+    "__EMPTY_7": "The World Bank and the ADB jointly co-financE the Nepal Digital Transformation Project contributing $50 million and $ 40 million respectively. It aims to nvest in digital platforms including an integrated online citizen service portal and an integrated social registry; a secure government-wide data exchange; and a digital locker to manage verifiable credentials and digital wallet.",
+    "__EMPTY_8": "https://www.worldbank.org/en/news/press-release/2026/02/09/nepal-world-bank-approves-50-million-digital-transformation-project"
+  },
+  {
+    "__EMPTY_3": "3.3.3",
+    "__EMPTY_4": "Asian Development Bank"
+  },
+  {
+    "__EMPTY_3": "3.3.4",
+    "__EMPTY_4": "Others - Bilateral development agencies, International NGOs and Foundations, Global Tech Partners"
+  },
+  {
+    "__EMPTY_1": 3.4,
+    "__EMPTY_2": "Academic and research institutions",
+    "__EMPTY_3": "3.4.1",
+    "__EMPTY_4": "Institutions (Universities, Think Tanks etc.) working in research on AI/DPI/Digital transformation ",
+    "__EMPTY_7": "Open Knowledge Nepal"
+  },
+  {
+    "__EMPTY_1": 3.5,
+    "__EMPTY_2": "Civil society ",
+    "__EMPTY_3": "3.5.1",
+    "__EMPTY_4": "Digital rights org, advocacy groups, grassroot innovation initiatives etc.",
+    "__EMPTY_7": "Digital Rights Nepal, non-profit dedicated to the protection and promotion of digital rights in Nepal\n\nfocuses on digital rights issues such as right to online freedom of expression and association, online privacy, access to information, internet governance, cyber laws/policies and cyber securities."
+  },
+  {
+    "__EMPTY_1": 3.6,
+    "__EMPTY_2": "Mapping of Initiatives along with the implementation agency",
+    "__EMPTY_3": "3.6.1",
+    "__EMPTY_4": "National AI/DPI/Digital transformation strategy (National policy/Digital framework/E-governance blueprint/National cyber security policy/National AI policy etc.)",
+    "__EMPTY_7": "Covered in https://docs.google.com/document/d/1fkS-vL6lOiX4vC5YfVEqGEmiGCafAZE8zq9ZgcYeDvA/edit?tab=t.wcy24r1uwpnr"
+  },
+  {
+    "__EMPTY_3": "3.6.2",
+    "__EMPTY_4": "Flagship AI and DPI projects"
+  },
+  {
+    "__EMPTY_3": "3.6.3",
+    "__EMPTY_4": "Failed or stalled initiatives",
+    "__EMPTY_7": "In 2024, the World Bank cancelled a $110 million loan agreement for the Digital Nepal Acceleration project, two years after signingdue to the lack of clarity on implementation",
+    "__EMPTY_8": "https://english.biznessnews.com/posts/nepal-to-resign-world-bank-loan-for-digital-transformation-"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 I  Scoping Report for Nepal\nBaseline view of the AI and DPI ecosystem in Nepal": 4,
+    "__EMPTY": "Emerging opportunities, risks, and practical entry points",
+    "__EMPTY_1": 4.1,
+    "__EMPTY_2": "Opportunities",
+    "__EMPTY_3": "4.1.1",
+    "__EMPTY_4": "Upcoming projects, policy reforms, government mandates",
+    "__EMPTY_7": "Uncertain since elections due to be held shortly"
+  },
+  {
+    "__EMPTY_3": "4.1.2",
+    "__EMPTY_4": "Electoral transitions?",
+    "__EMPTY_7": "Scheduled for March 2026"
+  },
+  {
+    "__EMPTY_3": "4.1.3",
+    "__EMPTY_4": "International commitments",
+    "__EMPTY_5": "WB, ADB, UNDP, 50-in-5 Websites",
+    "__EMPTY_7": "- Nepal is not part of 50-in-5 initiative\n- WB and ADB jointly co-financing Nepal Digital Transformation\n - DPI architectural gap assessment on backend systems being conducted with support from WB"
+  },
+  {
+    "__EMPTY_3": "4.1.4",
+    "__EMPTY_4": "Sectoral opportunities (Health, education, agri, social protection, governance)",
+    "__EMPTY_5": "Need to conduct KIIs to get this information "
+  },
+  {
+    "__EMPTY_1": 4.2,
+    "__EMPTY_2": "Risks - Technical ",
+    "__EMPTY_3": "4.2.1",
+    "__EMPTY_4": "Infrastructure inadequacy or unreliability ",
+    "__EMPTY_5": "These represent potential or forecasted risks. For the initial version of the document, we can rely on historical data points and the country’s development trajectory to validate whether these constitute the relevant risks.",
+    "__EMPTY_7": "Government Integrated Data Center (GIDC) is understaffed and lacks resources including technical infrastructure which led to outages and data loss across 10–15 agencies in 2023",
+    "__EMPTY_10": "Nepal’s regulatory environment remains constrained by weak, outdated laws: the 2022 Data Act lacks enforcement and private sector scope, and the 2024 Draft Cyber Bill raises privacy and clarity concerns, while interoperability standards are rarely enforced\n\n Nepal lacks a functioning data exchange framework: data sharing is manual, inconsistent, and blocked by legal and procedural gaps.395 Core elements like APIs, verifiable credentials, and crucial registries such as for land and business are absent"
+  },
+  {
+    "__EMPTY_3": "4.2.2",
+    "__EMPTY_4": "Data availability and quality ",
+    "__EMPTY_7": "Nepal lacks a functioning data exchange framework: data sharing is manual, inconsistent, and blocked by legal and procedural gaps"
+  },
+  {
+    "__EMPTY_3": "4.2.3",
+    "__EMPTY_4": "System interoperability issues",
+    "__EMPTY_7": "Independent digital systems are advancing (e.g., smart meters [energy], Insurance Management Information System [health], and tax systems [revenue]), but without coordination they become siloed and non-interoperable"
+  },
+  {
+    "__EMPTY_3": "4.2.4",
+    "__EMPTY_4": "Technology lock-in and vendor dependency "
+  },
+  {
+    "__EMPTY_3": "4.2.5",
+    "__EMPTY_4": "Limitations in scalability of the project"
+  },
+  {
+    "__EMPTY_3": "4.2.6",
+    "__EMPTY_4": "Issues in financial sustainability "
+  },
+  {
+    "__EMPTY_1": 4.3,
+    "__EMPTY_2": "Risks - Governance and Institutional ",
+    "__EMPTY_3": "4.3.1",
+    "__EMPTY_4": "Weak regulatory frameworks",
+    "__EMPTY_7": "Interoperability framework exists but is not enforced"
+  },
+  {
+    "__EMPTY_3": "4.3.2",
+    "__EMPTY_4": "Institutional fragmentation and silos",
+    "__EMPTY_7": "MoCIT has limited coordination power, and the e-Governance Board lacks formal authority."
+  },
+  {
+    "__EMPTY_3": "4.3.3",
+    "__EMPTY_4": "Capacity constraints",
+    "__EMPTY_7": "DPI understanding remains low beyond central ministries, limiting sectoral uptake\nNepal scores 0.439 on the GovTech Index, reflecting weak systems and skills across government"
+  },
+  {
+    "__EMPTY_3": "4.3.4",
+    "__EMPTY_4": "Malpractices (Corruption), lack of accountability measures",
+    "__EMPTY_7": "Multiple cases involving former prime ministers, ministers, and bureaucrats in construction of Pokhara airport, purchase of a Telecommunications Traffic Monitoring and Fraud Control System etc"
+  },
+  {
+    "__EMPTY_3": "4.3.5",
+    "__EMPTY_4": "Procurement processes"
+  },
+  {
+    "__EMPTY_1": 4.4,
+    "__EMPTY_2": "Risks - Social",
+    "__EMPTY_3": "4.4.1",
+    "__EMPTY_4": "Digital exclusion and inequality",
+    "__EMPTY_7": "Connectivity and DPI access poor in rural and mountainous areas"
+  },
+  {
+    "__EMPTY_3": "4.4.2",
+    "__EMPTY_4": "Privacy violations and surveillance concerns",
+    "__EMPTY_7": "- 2024 Draft Cyber Bill raises privacy concerns, similarly concerns plague the Nagarik app\n- Lack of data protection authority and legislation"
+  },
+  {
+    "__EMPTY_1": 4.5,
+    "__EMPTY_2": "Risks - Political Economy risks",
+    "__EMPTY_3": "4.5.1",
+    "__EMPTY_4": "Political instability or transitions",
+    "__EMPTY_7": "High and frequent"
+  },
+  {
+    "__EMPTY_3": "4.5.2",
+    "__EMPTY_4": "Lack of sustained commitment",
+    "__EMPTY_7": "Follows from above"
+  },
+  {
+    "__EMPTY_1": 4.6,
+    "__EMPTY_2": "Risks - Financial",
+    "__EMPTY_3": "4.6.1",
+    "__EMPTY_4": "Insufficient funding "
+  },
+  {
+    "__EMPTY_3": "4.6.2",
+    "__EMPTY_4": "Dependence on external financing",
+    "__EMPTY_7": "High "
+  },
+  {
+    "__EMPTY_3": "4.6.3",
+    "__EMPTY_4": "High operational costs"
+  },
+  {
+    "__EMPTY_3": "4.6.4",
+    "__EMPTY_4": "Challenges in revenue generation etc"
+  },
+  {
+    "__EMPTY_1": 4.7,
+    "__EMPTY_2": "Entry points for UNDP offices",
+    "__EMPTY_3": "4.7.1",
+    "__EMPTY_4": "Policy advisory",
+    "__EMPTY_5": "These will be determined by the data points collected from Sr. No. 1-4 and conversations with UNDP team and other country stakeholders \n\nThe entry points can be further divided into immediate, medium term and long term"
+  },
+  {
+    "__EMPTY_3": "4.7.2",
+    "__EMPTY_4": "Capacity building"
+  },
+  {
+    "__EMPTY_3": "4.7.3",
+    "__EMPTY_4": "Convening and facilitation roles, coalition building "
+  },
+  {
+    "__EMPTY_3": "4.7.4",
+    "__EMPTY_4": "Evidence generation and feasibility studies"
+  },
+  {
+    "__EMPTY_3": "4.7.5",
+    "__EMPTY_4": "AI/DPI use case development "
+  },
+  {
+    "__EMPTY_3": "4.7.6",
+    "__EMPTY_4": "Co-design of digital transformation programs"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 I  Scoping Report for Nepal\nBaseline view of the AI and DPI ecosystem in Nepal": 5,
+    "__EMPTY": "Funding landscape",
+    "__EMPTY_1": 5.1,
+    "__EMPTY_2": "Multilateral development banks",
+    "__EMPTY_3": "5.1.1",
+    "__EMPTY_4": "ADB, World Bank, Other MDBs:\n\n- Current DPI and AI projects\n- Approved and pipeline financing\n- Strategic priorities and focus area over the next 5 years/decade\n-Financing instruments and supporting guidelines"
+  },
+  {
+    "__EMPTY_1": 5.2,
+    "__EMPTY_2": "Bilateral development banks",
+    "__EMPTY_3": "5.2.1",
+    "__EMPTY_4": "Bilateral development partners:\n\n- Major donors active in the country \n- Geographic and Sectoral preferences\n- Digital development programs \n- Other modalities"
+  },
+  {
+    "__EMPTY_1": 5.3,
+    "__EMPTY_2": "Philanthropic and Private Foundations",
+    "__EMPTY_3": "5.3.1",
+    "__EMPTY_4": "-Foundations active in digital development in the country \n-Grant making priorities and cycles"
+  },
+  {
+    "__EMPTY_1": 5.4,
+    "__EMPTY_2": "Government budget allocation",
+    "__EMPTY_3": "5.4.1",
+    "__EMPTY_4": "-National digital transformation budget\n-Ministry/agency-specific allocations etc."
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 I  Scoping Report for Nepal\nBaseline view of the AI and DPI ecosystem in Nepal": 6,
+    "__EMPTY": "Partnership and engagement opportunities for UNDP",
+    "__EMPTY_1": 6.1,
+    "__EMPTY_2": "Strategic opportunities",
+    "__EMPTY_3": "6.1.1",
+    "__EMPTY_4": "Government partnerships?",
+    "__EMPTY_7": "without a unified DPI road map and stronger coordination mechanisms, earlier governance gaps are likely to persist, offering opportunities for development partners to continue providing targeted institutional support."
+  },
+  {
+    "__EMPTY_4": "Coordination and partnership with other UN agencies?"
+  },
+  {
+    "__EMPTY_4": "Multi-stakeholder partnership? "
+  },
+  {
+    "__EMPTY_4": "University collaboration, joint research and evaluations?"
+  },
+  {
+    "__EMPTY_4": "Knowledge exchange platform/DPI stewardship ?"
+  },
+  {
+    "UNDP Digital Transformation Project | Deliverable 1 I  Scoping Report for Nepal\nBaseline view of the AI and DPI ecosystem in Nepal": 7,
+    "__EMPTY": "Synthesis and recommendation "
+  }
+]
