@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { Globe, ExternalLink } from 'lucide-react';
+import { Globe, ExternalLink, ShieldCheck } from 'lucide-react';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 
@@ -118,6 +118,14 @@ export default function MacroOverview() {
                         Dive deeper into specific nations to view comprehensive ecosystem assessments, granular infrastructure metrics, and strategic insights.
                     </p>
                 </div>
+                <div className="flex items-center gap-3 mb-5">
+                    <Link
+                        href="/scoring"
+                        className="inline-flex items-center gap-5 px-4 py-2 bg-white border border-slate-200 text-slate-700 font-medium text-sm rounded-xl hover:bg-slate-50 hover:text-blue-600 hover:border-blue-200 transition-all shadow-sm cursor-pointer"
+                    >
+                        <ShieldCheck className="w-6 h-6" /> Scoring Methodology
+                    </Link>
+                </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {countryCards.map((country) => (
                         <motion.div
@@ -127,7 +135,7 @@ export default function MacroOverview() {
                             className={`bg-white rounded-3xl p-8 border border-slate-200 shadow-sm flex flex-col justify-between group relative overflow-hidden transition-all duration-300 ${country.hoverBorder}`}
                         >
                             <div className={`absolute top-0 right-0 w-36 h-36 bg-gradient-to-br ${country.gradientSubtle} to-transparent rounded-bl-full opacity-60 group-hover:opacity-100 transition-opacity duration-300`}></div>
-                            
+
                             <div className="relative z-10">
                                 <div className="flex items-center gap-4 mb-5">
                                     <div className={`p-3.5 rounded-2xl ${country.bgSubtle} ${country.textAccent} group-hover:scale-110 transition-transform duration-300`}>
@@ -135,11 +143,11 @@ export default function MacroOverview() {
                                     </div>
                                     <h3 className="text-2xl font-bold text-slate-900 capitalize tracking-tight">{country.name}</h3>
                                 </div>
-                                
+
                                 <p className="text-slate-600 text-sm mb-6 leading-relaxed">
                                     {country.description}
                                 </p>
-                                
+
                                 <div className="space-y-2.5 mb-8">
                                     {country.highlights.map((h, index) => (
                                         <div key={index} className="flex items-center gap-2.5 text-sm text-slate-500">
@@ -149,7 +157,7 @@ export default function MacroOverview() {
                                     ))}
                                 </div>
                             </div>
-                            
+
                             <Link href={`/countries/${country.id}`} className={`relative z-10 inline-flex items-center justify-center gap-2 w-full py-3.5 px-5 bg-slate-50 ${country.hoverBg} ${country.hoverText} text-slate-700 font-bold rounded-xl transition-all duration-300 group-hover:shadow-md mt-auto border border-slate-100 hover:border-transparent`}>
                                 <span>View Profile</span>
                                 <ExternalLink className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
