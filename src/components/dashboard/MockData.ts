@@ -1233,11 +1233,6 @@ export const nepalData: CountryDetailData = {
     deviceAccess: 95.5,
     digitalInclusion: "Higher internet access in urban areas (65%) versus rural regions (22%). Only 53% have 4G coverage.",
     dataCenters: "37 data centres (Internet Society: Pulse)",
-    leadershipQuote: {
-      text: "Accelerating good governance, development, and prosperity through the use of ICT is the foundation of our nation's digital journey.",
-      author: "KP Sharma Oli",
-      context: "Prime Minister of Nepal (Digital Nepal Framework)"
-    },
     politicalSubParameters: [
       {
         label: "Elections",
